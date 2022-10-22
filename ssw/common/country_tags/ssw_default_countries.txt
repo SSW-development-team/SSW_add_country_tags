@@ -39,7 +39,6 @@ KAY	= "countries/Asia.txt"	#カヤー
 KGS	= "countries/Asia.txt"	#鹿児島
 KGW	= "countries/Asia.txt"	#香川
 KHA	= "countries/Asia.txt"	#ハバロフスク
-KHA	= "countries/Asia.txt"	#ハバロフスク
 KHM	= "countries/Asia.txt"	#カム
 KIR	= "countries/Asia.txt"	#キリバス
 KMM	= "countries/Asia.txt"	#熊本

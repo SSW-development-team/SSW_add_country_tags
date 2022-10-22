@@ -1165,10 +1165,6 @@ KHA = {	#ハバロフスク
 	color = rgb { 59 148 65 }
 	color_ui = rgb { 59 148 65 }
 }
-KHA = {	#ハバロフスク
-	color = rgb { 59 148 65 }
-	color_ui = rgb { 59 148 65 }
-}
 KHM = {	#カム
 	color = rgb { 16 123 231 }
 	color_ui = rgb { 16 123 231 }
