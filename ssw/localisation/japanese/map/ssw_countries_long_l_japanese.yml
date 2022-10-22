@@ -1,0 +1,2322 @@
+﻿l_japanese:
+##バニラ
+#アジア
+ ABK_republic:0 "アブハジア共和国"
+ ABK_republic_DEF:0 "アブハジア共和国"
+ 
+ AFG_kingdom:0 "アフガニスタン王国"
+ AFG_kingdom_DEF:0 "アフガニスタン王国"
+ AFG_republic:0 "アフガニスタン共和国"
+ AFG_republic_DEF:0 "アフガニスタン共和国"
+ AFG_republic_marxism-leninism:0 "アフガニスタン民主共和国"
+ AFG_republic_marxism-leninism_DEF:0 "アフガニスタン民主共和国"
+ AFG_republic_progressive_socialism:0 "アフガニスタン民主共和国"
+ AFG_republic_progressive_socialism_DEF:0 "アフガニスタン民主共和国"
+ 
+ ALT_republic:0 "アルタイ共和国"
+ ALT_republic_DEF:0 "アルタイ共和国"
+ 
+ ARM_republic:0 "アルメニア共和国"
+ ARM_republic_DEF:0 "アルメニア共和国"
+ 
+ AZR_republic:0 "アゼルバイジャン共和国"
+ AZR_republic_DEF:0 "アゼルバイジャン共和国"
+ 
+ BAN_peoples_republic:0 "バングラデシュ人民共和国"
+ BAN_peoples_republic_DEF:0 "バングラデシュ人民共和国"
+ 
+ BHU_kingdom:0 "ブータン王国"
+ BHU_kingdom_DEF:0 "ブータン王国"
+ BHU_republic:0 "ブータン共和国"
+ BHU_republic_DEF:0 "ブータン共和国"
+ BHU_republic_marxism-leninism:0 "ブータン人民共和国"
+ BHU_republic_marxism-leninism_DEF:0 "ブータン人民共和国"
+ BHU_republic_progressive_socialism:0 "ブータン人民共和国"
+ BHU_republic_progressive_socialism_DEF:0 "ブータン人民共和国"
+ 
+ BRM_comunist_party:0 "ビルマ共産党"
+ BRM_comunist_party_DEF:0 "ビルマ共産党"
+ BRM_state:0 "ビルマ国"
+ BRM_state_DEF:0 "ビルマ国"
+ BRM_union_republic:0 "ビルマ連邦共和国"
+ BRM_union_republic_DEF:0 "ビルマ連邦共和国"
+ BRM_union_republic_marxism-leninism:0 "ビルマ連邦社会主義共和国"
+ BRM_union_republic_marxism-leninism_DEF:0 "ビルマ連邦社会主義共和国"
+ BRM_union_republic_progressive_socialism:0 "ビルマ連邦社会主義共和国"
+ BRM_union_republic_progressive_socialism_DEF:0 "ビルマ連邦社会主義共和国"
+ 
+ BUK_khanate:0 "ブハラ・ハン国"
+ BUK_khanate_DEF:0 "ブハラ・ハン国"
+ 
+ BYA_republic:0 "ブリヤート共和国"
+ BYA_republic_DEF:0 "ブリヤート共和国"
+ 
+ CAM_kingdom:0 "カンボジア王国"
+ CAM_kingdom_DEF:0 "カンボジア王国"
+ CAM_republic:0 "カンボジア共和国"
+ CAM_republic_DEF:0 "カンボジア共和国"
+ CAM_republic_marxism-leninism:0 "カンボジア民主共和国"
+ CAM_republic_marxism-leninism_DEF:0 "カンボジア民主共和国"
+ CAM_republic_progressive_socialism:0 "カンボジア民主共和国"
+ CAM_republic_progressive_socialism_DEF:0 "カンボジア民主共和国"
+ 
+ CHI_federal_republic:0 "中華連邦共和国"
+ CHI_federal_republic_DEF:0 "中華連邦共和国"
+ CHI_national_republic:0 "中華国民共和国"
+ CHI_national_republic_DEF:0 "中華国民共和国"
+ CHI_national_salvation_government:0 "中華民族救国政府"
+ CHI_national_salvation_government_DEF:0 "中華民族救国政府"
+ CHI_peoples_republic:0 "中華人民共和国"
+ CHI_peoples_republic_DEF:0 "中華人民共和国"
+ CHI_peoples_republic_1:0 "中華人民共和国"
+ CHI_peoples_republic_1_DEF:0 "中華人民共和国"
+ CHI_republic:0 "中華民国"
+ CHI_republic_DEF:0 "中華民国"
+ CHI_republic_reformed_government:0 "中華民国維新政府"
+ CHI_republic_reformed_government_DEF:0 "中華民国維新政府"
+ CHI_salvation_government:0 "中華救国政府"
+ CHI_salvation_government_DEF:0 "中華救国政府"
+ CHI_soviet_peoples_republic:0 "中華ソビエト人民共和国"
+ CHI_soviet_peoples_republic_DEF:0 "中華ソビエト人民共和国"
+ CHI_united_states:0 "中華合衆国"
+ CHI_united_states_DEF:0 "中華合衆国"
+ 
+ CKK_republic:0 "チュクチ共和国"
+ CKK_republic_DEF:0 "チュクチ共和国"
+ 
+ FAE_peoples_republic:0 "極東人民共和国"
+ FAE_peoples_republic_DEF:0 "極東人民共和国"
+ FAE_republic:0 "極東共和国"
+ FAE_republic_DEF:0 "極東共和国"
+ FAE_state:0 "極東国"
+ FAE_state_DEF:0 "極東国"
+ 
+ GEO_republic:0 "グルジア共和国"
+ GEO_republic_DEF:0 "グルジア共和国"
+ 
+ 
+ IND_empire:0 "インド帝国"
+ IND_empire_DEF:0 "インド帝国"
+ IND_national_republic:0 "インド国民共和国"
+ IND_national_republic_DEF:0 "インド国民共和国"
+ IND_peoples_military_district:0 "インド人民軍管区"
+ IND_peoples_military_district_DEF:0 "インド人民軍管区"
+ IND_peoples_republic:0 "インド人民共和国"
+ IND_peoples_republic_DEF:0 "インド人民共和国"
+ IND_republic:0 "インド共和国"
+ IND_republic_DEF:0 "インド共和国"
+ IND_republic_marxism-leninism:0 "インド社会主義共和国"
+ IND_republic_marxism-leninism_DEF:0 "インド社会主義共和国"
+ IND_republic_progressive_socialism:0 "インド社会主義共和国"
+ IND_republic_progressive_socialism_DEF:0 "インド社会主義共和国"
+ 
+ INS_federation:0 "インドネシア連邦"
+ INS_federation_DEF:0 "インドネシア連邦"
+ INS_federation_marxism-leninism:0 "インドネシア社会主義連邦"
+ INS_federation_marxism-leninism_DEF:0 "インドネシア社会主義連邦"
+ INS_federation_progressive_socialism:0 "インドネシア社会主義連邦"
+ INS_federation_progressive_socialism_DEF:0 "インドネシア社会主義連邦"
+ INS_peoples_military_district:0 "インドネシア人民軍管区"
+ INS_peoples_military_district_DEF:0 "インドネシア人民軍管区"
+ INS_republic:0 "インドネシア共和国"
+ INS_republic_DEF:0 "インドネシア共和国"
+ INS_socialist_republic:0 "インドネシア社会主義共和国"
+ INS_socialist_republic_DEF:0 "インドネシア社会主義共和国"
+ INS_united_republic:0 "インドネシア連合共和国"
+ INS_united_republic_DEF:0 "インドネシア連合共和国"
+ 
+ IRQ_kingdom:0 "イラク王国"
+ IRQ_kingdom_DEF:0 "イラク王国"
+ IRQ_republic:0 "イラク共和国"
+ IRQ_republic_DEF:0 "イラク共和国"
+ IRQ_republic_marxism-leninism:0 "イラク社会主義共和国"
+ IRQ_republic_marxism-leninism_DEF:0 "イラク社会主義共和国"
+ IRQ_republic_progressive_socialism:0 "イラク社会主義共和国"
+ IRQ_republic_progressive_socialism_DEF:0 "イラク社会主義共和国"
+ 
+ ISR_state:0 "イスラエル国"
+ ISR_state_DEF:0 "イスラエル国"
+ ISR_state_marxism-leninism:0 "イスラエル社会主義国"
+ ISR_state_marxism-leninism_DEF:0 "イスラエル社会主義国"
+ ISR_state_progressive_socialism:0 "イスラエル社会主義国"
+ ISR_state_progressive_socialism_DEF:0 "イスラエル社会主義国"
+ 
+ JAP_18th_army_occupied_area:0 "日本第18軍占領地域"
+ JAP_18th_army_occupied_area_DEF:0 "日本第18軍占領地域"
+ JAP_buraku_liberation_league:0 "日本部落解放同盟"
+ JAP_buraku_liberation_league_DEF:0 "日本部落解放同盟"
+ JAP_combined_syndicates:0 "日本労働組合連盟"
+ JAP_combined_syndicates_DEF:0 "日本労働組合連盟"
+ JAP_confederate_states:0 "日本連合国"
+ JAP_confederate_states_DEF:0 "日本連合国"
+ JAP_democratic_republic:0 "日本民主共和国"
+ JAP_democratic_republic_DEF:0 "日本民主共和国"
+ JAP_emirate:0 "日本首長国"
+ JAP_emirate_DEF:0 "日本首長国"
+ JAP_empire:0 "日本帝国"
+ JAP_empire_DEF:0 "日本帝国"
+ JAP_exile_government:0 "日本亡命政府"
+ JAP_exile_government_DEF:0 "日本亡命政府"
+ JAP_farmers_union:0 "日本農民連合"
+ JAP_farmers_union_DEF:0 "日本農民連合"
+ JAP_federal_republic:0 "日本連邦共和国"
+ JAP_federal_republic_DEF:0 "日本連邦共和国"
+ JAP_federation:0 "日本連邦"
+ JAP_federation_DEF:0 "日本連邦"
+ JAP_free_territory:0 "日本自由地区"
+ JAP_free_territory_DEF:0 "日本自由地区"
+ JAP_government_of_koreans:0 "日本朝鮮人政府"
+ JAP_government_of_koreans_DEF:0 "日本朝鮮人政府"
+ JAP_government_of_russians:0 "日本ロシア人政府"
+ JAP_government_of_russians_DEF:0 "日本ロシア人政府"
+ JAP_guillotine_alliance:0 "日本ギロチン同盟"
+ JAP_guillotine_alliance_DEF:0 "日本ギロチン同盟"
+ JAP_kingdom:0 "日本王国"
+ JAP_kingdom_DEF:0 "日本王国"
+ JAP_national_republic:0 "日本国民共和国"
+ JAP_national_republic_DEF:0 "日本国民共和国"
+ JAP_peoples_empire:0 "日本人民帝国"
+ JAP_peoples_empire_DEF:0 "日本人民帝国"
+ JAP_peoples_republic:0 "日本人民共和国"
+ JAP_peoples_republic_DEF:0 "日本人民共和国"
+ JAP_peoples_revolutionary_front:0 "日本人民革命戦線"
+ JAP_peoples_revolutionary_front_DEF:0 "日本人民革命戦線"
+ JAP_peoples_syndicalist_alliance:0 "日本人民サンディカリスト連盟"
+ JAP_peoples_syndicalist_alliance_DEF:0 "日本人民サンディカリスト連盟"
+ JAP_republic:0 "日本共和国"
+ JAP_republic_DEF:0 "日本共和国"
+ JAP_restorationist_government:0 "日本復古派政府"
+ JAP_restorationist_government_DEF:0 "日本復古派政府"
+ JAP_salvation_alliance:0 "日本救済同盟"
+ JAP_salvation_alliance_DEF:0 "日本救済同盟"
+ JAP_socialist_front:0 "日本社会主義戦線"
+ JAP_socialist_front_DEF:0 "日本社会主義戦線"
+ JAP_socialist_republic:0 "日本社会主義共和国"
+ JAP_socialist_republic_DEF:0 "日本社会主義共和国"
+ JAP_soka_state:0 "日本創価国"
+ JAP_soka_state_DEF:0 "日本創価国"
+ JAP_state:0 "日本国"
+ JAP_state_DEF:0 "日本国"
+ JAP_students_alliance:0 "日本学生同盟"
+ JAP_students_alliance_DEF:0 "日本学生同盟"
+ JAP_students_marxist_league:0 "日本学生派マルクス主義同盟"
+ JAP_students_marxist_league_DEF:0 "日本学生派マルクス主義同盟"
+ JAP_suiheisha_republic:0 "日本水平社共和国"
+ JAP_suiheisha_republic_DEF:0 "日本水平社共和国"
+ JAP_tenri_state:0 "日本天理国"
+ JAP_tenri_state_DEF:0 "日本天理国"
+ JAP_united_republic:0 "日本連合共和国"
+ JAP_united_republic_DEF:0 "日本連合共和国"
+ JAP_workers_republic:0 "日本労働者共和国"
+ JAP_workers_republic_DEF:0 "日本労働者共和国"
+ 
+ JOR_hashemite_kingdom:0 "ヨルダン・ハシミテ王国"
+ JOR_hashemite_kingdom_DEF:0 "ヨルダン・ハシミテ王国"
+ JOR_republic:0 "ヨルダン共和国"
+ JOR_republic_DEF:0 "ヨルダン共和国"
+ JOR_republic_marxism-leninism:0 "ヨルダン社会主義共和国"
+ JOR_republic_marxism-leninism_DEF:0 "ヨルダン社会主義共和国"
+ JOR_republic_progressive_socialism:0 "ヨルダン社会主義共和国"
+ JOR_republic_progressive_socialism_DEF:0 "ヨルダン社会主義共和国"
+ 
+ KAZ_republic:0 "カザフスタン共和国"
+ KAZ_republic_DEF:0 "カザフスタン共和国"
+ 
+ KHI_khanate:0 "ヒヴァ・ハン国"
+ KHI_khanate_DEF:0 "ヒヴァ・ハン国"
+ KHI_republic:0 "ヒヴァ共和国"
+ KHI_republic_DEF:0 "ヒヴァ共和国"
+ 
+ KHK_republic:0 "ハカス共和国"
+ KHK_republic_DEF:0 "ハカス共和国"
+ 
+ KKP_republic:0 "カラカルパクスタン共和国"
+ KKP_republic_DEF:0 "カラカルパクスタン共和国"
+ 
+ KOR_empire:0 "韓帝国"
+ KOR_empire_DEF:0 "韓帝国"
+ KOR_republic:0 "韓民国"
+ KOR_republic_DEF:0 "韓民国"
+ 
+ KUR_kingdom:0 "クルディスタン王国"
+ KUR_kingdom_DEF:0 "クルディスタン王国"
+ KUR_republic:0 "クルディスタン共和国"
+ KUR_republic_DEF:0 "クルディスタン共和国"
+ 
+ KUW_republic:0 "クウェート共和国"
+ KUW_republic_DEF:0 "クウェート共和国"
+ KUW_republic_marxism-leninism:0 "クウェート社会主義共和国"
+ KUW_republic_marxism-leninism_DEF:0 "クウェート社会主義共和国"
+ KUW_republic_progressive_socialism:0 "クウェート社会主義共和国"
+ KUW_republic_progressive_socialism_DEF:0 "クウェート社会主義共和国"
+ KUW_state:0 "クウェート国"
+ KUW_state_DEF:0 "クウェート国"
+ 
+ KYR_republic:0 "キルギスタン共和国"
+ KYR_republic_DEF:0 "キルギスタン共和国"
+ 
+ LAO_kingdom:0 "ラオス王国"
+ LAO_kingdom_DEF:0 "ラオス王国"
+ LAO_peoples_liberation_army:0 "ラオス人民解放軍"
+ LAO_peoples_liberation_army_DEF:0 "ラオス人民解放軍"
+ LAO_republic:0 "ラオス共和国"
+ LAO_republic_DEF:0 "ラオス共和国"
+ LAO_republic_marxism-leninism:0 "ラオス人民民主共和国"
+ LAO_republic_marxism-leninism_DEF:0 "ラオス人民民主共和国"
+ LAO_republic_progressive_socialism:0 "ラオス人民民主共和国"
+ LAO_republic_progressive_socialism_DEF:0 "ラオス人民民主共和国"
+ 
+ LEB_republic:0 "レバノン共和国"
+ LEB_republic_DEF:0 "レバノン共和国"
+ LEB_republic_marxism-leninism:0 "レバノン人民共和国"
+ LEB_republic_marxism-leninism_DEF:0 "レバノン人民共和国"
+ LEB_republic_progressive_socialism:0 "レバノン人民共和国"
+ LEB_republic_progressive_socialism_DEF:0 "レバノン人民共和国"
+ 
+ MAL_peoples_military_district:0 "マラヤ人民軍管区"
+ MAL_peoples_military_district_DEF:0 "マラヤ人民軍管区"
+ MAL_union:0 "マラヤ連合"
+ MAL_union_DEF:0 "マラヤ連合"
+ 
+ MAN_empire:0 "満州帝国"
+ MAN_empire_DEF:0 "満州帝国"
+ MAN_peoples_military_district:0 "満州人民軍管区"
+ MAN_peoples_military_district_DEF:0 "満州人民軍管区"
+ MAN_republic:0 "満州民国"
+ MAN_republic_DEF:0 "満州民国"
+ MAN_republic_marxism-leninism:0 "満州人民共和国"
+ MAN_republic_marxism-leninism_DEF:0 "満州人民共和国"
+ MAN_republic_progressive_socialism:0 "満州人民共和国"
+ MAN_republic_progressive_socialism_DEF:0 "満州人民共和国"
+ 
+ MEN_autonomous_federation:0 "蒙疆自治邦"
+ MEN_autonomous_federation_DEF:0 "蒙疆自治邦"
+ MEN_military_government:0 "蒙疆軍政府"
+ MEN_military_government_DEF:0 "蒙疆軍政府"
+ MEN_republic:0 "蒙疆民国"
+ MEN_republic_DEF:0 "蒙疆民国"
+ MEN_republic_marxism-leninism:0 "蒙疆人民共和国"
+ MEN_republic_marxism-leninism_DEF:0 "蒙疆人民共和国"
+ MEN_republic_progressive_socialism:0 "蒙疆人民共和国"
+ MEN_republic_progressive_socialism_DEF:0 "蒙疆人民共和国"
+ 
+ MLD_republic:0 "モルディブ共和国"
+ MLD_republic_DEF:0 "モルディブ共和国"
+ MLD_republic_marxism-leninism:0 "モルディブ社会主義共和国"
+ MLD_republic_marxism-leninism_DEF:0 "モルディブ社会主義共和国"
+ MLD_republic_progressive_socialism:0 "モルディブ社会主義共和国"
+ MLD_republic_progressive_socialism_DEF:0 "モルディブ社会主義共和国"
+ MLD_sultanate:0 "モルディブ・スルタン国"
+ MLD_sultanate_DEF:0 "モルディブ・スルタン国"
+ 
+ MON_peoples_republic:0 "モンゴル人民共和国"
+ MON_peoples_republic_DEF:0 "モンゴル人民共和国"
+ MON_republic:0 "モンゴル共和国"
+ MON_republic_DEF:0 "モンゴル共和国"
+ MON_state:0 "モンゴル国"
+ MON_state_DEF:0 "モンゴル国"
+ 
+ NEP_federal_democratic_republic:0 "ネパール連邦民主共和国"
+ NEP_federal_democratic_republic_DEF:0 "ネパール連邦民主共和国"
+ NEP_kingdom:0 "ネパール王国"
+ NEP_kingdom_DEF:0 "ネパール王国"
+ 
+ OMA_imamate:0 "オマーン・イマーム国"
+ OMA_imamate_DEF:0 "オマーン・イマーム国"
+ OMA_republic:0 "オマーン共和国"
+ OMA_republic_DEF:0 "オマーン共和国"
+ OMA_republic_marxism-leninism:0 "オマーン人民共和国"
+ OMA_republic_marxism-leninism_DEF:0 "オマーン人民共和国"
+ OMA_republic_progressive_socialism:0 "オマーン人民共和国"
+ OMA_republic_progressive_socialism_DEF:0 "オマーン人民共和国"
+ OMA_sultanate:0 "オマーン・スルタン国"
+ OMA_sultanate_DEF:0 "オマーン・スルタン国"
+ 
+ PAK_islamic_republic:0 "パキスタン・イスラム共和国"
+ PAK_islamic_republic_DEF:0 "パキスタン・イスラム共和国"
+ PAK_national_republic:0 "パキスタン国民共和国"
+ PAK_national_republic_DEF:0 "パキスタン国民共和国"
+ 
+ PAL_republic:0 "パレスチナ共和国"
+ PAL_republic_DEF:0 "パレスチナ共和国"
+ PAL_republic_marxism-leninism:0 "パレスチナ民主共和国"
+ PAL_republic_marxism-leninism_DEF:0 "パレスチナ民主共和国"
+ PAL_republic_progressive_socialism:0 "パレスチナ民主共和国"
+ PAL_republic_progressive_socialism_DEF:0 "パレスチナ民主共和国"
+ PAL_state:0 "パレスチナ国"
+ PAL_state_DEF:0 "パレスチナ国"
+ 
+ 
+ PER_empire:0 "ペルシャ帝国"
+ PER_empire_DEF:0 "ペルシャ帝国"
+ 
+ PHI_republic:0 "フィリピン共和国"
+ PHI_republic_DEF:0 "フィリピン共和国"
+ PHI_republic_marxism-leninism:0 "フィリピン社会主義共和国"
+ PHI_republic_marxism-leninism_DEF:0 "フィリピン社会主義共和国"
+ PHI_republic_progressive_socialism:0 "フィリピン社会主義共和国"
+ PHI_republic_progressive_socialism_DEF:0 "フィリピン社会主義共和国"
+ 
+ QAT_state:0 "カタール国"
+ QAT_state_DEF:0 "カタール国"
+ QAT_state_marxism-leninism:0 "カタール社会主義国"
+ QAT_state_marxism-leninism_DEF:0 "カタール社会主義国"
+ QAT_state_progressive_socialism:0 "カタール社会主義国"
+ QAT_state_progressive_socialism_DEF:0 "カタール社会主義国"
+ 
+ SAU_kingdom:0 "サウジアラビア王国"
+ SAU_kingdom_DEF:0 "サウジアラビア王国"
+ 
+ SHX_faction:0 "山西派"
+ SHX_faction_DEF:0 "山西派"
+ SHX_warlord:0 "山西軍閥"
+ SHX_warlord_DEF:0 "山西軍閥"
+ 
+ SIA_empire:0 "シャム帝国"
+ SIA_empire_DEF:0 "シャム帝国"
+ SIA_kingdom:0 "シャム王国"
+ SIA_kingdom_DEF:0 "シャム王国"
+ SIA_republic:0 "シャム共和国"
+ SIA_republic_DEF:0 "シャム共和国"
+ 
+ SIK_faction:0 "新彊派"
+ SIK_faction_DEF:0 "新彊派"
+ SIK_warlord:0 "新彊軍閥"
+ SIK_warlord_DEF:0 "新彊軍閥"
+ 
+ SRL_republic:0 "スリランカ共和国"
+ SRL_republic_DEF:0 "スリランカ共和国"
+ 
+ SYR_republic:0 "シリア共和国"
+ SYR_republic_DEF:0 "シリア共和国"
+ 
+ TAJ_republic:0 "タジキスタン共和国"
+ TAJ_republic_DEF:0 "タジキスタン共和国"
+ 
+ TAY_republic:0 "タイミル共和国"
+ TAY_republic_DEF:0 "タイミル共和国"
+ 
+ TIB_empire:0 "チベット帝国"
+ TIB_empire_DEF:0 "チベット帝国"
+ TIB_kingdom:0 "チベット王国"
+ TIB_kingdom_DEF:0 "チベット王国"
+ TIB_state:0 "チベット国"
+ TIB_state_DEF:0 "チベット国"
+ TIB_state_marxism-leninism:0 "チベット社会主義国"
+ TIB_state_marxism-leninism_DEF:0 "チベット社会主義国"
+ TIB_state_progressive_socialism:0 "チベット社会主義国"
+ TIB_state_progressive_socialism_DEF:0 "チベット社会主義国"
+ 
+ TMS_republic:0 "トルクメニスタン共和国"
+ TMS_republic_DEF:0 "トルクメニスタン共和国"
+ 
+ TUR_republic:0 "トルコ共和国"
+ TUR_republic_DEF:0 "トルコ共和国"
+ TUR_republic_marxism-leninism:0 "トルコ民主共和国"
+ TUR_republic_marxism-leninism_DEF:0 "トルコ民主共和国"
+ TUR_republic_progressive_socialism:0 "トルコ民主共和国"
+ TUR_republic_progressive_socialism_DEF:0 "トルコ民主共和国"
+ 
+ TUV_republic:0 "トゥヴァ共和国"
+ TUV_republic_DEF:0 "トゥヴァ共和国"
+ TUV_republic_marxism-leninism:0 "トゥヴァ人民共和国"
+ TUV_republic_marxism-leninism_DEF:0 "トゥヴァ人民共和国"
+ TUV_republic_progressive_socialism:0 "トゥヴァ人民共和国"
+ TUV_republic_progressive_socialism_DEF:0 "トゥヴァ人民共和国"
+ 
+ UAE_united_emirates:0 "アラブ首長国連邦"
+ UAE_united_emirates_DEF:0 "アラブ首長国連邦"
+ 
+ UZB_republic:0 "ウズベキスタン共和国"
+ UZB_republic_DEF:0 "ウズベキスタン共和国"
+ 
+ VIN_democratic_republic:0 "ベトナム民主共和国"
+ VIN_democratic_republic_DEF:0 "ベトナム民主共和国"
+ VIN_empire:0 "ベトナム帝国"
+ VIN_empire_DEF:0 "ベトナム帝国"
+ VIN_republic:0 "ベトナム共和国"
+ VIN_republic_DEF:0 "ベトナム共和国"
+ VIN_republic_marxism-leninism:0 "ベトナム社会主義共和国"
+ VIN_republic_marxism-leninism_DEF:0 "ベトナム社会主義共和国"
+ VIN_republic_progressive_socialism:0 "ベトナム社会主義共和国"
+ VIN_republic_progressive_socialism_DEF:0 "ベトナム社会主義共和国"
+ 
+ VLA_repulic:0 "ウラジオストク共和国"
+ VLA_repulic_DEF:0 "ウラジオストク共和国"
+ 
+ 
+ YAK_repulic:0 "ヤクート共和国"
+ YAK_repulic_DEF:0 "ヤクート共和国"
+ 
+ YAM_republic:0 "ヤマリア共和国"
+ YAM_republic_DEF:0 "ヤマリア共和国"
+ 
+ YEM_mutawakkilite_kingdom:0 "イエメン・ムタワッキリテ王国"
+ YEM_mutawakkilite_kingdom_DEF:0 "イエメン・ムタワッキリテ王国"
+ YEM_republic:0 "イエメン共和国"
+ YEM_republic_DEF:0 "イエメン共和国"
+ YEM_republic_marxism-leninism:0 "イエメン人民共和国"
+ YEM_republic_marxism-leninism_DEF:0 "イエメン人民共和国"
+ YEM_republic_progressive_socialism:0 "イエメン人民共和国"
+ YEM_republic_progressive_socialism_DEF:0 "イエメン人民共和国"
+ 
+ YUN_faction:0 "雲南派"
+ YUN_faction_DEF:0 "雲南派"
+ 
+#ヨーロッパ
+ ADU_republic:0 "アンダルシア共和国"
+ ADU_republic_DEF:0 "アンダルシア共和国"
+ 
+ ALB_kingdom:0 "アルバニア王国"
+ ALB_kingdom_DEF:0 "アルバニア王国"
+ ALB_republic:0 "アルバニア共和国"
+ ALB_republic_DEF:0 "アルバニア共和国"
+ ALB_republic_marxism-leninism:0 "アルバニア社会主義人民共和国"
+ ALB_republic_marxism-leninism_DEF:0 "アルバニア社会主義人民共和国"
+ ALB_republic_progressive_socialism:0 "アルバニア社会主義人民共和国"
+ ALB_republic_progressive_socialism_DEF:0 "アルバニア社会主義人民共和国"
+ 
+ AUS_empire:0 "オーストリア帝国"
+ AUS_empire_DEF:0 "オーストリア帝国"
+ AUS_kingdom:0 "オーストリア王国"
+ AUS_kingdom_DEF:0 "オーストリア王国"
+ AUS_republic:0 "オーストリア共和国"
+ AUS_republic_DEF:0 "オーストリア共和国"
+ AUS_social_republic:0 "オーストリア社会共和国"
+ AUS_social_republic_DEF:0 "オーストリア社会共和国"
+ AUS_workers_republic:0 "オーストリア労働者共和国"
+ AUS_workers_republic_DEF:0 "オーストリア労働者共和国"
+ 
+ BAY_kingdom:0 "バイエルン王国"
+ BAY_kingdom_DEF:0 "バイエルン王国"
+ 
+ BEL_kingdom:0 "ベルギー王国"
+ BEL_kingdom_DEF:0 "ベルギー王国"
+ BEL_republic:0 "ベルギー共和国"
+ BEL_republic_DEF:0 "ベルギー共和国"
+ BEL_republic_marxism-leninism:0 "ベルギー人民共和国"
+ BEL_republic_marxism-leninism_DEF:0 "ベルギー人民共和国"
+ BEL_republic_progressive_socialism:0 "ベルギー人民共和国"
+ BEL_republic_progressive_socialism_DEF:0 "ベルギー人民共和国"
+ 
+ BLR_national_republic:0 "ベラルーシ国民共和国"
+ BLR_national_republic_DEF:0 "ベラルーシ国民共和国"
+ BLR_republic:0 "ベラルーシ共和国"
+ BLR_republic_DEF:0 "ベラルーシ共和国"
+ 
+ BOS_republic:0 "ボスニア共和国"
+ BOS_republic_DEF:0 "ボスニア共和国"
+ BOS_republic_marxism-leninism:0 "ボスニア社会主義共和国"
+ BOS_republic_marxism-leninism_DEF:0 "ボスニア社会主義共和国"
+ BOS_republic_progressive_socialism:0 "ボスニア社会主義共和国"
+ BOS_republic_progressive_socialism_DEF:0 "ボスニア社会主義共和国"
+ 
+ BRI_republic:0 "ブルターニュ共和国"
+ BRI_republic_DEF:0 "ブルターニュ共和国"
+ 
+ BSK_republic:0 "バシコルトスタン共和国"
+ BSK_republic_DEF:0 "バシコルトスタン共和国"
+ 
+ BUL_free_territory:0 "ブルガリア自由地区"
+ BUL_free_territory_DEF:0 "ブルガリア自由地区"
+ BUL_kingdom:0 "ブルガリア王国"
+ BUL_kingdom_DEF:0 "ブルガリア王国"
+ BUL_republic:0 "ブルガリア共和国"
+ BUL_republic_DEF:0 "ブルガリア共和国"
+ BUL_republic_marxism-leninism:0 "ブルガリア人民共和国"
+ BUL_republic_marxism-leninism_DEF:0 "ブルガリア人民共和国"
+ BUL_republic_progressive_socialism:0 "ブルガリア人民共和国"
+ BUL_republic_progressive_socialism_DEF:0 "ブルガリア人民共和国"
+ BUL_state:0 "ブルガリア国"
+ BUL_state_DEF:0 "ブルガリア国"
+ 
+ CAT_republic:0 "カタルーニャ共和国"
+ CAT_republic_DEF:0 "カタルーニャ共和国"
+ 
+ CHU_republic:0 "チュヴァシ共和国"
+ CHU_republic_DEF:0 "チュヴァシ共和国"
+ 
+ 
+ COR_republic:0 "コルシカ共和国"
+ COR_republic_DEF:0 "コルシカ共和国"
+ 
+ CRI_peoples_republic:0 "クリミア人民共和国"
+ CRI_peoples_republic_DEF:0 "クリミア人民共和国"
+ 
+ CRO_independent_state:0 "クロアチア独立国"
+ CRO_independent_state_DEF:0 "クロアチア独立国"
+ CRO_republic:0 "クロアチア共和国"
+ CRO_republic_DEF:0 "クロアチア共和国"
+ CRO_republic_marxism-leninism:0 "クロアチア社会主義共和国"
+ CRO_republic_marxism-leninism_DEF:0 "クロアチア社会主義共和国"
+ CRO_republic_progressive_socialism:0 "クロアチア社会主義共和国"
+ CRO_republic_progressive_socialism_DEF:0 "クロアチア社会主義共和国"
+ 
+ CYP_republic:0 "キプロス共和国"
+ CYP_republic_DEF:0 "キプロス共和国"
+ 
+ CZE_republic:0 "チェコ共和国"
+ CZE_republic_DEF:0 "チェコ共和国"
+ CZE_republic_marxism-leninism:0 "チェコ社会主義共和国"
+ CZE_republic_marxism-leninism_DEF:0 "チェコ社会主義共和国"
+ CZE_republic_national_fascism:0 "チェコ国民共和国"
+ CZE_republic_national_fascism_DEF:0 "チェコ国民共和国"
+ CZE_republic_progressive_socialism:0 "チェコ社会主義共和国"
+ CZE_republic_progressive_socialism_DEF:0 "チェコ社会主義共和国"
+ 
+ DAG_republic:0 "ダゲスタン共和国"
+ DAG_republic_DEF:0 "ダゲスタン共和国"
+ 
+ DEN_kingdom:0 "デンマーク王国"
+ DEN_kingdom_DEF:0 "デンマーク王国"
+ DEN_republic:0 "デンマーク共和国"
+ DEN_republic_DEF:0 "デンマーク共和国"
+ DEN_republic_marxism-leninism:0 "デンマーク社会主義共和国"
+ DEN_republic_marxism-leninism_DEF:0 "デンマーク社会主義共和国"
+ DEN_republic_progressive_socialism:0 "デンマーク社会主義共和国"
+ DEN_republic_progressive_socialism_DEF:0 "デンマーク社会主義共和国"
+ 
+ DNZ_free_city:0 "自由都市ダンツィヒ"
+ DNZ_free_city_DEF:0 "自由都市ダンツィヒ"
+ 
+ DON_republic:0 "ドン共和国"
+ DON_republic_DEF:0 "ドン共和国"
+ 
+ EGR_democratic_republic:0 "東ドイツ民主共和国"
+ EGR_democratic_republic_DEF:0 "東ドイツ民主共和国"
+ 
+ ENG_commonwealth:0 "イングランド共和国"
+ ENG_commonwealth_DEF:0 "イングランド共和国"
+ ENG_kingdom:0 "イングランド王国"
+ ENG_kingdom_DEF:0 "イングランド王国"
+ ENG_republic:0 "イングランド共和国"
+ ENG_republic_DEF:0 "イングランド共和国"
+ ENG_republic_1:0 "イングランド共和国"
+ ENG_republic_1_DEF:0 "イングランド共和国"
+ 
+ EST_republic:0 "エストニア共和国"
+ EST_republic_DEF:0 "エストニア共和国"
+ EST_state:0 "エストニア国"
+ EST_state_DEF:0 "エストニア国"
+ 
+ FIN_democratic_republic:0 "フィンランド民主共和国"
+ FIN_democratic_republic_DEF:0 "フィンランド民主共和国"
+ FIN_republic:0 "フィンランド共和国"
+ FIN_republic_DEF:0 "フィンランド共和国"
+ 
+ FRA_commune_federation:0 "フランス・コミューン連邦"
+ FRA_commune_federation_DEF:0 "フランス・コミューン連邦"
+ FRA_empire:0 "フランス帝国"
+ FRA_empire_DEF:0 "フランス帝国"
+ FRA_kingdom:0 "フランス王国"
+ FRA_kingdom_DEF:0 "フランス王国"
+ FRA_kingdom_vichy_government:0 "フランス王国ヴィシー政府"
+ FRA_kingdom_vichy_government_DEF:0 "フランス王国ヴィシー政府"
+ FRA_republic:0 "フランス共和国"
+ FRA_republic_DEF:0 "フランス共和国"
+ FRA_republic_marxism-leninism:0 "フランス人民共和国"
+ FRA_republic_marxism-leninism_DEF:0 "フランス人民共和国"
+ FRA_republic_paris_government:0 "フランス共和国パリ政府"
+ FRA_republic_paris_government_DEF:0 "フランス共和国パリ政府"
+ FRA_republic_progressive_socialism:0 "フランス人民共和国"
+ FRA_republic_progressive_socialism_DEF:0 "フランス人民共和国"
+ FRA_republic_vichy_government:0 "フランス共和国ヴィシー政府"
+ FRA_republic_vichy_government_DEF:0 "フランス共和国ヴィシー政府"
+ FRA_state:0 "フランス国"
+ FRA_state_DEF:0 "フランス国"
+ FRA_state_paris_government:0 "フランス国パリ政府"
+ FRA_state_paris_government_DEF:0 "フランス国パリ政府"
+ FRA_state_vichy_government:0 "フランス国ヴィシー政府"
+ FRA_state_vichy_government_DEF:0 "フランス国ヴィシー政府"
+ FRA_united_republic:0 "フランス連合共和国"
+ FRA_united_republic_DEF:0 "フランス連合共和国"
+ FRA_united_republic_marxism-leninism:0 "フランス人民連合共和国"
+ FRA_united_republic_marxism-leninism_DEF:0 "フランス人民連合共和国"
+ FRA_united_republic_progressive_socialism:0 "フランス人民連合共和国"
+ FRA_united_republic_progressive_socialism_DEF:0 "フランス人民連合共和国"
+ 
+ GER_antinazism_front:0 "ドイツ反ナチス戦線"
+ GER_antinazism_front_DEF:0 "ドイツ反ナチス戦線"
+ GER_bormann_provisional_government:0 "ドイツ・ボルマン臨時政府"
+ GER_bormann_provisional_government_DEF:0 "ドイツ・ボルマン臨時政府"
+ GER_bouhler_provisional_government:0 "ドイツ・ボウラー臨時政府"
+ GER_bouhler_provisional_government_DEF:0 "ドイツ・ボウラー臨時政府"
+ GER_burgermilitar:0 "ドイツ市民軍"
+ GER_burgermilitar_DEF:0 "ドイツ市民軍"
+ GER_commune:0 "ドイツ・コミューン"
+ GER_commune_DEF:0 "ドイツ・コミューン"
+ GER_confederate_states:0 "ドイツ連合国"
+ GER_confederate_states_DEF:0 "ドイツ連合国"
+ GER_darre_provisional_government:0 "ドイツ・ダレ臨時政府"
+ GER_darre_provisional_government_DEF:0 "ドイツ・ダレ臨時政府"
+ GER_democratic_republic:0 "ドイツ民主共和国"
+ GER_democratic_republic_DEF:0 "ドイツ民主共和国"
+ GER_democratic_republic_0:0 "ドイツ民主共和国"
+ GER_democratic_republic_0_DEF:0 "ドイツ民主共和国"
+ GER_democratic_republic_1:0 "ドイツ民主共和国"
+ GER_democratic_republic_1_DEF:0 "ドイツ民主共和国"
+ GER_democratic_republic_2:0 "ドイツ民主共和国"
+ GER_democratic_republic_2_DEF:0 "ドイツ民主共和国"
+ GER_democratic_republic_3:0 "ドイツ民主共和国"
+ GER_democratic_republic_3_DEF:0 "ドイツ民主共和国"
+ GER_democratic_republic_4:0 "ドイツ民主共和国"
+ GER_democratic_republic_4_DEF:0 "ドイツ民主共和国"
+ GER_eichmann_provisional_government:0 "ドイツ・アイヒマン臨時政府"
+ GER_eichmann_provisional_government_DEF:0 "ドイツ・アイヒマン臨時政府"
+ GER_empire:0 "ドイツ帝国"
+ GER_empire_DEF:0 "ドイツ帝国"
+ GER_federal_republic:0 "ドイツ連邦共和国"
+ GER_federal_republic_DEF:0 "ドイツ連邦共和国"
+ GER_federal_republic_0:0 "ドイツ連邦共和国"
+ GER_federal_republic_0_DEF:0 "ドイツ連邦共和国"
+ GER_federal_republic_1:0 "ドイツ連邦共和国"
+ GER_federal_republic_1_DEF:0 "ドイツ連邦共和国"
+ GER_federal_republic_2:0 "ドイツ連邦共和国"
+ GER_federal_republic_2_DEF:0 "ドイツ連邦共和国"
+ GER_federal_republic_3:0 "ドイツ連邦共和国"
+ GER_federal_republic_3_DEF:0 "ドイツ連邦共和国"
+ GER_federal_republic_4:0 "ドイツ連邦共和国"
+ GER_federal_republic_4_DEF:0 "ドイツ連邦共和国"
+ GER_goebbels_provisional_government:0 "ドイツ・ゲッベルス臨時政府"
+ GER_goebbels_provisional_government_DEF:0 "ドイツ・ゲッベルス臨時政府"
+ GER_goering_provisional_government:0 "ドイツ・ゲーリング臨時政府"
+ GER_goering_provisional_government_DEF:0 "ドイツ・ゲーリング臨時政府"
+ GER_henlein_provisional_government:0 "ドイツ・ヘンライン臨時政府"
+ GER_henlein_provisional_government_DEF:0 "ドイツ・ヘンライン臨時政府"
+ GER_hess_consul_government:0 "ドイツ・ヘス執政政府"
+ GER_hess_consul_government_DEF:0 "ドイツ・ヘス執政政府"
+ GER_hess_provisional_government:0 "ドイツ・ヘス臨時政府"
+ GER_hess_provisional_government_DEF:0 "ドイツ・ヘス臨時政府"
+ GER_heydrich_provisional_government:0 "ドイツ・ハイドリヒ臨時政府"
+ GER_heydrich_provisional_government_DEF:0 "ドイツ・ハイドリヒ臨時政府"
+ GER_himmler_provisional_government:0 "ドイツ・ヒムラー臨時政府"
+ GER_himmler_provisional_government_DEF:0 "ドイツ・ヒムラー臨時政府"
+ GER_jeckeln_provisional_government:0 "ドイツ・イェッケルン臨時政府"
+ GER_jeckeln_provisional_government_DEF:0 "ドイツ・イェッケルン臨時政府"
+ GER_keitel_provisional_government:0 "ドイツ・カイテル臨時政府"
+ GER_keitel_provisional_government_DEF:0 "ドイツ・カイテル臨時政府"
+ GER_national_republic:0 "ドイツ国民共和国"
+ GER_national_republic_DEF:0 "ドイツ国民共和国"
+ GER_national_syndicalist_republic:0 "ドイツ国民サンディカリスム共和国"
+ GER_national_syndicalist_republic_DEF:0 "ドイツ国民サンディカリスム共和国"
+ GER_rate_republics_union:0 "ドイツ・レーテ共和国連邦"
+ GER_rate_republics_union_DEF:0 "ドイツ・レーテ共和国連邦"
+ GER_republic:0 "ドイツ共和国"
+ GER_republic_DEF:0 "ドイツ共和国"
+ GER_republic_0:0 "ドイツ共和国"
+ GER_republic_0_DEF:0 "ドイツ共和国"
+ GER_republic_1:0 "ドイツ共和国"
+ GER_republic_1_DEF:0 "ドイツ共和国"
+ GER_republic_2:0 "ドイツ共和国"
+ GER_republic_2_DEF:0 "ドイツ共和国"
+ GER_republic_3:0 "ドイツ共和国"
+ GER_republic_3_DEF:0 "ドイツ共和国"
+ GER_republic_4:0 "ドイツ共和国"
+ GER_republic_4_DEF:0 "ドイツ共和国"
+ GER_ribbentrop_provisional_government:0 "ドイツ・リッベントロップ臨時政府"
+ GER_ribbentrop_provisional_government_DEF:0 "ドイツ・リッベントロップ臨時政府"
+ GER_rosneberg_provisional_government:0 "ドイツ・ローゼンベルク臨時政府"
+ GER_rosneberg_provisional_government_DEF:0 "ドイツ・ローゼンベルク臨時政府"
+ GER_schepmann_provisional_government:0 "ドイツ・シェップマン臨時政府"
+ GER_schepmann_provisional_government_DEF:0 "ドイツ・シェップマン臨時政府"
+ GER_schirach_provisional_government:0 "ドイツ・シーラッハ臨時政府"
+ GER_schirach_provisional_government_DEF:0 "ドイツ・シーラッハ臨時政府"
+ GER_social_republic:0 "ドイツ社会共和国"
+ GER_social_republic_DEF:0 "ドイツ社会共和国"
+ GER_speer_provisional_government:0 "ドイツ・シュペーア臨時政府"
+ GER_speer_provisional_government_DEF:0 "ドイツ・シュペーア臨時政府"
+ GER_state:0 "ドイツ国"
+ GER_state_DEF:0 "ドイツ国"
+ GER_state_0:0 "ドイツ国"
+ GER_state_0_DEF:0 "ドイツ国"
+ GER_state_1:0 "ドイツ国"
+ GER_state_1_DEF:0 "ドイツ国"
+ GER_state_2:0 "ドイツ国"
+ GER_state_2_DEF:0 "ドイツ国"
+ GER_state_3:0 "ドイツ国"
+ GER_state_3_DEF:0 "ドイツ国"
+ GER_state_4:0 "ドイツ国"
+ GER_state_4_DEF:0 "ドイツ国"
+ GER_united_republic:0 "ドイツ連合共和国"
+ GER_united_republic_DEF:0 "ドイツ連合共和国"
+ GER_united_republic_marxism-leninism:0 "ドイツ社会主義連合共和国"
+ GER_united_republic_marxism-leninism_DEF:0 "ドイツ社会主義連合共和国"
+ GER_united_republic_progressive_socialism:0 "ドイツ社会主義連合共和国"
+ GER_united_republic_progressive_socialism_DEF:0 "ドイツ社会主義連合共和国"
+ 
+ GLC_kingdom:0 "ガリシア王国"
+ GLC_kingdom_DEF:0 "ガリシア王国"
+ GLC_republic:0 "ガリシア共和国"
+ GLC_republic_DEF:0 "ガリシア共和国"
+ GLC_republic_marxism-leninism:0 "ガリシア社会主義共和国"
+ GLC_republic_marxism-leninism_DEF:0 "ガリシア社会主義共和国"
+ GLC_republic_progressive_socialism:0 "ガリシア社会主義共和国"
+ GLC_republic_progressive_socialism_DEF:0 "ガリシア社会主義共和国"
+ 
+ GRE_democratic_republic:0 "ギリシャ民主共和国"
+ GRE_democratic_republic_DEF:0 "ギリシャ民主共和国"
+ GRE_kingdom:0 "ギリシャ王国"
+ GRE_kingdom_DEF:0 "ギリシャ王国"
+ GRE_republic:0 "ギリシャ共和国"
+ GRE_republic_DEF:0 "ギリシャ共和国"
+ 
+ HAN_kingdom:0 "ハノーファー王国"
+ HAN_kingdom_DEF:0 "ハノーファー王国"
+ HAN_republic:0 "ハノーファー共和国"
+ HAN_republic_DEF:0 "ハノーファー共和国"
+ HAN_republic_marxism-leninism:0 "ハノーファー社会主義共和国"
+ HAN_republic_marxism-leninism_DEF:0 "ハノーファー社会主義共和国"
+ HAN_republic_progressive_socialism:0 "ハノーファー社会主義共和国"
+ HAN_republic_progressive_socialism_DEF:0 "ハノーファー社会主義共和国"
+ 
+ HOL_kingdom:0 "オランダ王国"
+ HOL_kingdom_DEF:0 "オランダ王国"
+ HOL_republic:0 "オランダ共和国"
+ HOL_republic_DEF:0 "オランダ共和国"
+ HOL_republic_marxism-leninism:0 "オランダ社会主義共和国"
+ HOL_republic_marxism-leninism_DEF:0 "オランダ社会主義共和国"
+ HOL_republic_progressive_socialism:0 "オランダ社会主義共和国"
+ HOL_republic_progressive_socialism_DEF:0 "オランダ社会主義共和国"
+ 
+ HRZ_republic:0 "ヘルツェゴビナ共和国"
+ HRZ_republic_DEF:0 "ヘルツェゴビナ共和国"
+ HRZ_republic_marxism-leninism:0 "ヘルツェゴビナ人民共和国"
+ HRZ_republic_marxism-leninism_DEF:0 "ヘルツェゴビナ人民共和国"
+ HRZ_republic_progressive_socialism:0 "ヘルツェゴビナ人民共和国"
+ HRZ_republic_progressive_socialism_DEF:0 "ヘルツェゴビナ人民共和国"
+ 
+ HUN_commune:0 "ハンガリー・コミューン"
+ HUN_commune_DEF:0 "ハンガリー・コミューン"
+ HUN_kingdom:0 "ハンガリー王国"
+ HUN_kingdom_DEF:0 "ハンガリー王国"
+ HUN_national_salvation_government:0 "ハンガリー救国政府"
+ HUN_national_salvation_government_DEF:0 "ハンガリー救国政府"
+ HUN_national_salvation_government_marxism-leninism:0 "ハンガリー国民統一戦線"
+ HUN_national_salvation_government_marxism-leninism_DEF:0 "ハンガリー国民統一戦線"
+ HUN_national_salvation_government_progressive_socialism:0 "ハンガリー国民統一戦線"
+ HUN_national_salvation_government_progressive_socialism_DEF:0 "ハンガリー国民統一戦線"
+ HUN_national_united_front:0 "ハンガリー国民統一戦線"
+ HUN_national_united_front_DEF:0 "ハンガリー国民統一戦線"
+ HUN_republic:0 "ハンガリー共和国"
+ HUN_republic_DEF:0 "ハンガリー共和国"
+ HUN_republic_marxism-leninism:0 "ハンガリー人民共和国"
+ HUN_republic_marxism-leninism_DEF:0 "ハンガリー人民共和国"
+ HUN_republic_progressive_socialism:0 "ハンガリー人民共和国"
+ HUN_republic_progressive_socialism_DEF:0 "ハンガリー人民共和国"
+ HUN_vanguard_commune:0 "ハンガリー・ヴァンガード・コミューン"
+ HUN_vanguard_commune_DEF:0 "ハンガリー・ヴァンガード・コミューン"
+ 
+ ICE_republic:0 "アイスランド共和国"
+ ICE_republic_DEF:0 "アイスランド共和国"
+ 
+ IRE_empire:0 "アイルランド帝国"
+ IRE_empire_DEF:0 "アイルランド帝国"
+ IRE_kingdom:0 "アイルランド王国"
+ IRE_kingdom_DEF:0 "アイルランド王国"
+ IRE_republic:0 "アイルランド共和国"
+ IRE_republic_DEF:0 "アイルランド共和国"
+ IRE_republic_marxism-leninism:0 "アイルランド社会主義共和国"
+ IRE_republic_marxism-leninism_DEF:0 "アイルランド社会主義共和国"
+ IRE_republic_progressive_socialism:0 "アイルランド社会主義共和国"
+ IRE_republic_progressive_socialism_DEF:0 "アイルランド社会主義共和国"
+ IRE_state:0 "アイルランド国"
+ IRE_state_DEF:0 "アイルランド国"
+ 
+ ITA_empire:0 "イタリア帝国"
+ ITA_empire_DEF:0 "イタリア帝国"
+ ITA_federation:0 "イタリア連邦"
+ ITA_federation_DEF:0 "イタリア連邦"
+ ITA_kingdom:0 "イタリア王国"
+ ITA_kingdom_DEF:0 "イタリア王国"
+ ITA_peoples_liberation_front:0 "イタリア人民解放戦線"
+ ITA_peoples_liberation_front_DEF:0 "イタリア人民解放戦線"
+ ITA_republic:0 "イタリア共和国"
+ ITA_republic_DEF:0 "イタリア共和国"
+ ITA_social_republic:0 "イタリア社会共和国"
+ ITA_social_republic_DEF:0 "イタリア社会共和国"
+ 
+ KAL_republic:0 "カルムイク共和国"
+ KAL_republic_DEF:0 "カルムイク共和国"
+ 
+ KAR_republic:0 "カレリア共和国"
+ KAR_republic_DEF:0 "カレリア共和国"
+ 
+ KBK_republic:0 "カバルダ＝バルカル共和国"
+ KBK_republic_DEF:0 "カバルダ＝バルカル共和国"
+ 
+ KOM_republic:0 "コミ共和国"
+ KOM_republic_DEF:0 "コミ共和国"
+ 
+ KOS_republic:0 "コソボ共和国"
+ KOS_republic_DEF:0 "コソボ共和国"
+ KOS_republic_marxism-leninism:0 "コソボ社会主義共和国"
+ KOS_republic_marxism-leninism_DEF:0 "コソボ社会主義共和国"
+ KOS_republic_progressive_socialism:0 "コソボ社会主義共和国"
+ KOS_republic_progressive_socialism_DEF:0 "コソボ社会主義共和国"
+ 
+ KSH_republic:0 "カシューブ共和国"
+ KSH_republic_DEF:0 "カシューブ共和国"
+ 
+ KUB_republic:0 "クバン共和国"
+ KUB_republic_DEF:0 "クバン共和国"
+ 
+ LAT_republic:0 "ラトビア共和国"
+ LAT_republic_DEF:0 "ラトビア共和国"
+ LAT_state:0 "ラトビア国"
+ LAT_state_DEF:0 "ラトビア国"
+ 
+ LIT_grand_duchy:0 "リトアニア大公国"
+ LIT_grand_duchy_DEF:0 "リトアニア大公国"
+ LIT_kingdom:0 "リトアニア王国"
+ LIT_kingdom_DEF:0 "リトアニア王国"
+ LIT_republic:0 "リトアニア共和国"
+ LIT_republic_DEF:0 "リトアニア共和国"
+ LIT_state:0 "リトアニア国"
+ LIT_state_DEF:0 "リトアニア国"
+ 
+ LUX_grand_duchy:0 "ルクセンブルク大公国"
+ LUX_grand_duchy_DEF:0 "ルクセンブルク大公国"
+ LUX_republic:0 "ルクセンブルク共和国"
+ LUX_republic_DEF:0 "ルクセンブルク共和国"
+ LUX_republic_marxism-leninism:0 "ルクセンブルク社会主義共和国"
+ LUX_republic_marxism-leninism_DEF:0 "ルクセンブルク社会主義共和国"
+ LUX_republic_progressive_socialism:0 "ルクセンブルク社会主義共和国"
+ LUX_republic_progressive_socialism_DEF:0 "ルクセンブルク社会主義共和国"
+ 
+ MAC_republic:0 "マケドニア共和国"
+ MAC_republic_DEF:0 "マケドニア共和国"
+ MAC_republic_marxism-leninism:0 "マケドニア社会主義共和国"
+ MAC_republic_marxism-leninism_DEF:0 "マケドニア社会主義共和国"
+ MAC_republic_progressive_socialism:0 "マケドニア社会主義共和国"
+ MAC_republic_progressive_socialism_DEF:0 "マケドニア社会主義共和国"
+ 
+ MEK_grand_duchy:0 "メクレンブルク大公国"
+ MEK_grand_duchy_DEF:0 "メクレンブルク大公国"
+ MEK_republic:0 "メクレンブルク共和国"
+ MEK_republic_DEF:0 "メクレンブルク共和国"
+ MEK_republic_marxism-leninism:0 "メクレンブルク人民共和国"
+ MEK_republic_marxism-leninism_DEF:0 "メクレンブルク人民共和国"
+ MEK_republic_progressive_socialism:0 "メクレンブルク人民共和国"
+ MEK_republic_progressive_socialism_DEF:0 "メクレンブルク人民共和国"
+ 
+ MEL_republic:0 "マリ・エル共和国"
+ MEL_republic_DEF:0 "マリ・エル共和国"
+ 
+ MLT_republic:0 "マルタ共和国"
+ MLT_republic_DEF:0 "マルタ共和国"
+ 
+ MNT_kingdom:0 "モンテネグロ王国"
+ MNT_kingdom_DEF:0 "モンテネグロ王国"
+ MNT_republic:0 "モンテネグロ共和国"
+ MNT_republic_DEF:0 "モンテネグロ共和国"
+ MNT_republic_marxism-leninism:0 "モンテネグロ社会主義共和国"
+ MNT_republic_marxism-leninism_DEF:0 "モンテネグロ社会主義共和国"
+ MNT_republic_progressive_socialism:0 "モンテネグロ社会主義共和国"
+ MNT_republic_progressive_socialism_DEF:0 "モンテネグロ社会主義共和国"
+ 
+ MOL_republic:0 "モルドバ共和国"
+ MOL_republic_DEF:0 "モルドバ共和国"
+ 
+ NAV_kingdom:0 "ナバラ王国"
+ NAV_kingdom_DEF:0 "ナバラ王国"
+ NAV_republic:0 "ナバラ共和国"
+ NAV_republic_DEF:0 "ナバラ共和国"
+ NAV_republic_marxism-leninism:0 "ナバラ人民共和国"
+ NAV_republic_marxism-leninism_DEF:0 "ナバラ人民共和国"
+ NAV_republic_progressive_socialism:0 "ナバラ人民共和国"
+ NAV_republic_progressive_socialism_DEF:0 "ナバラ人民共和国"
+ 
+ NEN_republic:0 "ネネツ共和国"
+ NEN_republic_DEF:0 "ネネツ共和国"
+ 
+ NIR_duchy:0 "北アイルランド公国"
+ NIR_duchy_DEF:0 "北アイルランド公国"
+ 
+ NOA_republic:0 "北オセチア共和国"
+ NOA_republic_DEF:0 "北オセチア共和国"
+ 
+ NOR_empire:0 "ノルウェー帝国"
+ NOR_empire_DEF:0 "ノルウェー帝国"
+ NOR_empire_1:0 "ノルウェー帝国"
+ NOR_empire_1_DEF:0 "ノルウェー帝国"
+ NOR_kingdom:0 "ノルウェー王国"
+ NOR_kingdom_DEF:0 "ノルウェー王国"
+ NOR_kingdom_1:0 "ノルウェー王国"
+ NOR_kingdom_1_DEF:0 "ノルウェー王国"
+ NOR_liberation_front:0 "ノルウェー解放戦線"
+ NOR_liberation_front_DEF:0 "ノルウェー解放戦線"
+ NOR_republic:0 "ノルウェー共和国"
+ NOR_republic_DEF:0 "ノルウェー共和国"
+ NOR_state:0 "ノルウェー国"
+ NOR_state_DEF:0 "ノルウェー国"
+ NOR_union:0 "ノルウェー連合"
+ NOR_union_DEF:0 "ノルウェー連合"
+ 
+ OCC_republic:0 "オクシタニア共和国"
+ OCC_republic_DEF:0 "オクシタニア共和国"
+ 
+ OVO_republic:0 "オスチャク・ヴォグル共和国"
+ OVO_republic_DEF:0 "オスチャク・ヴォグル共和国"
+ 
+ POL_empire:0 "ポーランド帝国"
+ POL_empire_DEF:0 "ポーランド帝国"
+ POL_exile_government:0 "ポーランド亡命政府"
+ POL_exile_government_DEF:0 "ポーランド亡命政府"
+ POL_kingdom:0 "ポーランド王国"
+ POL_kingdom_DEF:0 "ポーランド王国"
+ POL_people_republic:0 "ポーランド人民共和国"
+ POL_people_republic_DEF:0 "ポーランド人民共和国"
+ POL_republic:0 "ポーランド共和国"
+ POL_republic_DEF:0 "ポーランド共和国"
+ POL_republic_marxism-leninism:0 "ポーランド社会主義共和国"
+ POL_republic_marxism-leninism_DEF:0 "ポーランド社会主義共和国"
+ POL_republic_progressive_socialism:0 "ポーランド社会主義共和国"
+ POL_republic_progressive_socialism_DEF:0 "ポーランド社会主義共和国"
+ POL_state:0 "ポーランド国"
+ POL_state_DEF:0 "ポーランド国"
+ 
+ POR_kingdom:0 "ポルトガル王国"
+ POR_kingdom_DEF:0 "ポルトガル王国"
+ POR_republic:0 "ポルトガル共和国"
+ POR_republic_DEF:0 "ポルトガル共和国"
+ POR_republic_marxism-leninism:0 "ポルトガル社会主義共和国"
+ POR_republic_marxism-leninism_DEF:0 "ポルトガル社会主義共和国"
+ POR_republic_progressive_socialism:0 "ポルトガル社会主義共和国"
+ POR_republic_progressive_socialism_DEF:0 "ポルトガル社会主義共和国"
+ 
+ PRE_democratic_republic:0 "プロイセン民主共和国"
+ PRE_democratic_republic_DEF:0 "プロイセン民主共和国"
+ PRE_kingdom:0 "プロイセン王国"
+ PRE_kingdom_DEF:0 "プロイセン王国"
+ 
+ ROM_kingdom:0 "ルーマニア王国"
+ ROM_kingdom_DEF:0 "ルーマニア王国"
+ ROM_legion_state:0 "ルーマニア軍団国"
+ ROM_legion_state_DEF:0 "ルーマニア軍団国"
+ ROM_republic:0 "ルーマニア共和国"
+ ROM_republic_DEF:0 "ルーマニア共和国"
+ ROM_republic_marxism-leninism:0 "ルーマニア社会主義共和国"
+ ROM_republic_marxism-leninism_DEF:0 "ルーマニア社会主義共和国"
+ ROM_republic_progressive_socialism:0 "ルーマニア社会主義共和国"
+ ROM_republic_progressive_socialism_DEF:0 "ルーマニア社会主義共和国"
+ 
+ SAX_kingdom:0 "ザクセン王国"
+ SAX_kingdom_DEF:0 "ザクセン王国"
+ SAX_republic:0 "ザクセン共和国"
+ SAX_republic_DEF:0 "ザクセン共和国"
+ SAX_republic_marxism-leninism:0 "ザクセン社会主義共和国"
+ SAX_republic_marxism-leninism_DEF:0 "ザクセン社会主義共和国"
+ SAX_republic_progressive_socialism:0 "ザクセン社会主義共和国"
+ SAX_republic_progressive_socialism_DEF:0 "ザクセン社会主義共和国"
+ 
+ SCO_empire:0 "スコットランド帝国"
+ SCO_empire_DEF:0 "スコットランド帝国"
+ SCO_kingdom:0 "スコットランド王国"
+ SCO_kingdom_DEF:0 "スコットランド王国"
+ SCO_republic:0 "スコットランド共和国"
+ SCO_republic_DEF:0 "スコットランド共和国"
+ SCO_republic_marxism-leninism:0 "スコットランド労働者共和国"
+ SCO_republic_marxism-leninism_DEF:0 "スコットランド労働者共和国"
+ SCO_republic_progressive_socialism:0 "スコットランド労働者共和国"
+ SCO_republic_progressive_socialism_DEF:0 "スコットランド労働者共和国"
+ 
+ SER_kingdom:0 "セルビア王国"
+ SER_kingdom_DEF:0 "セルビア王国"
+ SER_republic:0 "セルビア共和国"
+ SER_republic_DEF:0 "セルビア共和国"
+ SER_republic_marxism-leninism:0 "セルビア社会主義共和国"
+ SER_republic_marxism-leninism_DEF:0 "セルビア社会主義共和国"
+ SER_republic_progressive_socialism:0 "セルビア社会主義共和国"
+ SER_republic_progressive_socialism_DEF:0 "セルビア社会主義共和国"
+ 
+ SHL_duchy:0 "シュレースヴィヒ公国"
+ SHL_duchy_DEF:0 "シュレースヴィヒ公国"
+ SHL_republic:0 "シュレースヴィヒ共和国"
+ SHL_republic_DEF:0 "シュレースヴィヒ共和国"
+ SHL_republic_marxism-leninism:0 "シュレースヴィヒ社会主義共和国"
+ SHL_republic_marxism-leninism_DEF:0 "シュレースヴィヒ社会主義共和国"
+ SHL_republic_progressive_socialism:0 "シュレースヴィヒ社会主義共和国"
+ SHL_republic_progressive_socialism_DEF:0 "シュレースヴィヒ社会主義共和国"
+ 
+ SIC_republic:0 "シチリア共和国"
+ SIC_republic_DEF:0 "シチリア共和国"
+ SIC_republic_marxism-leninism:0 "シチリア人民共和国"
+ SIC_republic_marxism-leninism_DEF:0 "シチリア人民共和国"
+ SIC_republic_progressive_socialism:0 "シチリア人民共和国"
+ SIC_republic_progressive_socialism_DEF:0 "シチリア人民共和国"
+ 
+ SIL_republic:0 "シレジア共和国"
+ SIL_republic_DEF:0 "シレジア共和国"
+ 
+ SLO_republic:0 "スロヴァキア共和国"
+ SLO_republic_DEF:0 "スロヴァキア共和国"
+ SLO_republic_marxism-leninism:0 "スロヴァキア社会主義共和国"
+ SLO_republic_marxism-leninism_DEF:0 "スロヴァキア社会主義共和国"
+ SLO_republic_progressive_socialism:0 "スロヴァキア社会主義共和国"
+ SLO_republic_progressive_socialism_DEF:0 "スロヴァキア社会主義共和国"
+ 
+ SLV_republic:0 "スロベニア共和国"
+ SLV_republic_DEF:0 "スロベニア共和国"
+ SLV_republic_marxism-leninism:0 "スロベニア社会主義共和国"
+ SLV_republic_marxism-leninism_DEF:0 "スロベニア社会主義共和国"
+ SLV_republic_progressive_socialism:0 "スロベニア社会主義共和国"
+ SLV_republic_progressive_socialism_DEF:0 "スロベニア社会主義共和国"
+ 
+ SOV_14th_army:0 "ソビエト第14軍"
+ SOV_14th_army_DEF:0 "ソビエト第14軍"
+ SOV_provisional_government:0 "ソビエト臨時政府"
+ SOV_provisional_government_DEF:0 "ソビエト臨時政府"
+ SOV_republics_union:0 "ソビエト共和国連邦"
+ SOV_republics_union_DEF:0 "ソビエト共和国連邦"
+ SOV_republics_union_marxism-leninism:0 "ソビエト社会主義共和国連邦"
+ SOV_republics_union_marxism-leninism_DEF:0 "ソビエト社会主義共和国連邦"
+ SOV_republics_union_progressive_socialism:0 "ソビエト社会主義共和国連邦"
+ SOV_republics_union_progressive_socialism_DEF:0 "ソビエト社会主義共和国連邦"
+ 
+ SPR_armado_social_republic:0 "スペイン・アルマド社会共和国"
+ SPR_armado_social_republic_DEF:0 "スペイン・アルマド社会共和国"
+ SPR_commune:0 "スペイン・コミューン"
+ SPR_commune_DEF:0 "スペイン・コミューン"
+ SPR_corporate_council:0 "スペイン企業評議会"
+ SPR_corporate_council_DEF:0 "スペイン企業評議会"
+ SPR_emergency_exile_government:0 "スペイン緊急亡命政府"
+ SPR_emergency_exile_government_DEF:0 "スペイン緊急亡命政府"
+ SPR_empire:0 "スペイン帝国"
+ SPR_empire_DEF:0 "スペイン帝国"
+ SPR_exile_government:0 "スペイン亡命政府"
+ SPR_exile_government_DEF:0 "スペイン亡命政府"
+ SPR_kingdom:0 "スペイン王国"
+ SPR_kingdom_DEF:0 "スペイン王国"
+ SPR_national_republic:0 "スペイン国民共和国"
+ SPR_national_republic_DEF:0 "スペイン国民共和国"
+ SPR_republic:0 "スペイン共和国"
+ SPR_republic_DEF:0 "スペイン共和国"
+ SPR_social_republic:0 "スペイン社会共和国"
+ SPR_social_republic_DEF:0 "スペイン社会共和国"
+ SPR_state:0 "スペイン国"
+ SPR_state_DEF:0 "スペイン国"
+ 
+ SRD_republic:0 "サルデーニャ共和国"
+ SRD_republic_DEF:0 "サルデーニャ共和国"
+ 
+ SWE_kingdom:0 "スウェーデン王国"
+ SWE_kingdom_DEF:0 "スウェーデン王国"
+ SWE_republic:0 "スウェーデン共和国"
+ SWE_republic_DEF:0 "スウェーデン共和国"
+ 
+ SWI_confederation:0 "スイス連邦"
+ SWI_confederation_DEF:0 "スイス連邦"
+ SWI_confederation_marxism-leninism:0 "スイス社会主義連邦"
+ SWI_confederation_marxism-leninism_DEF:0 "スイス社会主義連邦"
+ SWI_confederation_progressive_socialism:0 "スイス社会主義連邦"
+ SWI_confederation_progressive_socialism_DEF:0 "スイス社会主義連邦"
+ 
+ TAT_republic:0 "タタールスタン共和国"
+ TAT_republic_DEF:0 "タタールスタン共和国"
+ 
+ TRA_democratic_republic:0 "トランシルヴァニア民主共和国"
+ TRA_democratic_republic_DEF:0 "トランシルヴァニア民主共和国"
+ TRA_duchy:0 "トランシルヴァニア公国"
+ TRA_duchy_DEF:0 "トランシルヴァニア公国"
+ 
+ TUS_republic:0 "トスカーナ共和国"
+ TUS_republic_DEF:0 "トスカーナ共和国"
+ TUS_republic_marxism-leninism:0 "トスカーナ社会主義共和国"
+ TUS_republic_marxism-leninism_DEF:0 "トスカーナ社会主義共和国"
+ TUS_republic_progressive_socialism:0 "トスカーナ社会主義共和国"
+ TUS_republic_progressive_socialism_DEF:0 "トスカーナ社会主義共和国"
+ 
+ UDM_republic:0 "ウドムルト共和国"
+ UDM_republic_DEF:0 "ウドムルト共和国"
+ 
+ UKR_free_territory:0 "ウクライナ自由地区"
+ UKR_free_territory_DEF:0 "ウクライナ自由地区"
+ UKR_hetmanate:0 "ウクライナ・ヘーチマン国"
+ UKR_hetmanate_DEF:0 "ウクライナ・ヘーチマン国"
+ UKR_national_republic:0 "ウクライナ国民共和国"
+ UKR_national_republic_DEF:0 "ウクライナ国民共和国"
+ UKR_orthodox_territory:0 "ウクライナ正教会領"
+ UKR_orthodox_territory_DEF:0 "ウクライナ正教会領"
+ UKR_peoples_republic:0 "ウクライナ人民共和国"
+ UKR_peoples_republic_DEF:0 "ウクライナ人民共和国"
+ UKR_republic:0 "ウクライナ共和国"
+ UKR_republic_DEF:0 "ウクライナ共和国"
+ UKR_republic_marxism-leninism:0 "ウクライナ社会主義共和国"
+ UKR_republic_marxism-leninism_DEF:0 "ウクライナ社会主義共和国"
+ UKR_republic_progressive_socialism:0 "ウクライナ社会主義共和国"
+ UKR_republic_progressive_socialism_DEF:0 "ウクライナ社会主義共和国"
+ UKR_state:0 "ウクライナ国"
+ UKR_state_DEF:0 "ウクライナ国"
+ 
+ VAC_city_state:0 "バチカン市国"
+ VAC_city_state_DEF:0 "バチカン市国"
+ 
+ VEC_most_serene_republic:0 "晴朗極まるヴェネツィア共和国"
+ VEC_most_serene_republic_DEF:0 "晴朗極まるヴェネツィア共和国"
+ 
+ VGE_GER_republic:0 "ヴォルガ・ドイツ人共和国"
+ VGE_GER_republic_DEF:0 "ヴォルガ・ドイツ人共和国"
+ VGE_republic:0 "ヴォルガ共和国"
+ VGE_republic_DEF:0 "ヴォルガ共和国"
+ 
+ WGR_federal_republic:0 "西ドイツ連邦共和国"
+ WGR_federal_republic_DEF:0 "西ドイツ連邦共和国"
+ 
+ WLS_duchy:0 "ウェールズ公国"
+ WLS_duchy_DEF:0 "ウェールズ公国"
+ WLS_republic:0 "ウェールズ共和国"
+ WLS_republic_DEF:0 "ウェールズ共和国"
+ WLS_republic_marxism-leninism:0 "ウェールズ人民共和国"
+ WLS_republic_marxism-leninism_DEF:0 "ウェールズ人民共和国"
+ WLS_republic_progressive_socialism:0 "ウェールズ人民共和国"
+ WLS_republic_progressive_socialism_DEF:0 "ウェールズ人民共和国"
+ 
+ WUR_kingdom:0 "ヴュルテンベルク王国"
+ WUR_kingdom_DEF:0 "ヴュルテンベルク王国"
+ 
+ YUG_federal_republic:0 "ユーゴスラビア連邦共和国"
+ YUG_federal_republic_DEF:0 "ユーゴスラビア連邦共和国"
+ YUG_federal_republic_marxism-leninism:0 "ユーゴスラビア社会主義連邦共和国"
+ YUG_federal_republic_marxism-leninism_DEF:0 "ユーゴスラビア社会主義連邦共和国"
+ YUG_federal_republic_progressive_socialism:0 "ユーゴスラビア社会主義連邦共和国"
+ YUG_federal_republic_progressive_socialism_DEF:0 "ユーゴスラビア社会主義連邦共和国"
+ YUG_kingdom:0 "ユーゴスラビア王国"
+ YUG_kingdom_DEF:0 "ユーゴスラビア王国"
+ 
+#アフリカ
+ ALG_peoples_democratic_republic:0 "アルジェリア民主人民共和国"
+ ALG_peoples_democratic_republic_DEF:0 "アルジェリア民主人民共和国"
+ 
+ ANG_republic:0 "アンゴラ共和国"
+ ANG_republic_DEF:0 "アンゴラ共和国"
+ ANG_republic_marxism-leninism:0 "アンゴラ人民共和国"
+ ANG_republic_marxism-leninism_DEF:0 "アンゴラ人民共和国"
+ ANG_republic_progressive_socialism:0 "アンゴラ人民共和国"
+ ANG_republic_progressive_socialism_DEF:0 "アンゴラ人民共和国"
+ 
+ BOT_republic:0 "ボツワナ共和国"
+ BOT_republic_DEF:0 "ボツワナ共和国"
+ 
+ BRD_republic:0 "ブルンジ共和国"
+ BRD_republic_DEF:0 "ブルンジ共和国"
+ 
+ CAR_republic:0 "中央アフリカ共和国"
+ CAR_republic_DEF:0 "中央アフリカ共和国"
+ CAR_republic_marxism-leninism:0 "中央アフリカ社会主義共和国"
+ CAR_republic_marxism-leninism_DEF:0 "中央アフリカ社会主義共和国"
+ CAR_republic_progressive_socialism:0 "中央アフリカ社会主義共和国"
+ CAR_republic_progressive_socialism_DEF:0 "中央アフリカ社会主義共和国"
+ 
+ CHA_republic:0 "チャド共和国"
+ CHA_republic_DEF:0 "チャド共和国"
+ 
+ CMR_republic:0 "カメルーン共和国"
+ CMR_republic_DEF:0 "カメルーン共和国"
+ 
+ COG_democratic_republic:0 "コンゴ民主共和国"
+ COG_democratic_republic_DEF:0 "コンゴ民主共和国"
+ COG_republic:0 "コンゴ共和国"
+ COG_republic_DEF:0 "コンゴ共和国"
+ 
+ DAH_republic:0 "ダホメ共和国"
+ DAH_republic_DEF:0 "ダホメ共和国"
+ DAH_republic_marxism-leninism:0 "ダホメ人民共和国"
+ DAH_republic_marxism-leninism_DEF:0 "ダホメ人民共和国"
+ DAH_republic_progressive_socialism:0 "ダホメ人民共和国"
+ DAH_republic_progressive_socialism_DEF:0 "ダホメ人民共和国"
+ 
+ DJI_republic:0 "ジブチ共和国"
+ DJI_republic_DEF:0 "ジブチ共和国"
+ 
+ EAF_empire:0 "東アフリカ帝国"
+ EAF_empire_DEF:0 "東アフリカ帝国"
+ 
+ EGY_kingdom:0 "エジプト王国"
+ EGY_kingdom_DEF:0 "エジプト王国"
+ EGY_republic:0 "エジプト共和国"
+ EGY_republic_DEF:0 "エジプト共和国"
+ EGY_republic_marxism-leninism:0 "エジプト民主共和国"
+ EGY_republic_marxism-leninism_DEF:0 "エジプト民主共和国"
+ EGY_republic_progressive_socialism:0 "エジプト民主共和国"
+ EGY_republic_progressive_socialism_DEF:0 "エジプト民主共和国"
+ 
+ EQG_republic:0 "赤道ギニア共和国"
+ EQG_republic_DEF:0 "赤道ギニア共和国"
+ 
+ ERI_republic:0 "エリトリア共和国"
+ ERI_republic_DEF:0 "エリトリア共和国"
+ ERI_republic_marxism-leninism:0 "エリトリア人民共和国"
+ ERI_republic_marxism-leninism_DEF:0 "エリトリア人民共和国"
+ ERI_republic_progressive_socialism:0 "エリトリア人民共和国"
+ ERI_republic_progressive_socialism_DEF:0 "エリトリア人民共和国"
+ ERI_state:0 "エリトリア国"
+ ERI_state_DEF:0 "エリトリア国"
+ 
+ ETH_empire:0 "エチオピア帝国"
+ ETH_empire_DEF:0 "エチオピア帝国"
+ ETH_federal_democratic_republic:0 "エチオピア連邦民主共和国"
+ ETH_federal_democratic_republic_DEF:0 "エチオピア連邦民主共和国"
+ 
+ GAB_republic:0 "ガボン共和国"
+ GAB_republic_DEF:0 "ガボン共和国"
+ 
+ GAM_republic:0 "ガンビア共和国"
+ GAM_republic_DEF:0 "ガンビア共和国"
+ 
+ GHA_republic:0 "ガーナ共和国"
+ GHA_republic_DEF:0 "ガーナ共和国"
+ GHA_republic_marxism-leninism:0 "ガーナ人民共和国"
+ GHA_republic_marxism-leninism_DEF:0 "ガーナ人民共和国"
+ GHA_republic_progressive_socialism:0 "ガーナ人民共和国"
+ GHA_republic_progressive_socialism_DEF:0 "ガーナ人民共和国"
+ 
+ GNA_republic:0 "ギニア共和国"
+ GNA_republic_DEF:0 "ギニア共和国"
+ 
+ GNB_republic:0 "ギニアビサウ共和国"
+ GNB_republic_DEF:0 "ギニアビサウ共和国"
+ 
+ IVO_republic:0 "コートジボワール共和国"
+ IVO_republic_DEF:0 "コートジボワール共和国"
+ 
+ KEN_republic:0 "ケニア共和国"
+ KEN_republic_DEF:0 "ケニア共和国"
+ KEN_unified_provisional_government:0 "統一ケニア臨時政府"
+ KEN_unified_provisional_government_DEF:0 "統一ケニア臨時政府"
+ 
+ LBA_kingdom:0 "リビア王国"
+ LBA_kingdom_DEF:0 "リビア王国"
+ LBA_republic:0 "リビア共和国"
+ LBA_republic_DEF:0 "リビア共和国"
+ LBA_republic_marxism-leninism:0 "リビア人民共和国"
+ LBA_republic_marxism-leninism_DEF:0 "リビア人民共和国"
+ LBA_republic_progressive_socialism:0 "リビア人民共和国"
+ LBA_republic_progressive_socialism_DEF:0 "リビア人民共和国"
+ 
+ LIB_republic:0 "リベリア共和国"
+ LIB_republic_DEF:0 "リベリア共和国"
+ LIB_republic_marxism-leninism:0 "リベリア労働者共和国"
+ LIB_republic_marxism-leninism_DEF:0 "リベリア労働者共和国"
+ LIB_republic_progressive_socialism:0 "リベリア労働者共和国"
+ LIB_republic_progressive_socialism_DEF:0 "リベリア労働者共和国"
+ 
+ MAD_republic:0 "マダガスカル共和国"
+ MAD_republic_DEF:0 "マダガスカル共和国"
+ MAD_republic_marxism-leninism:0 "マダガスカル人民共和国"
+ MAD_republic_marxism-leninism_DEF:0 "マダガスカル人民共和国"
+ MAD_republic_progressive_socialism:0 "マダガスカル人民共和国"
+ MAD_republic_progressive_socialism_DEF:0 "マダガスカル人民共和国"
+ 
+ MLI_republic:0 "マリ共和国"
+ MLI_republic_DEF:0 "マリ共和国"
+ 
+ MLW_republic:0 "マラウィ共和国"
+ MLW_republic_DEF:0 "マラウィ共和国"
+ 
+ MOR_kingdom:0 "モロッコ王国"
+ MOR_kingdom_DEF:0 "モロッコ王国"
+ MOR_republic:0 "モロッコ共和国"
+ MOR_republic_DEF:0 "モロッコ共和国"
+ MOR_republic_marxism-leninism:0 "モロッコ人民共和国"
+ MOR_republic_marxism-leninism_DEF:0 "モロッコ人民共和国"
+ MOR_republic_progressive_socialism:0 "モロッコ人民共和国"
+ MOR_republic_progressive_socialism_DEF:0 "モロッコ人民共和国"
+ 
+ MRT_isramic_republic:0 "モーリタニア・イスラム共和国"
+ MRT_isramic_republic_DEF:0 "モーリタニア・イスラム共和国"
+ 
+ MZB_republic:0 "モザンビーク共和国"
+ MZB_republic_DEF:0 "モザンビーク共和国"
+ MZB_republic_marxism-leninism:0 "モザンビーク人民共和国"
+ MZB_republic_marxism-leninism_DEF:0 "モザンビーク人民共和国"
+ MZB_republic_progressive_socialism:0 "モザンビーク人民共和国"
+ MZB_republic_progressive_socialism_DEF:0 "モザンビーク人民共和国"
+ 
+ NGA_federation_republic:0 "ナイジェリア連邦共和国"
+ NGA_federation_republic_DEF:0 "ナイジェリア連邦共和国"
+ 
+ NGR_republic:0 "ニジェール共和国"
+ NGR_republic_DEF:0 "ニジェール共和国"
+ 
+ NMB_republic:0 "ナミビア共和国"
+ NMB_republic_DEF:0 "ナミビア共和国"
+ 
+ ORM_republic:0 "オロモ共和国"
+ ORM_republic_DEF:0 "オロモ共和国"
+ ORM_republic_marxism-leninism:0 "オロモ社会主義共和国"
+ ORM_republic_marxism-leninism_DEF:0 "オロモ社会主義共和国"
+ ORM_republic_progressive_socialism:0 "オロモ社会主義共和国"
+ ORM_republic_progressive_socialism_DEF:0 "オロモ社会主義共和国"
+ 
+ RCG_republic:0 "中部コンゴ共和国"
+ RCG_republic_DEF:0 "中部コンゴ共和国"
+ 
+ RIF_tribes_confederal_republic:0 "リーフ部族連邦共和国"
+ RIF_tribes_confederal_republic_DEF:0 "リーフ部族連邦共和国"
+ 
+ RWA_kingdom:0 "ルワンダ王国"
+ RWA_kingdom_DEF:0 "ルワンダ王国"
+ RWA_republic:0 "ルワンダ共和国"
+ RWA_republic_DEF:0 "ルワンダ共和国"
+ RWA_republic_marxism-leninism:0 "ルワンダ労働者共和国"
+ RWA_republic_marxism-leninism_DEF:0 "ルワンダ労働者共和国"
+ RWA_republic_progressive_socialism:0 "ルワンダ労働者共和国"
+ RWA_republic_progressive_socialism_DEF:0 "ルワンダ労働者共和国"
+ 
+ SAF_republic:0 "南アフリカ共和国"
+ SAF_republic_DEF:0 "南アフリカ共和国"
+ SAF_republic_marxism-leninism:0 "南アフリカ社会主義共和国"
+ SAF_republic_marxism-leninism_DEF:0 "南アフリカ社会主義共和国"
+ SAF_republic_progressive_socialism:0 "南アフリカ社会主義共和国"
+ SAF_republic_progressive_socialism_DEF:0 "南アフリカ社会主義共和国"
+ SAF_union:0 "南アフリカ連邦"
+ SAF_union_DEF:0 "南アフリカ連邦"
+ 
+ SEN_republic:0 "セネガル共和国"
+ SEN_republic_DEF:0 "セネガル共和国"
+ 
+ SIE_republic:0 "シエラレオネ共和国"
+ SIE_republic_DEF:0 "シエラレオネ共和国"
+ 
+ SOM_boqorate:0 "ソマリア王国"
+ SOM_boqorate_DEF:0 "ソマリア王国"
+ SOM_federal_republic:0 "ソマリア連邦共和国"
+ SOM_federal_republic_DEF:0 "ソマリア連邦共和国"
+ SOM_republic:0 "ソマリア共和国"
+ SOM_republic_DEF:0 "ソマリア共和国"
+ SOM_republic_marxism-leninism:0 "ソマリア民主共和国"
+ SOM_republic_marxism-leninism_DEF:0 "ソマリア民主共和国"
+ SOM_republic_progressive_socialism:0 "ソマリア民主共和国"
+ SOM_republic_progressive_socialism_DEF:0 "ソマリア民主共和国"
+ 
+ SUD_republic:0 "スーダン共和国"
+ SUD_republic_DEF:0 "スーダン共和国"
+ SUD_republic_marxism-leninism:0 "スーダン民主共和国"
+ SUD_republic_marxism-leninism_DEF:0 "スーダン民主共和国"
+ SUD_republic_progressive_socialism:0 "スーダン民主共和国"
+ SUD_republic_progressive_socialism_DEF:0 "スーダン民主共和国"
+ 
+ TOG_republic:0 "トーゴ共和国"
+ TOG_republic_DEF:0 "トーゴ共和国"
+ TOG_republic_marxism-leninism:0 "トーゴ人民共和国"
+ TOG_republic_marxism-leninism_DEF:0 "トーゴ人民共和国"
+ TOG_republic_progressive_socialism:0 "トーゴ人民共和国"
+ TOG_republic_progressive_socialism_DEF:0 "トーゴ人民共和国"
+ 
+ TUN_kingdom:0 "チュニジア王国"
+ TUN_kingdom_DEF:0 "チュニジア王国"
+ TUN_republic:0 "チュニジア共和国"
+ TUN_republic_DEF:0 "チュニジア共和国"
+ TUN_republic_marxism-leninism:0 "チュニジア民主共和国"
+ TUN_republic_marxism-leninism_DEF:0 "チュニジア民主共和国"
+ TUN_republic_progressive_socialism:0 "チュニジア民主共和国"
+ TUN_republic_progressive_socialism_DEF:0 "チュニジア民主共和国"
+ 
+ TZN_united_republic:0 "タンザニア連合共和国"
+ TZN_united_republic_DEF:0 "タンザニア連合共和国"
+ 
+ UGA_republic:0 "ウガンダ共和国"
+ UGA_republic_DEF:0 "ウガンダ共和国"
+ 
+ VOL_republic:0 "オートボルタ共和国"
+ VOL_republic_DEF:0 "オートボルタ共和国"
+ 
+ WES_republic:0 "西サハラ共和国"
+ WES_republic_DEF:0 "西サハラ共和国"
+ 
+ ZAM_republic:0 "ザンビア共和国"
+ ZAM_republic_DEF:0 "ザンビア共和国"
+ 
+ ZIM_national_liberation_front:0 "ジンバブエ民族解放戦線"
+ ZIM_national_liberation_front_DEF:0 "ジンバブエ民族解放戦線"
+ ZIM_republic:0 "ジンバブエ共和国"
+ ZIM_republic_DEF:0 "ジンバブエ共和国"
+ 
+#新大陸
+ ARG_republic:0 "アルゼンチン共和国"
+ ARG_republic_DEF:0 "アルゼンチン共和国"
+ ARG_republic_marxism-leninism:0 "アルゼンチン人民共和国"
+ ARG_republic_marxism-leninism_DEF:0 "アルゼンチン人民共和国"
+ ARG_republic_progressive_socialism:0 "アルゼンチン人民共和国"
+ ARG_republic_progressive_socialism_DEF:0 "アルゼンチン人民共和国"
+ 
+ BAH_state:0 "バハマ国"
+ BAH_state_DEF:0 "バハマ国"
+ 
+ BLZ_republic:0 "ベリーズ共和国"
+ BLZ_republic_DEF:0 "ベリーズ共和国"
+ 
+ BOL_plurinational_state:0 "ボリビア多民族国"
+ BOL_plurinational_state_DEF:0 "ボリビア多民族国"
+ 
+ BRA_confederate_states:0 "ブラジル連合国"
+ BRA_confederate_states_DEF:0 "ブラジル連合国"
+ BRA_empire:0 "ブラジル帝国"
+ BRA_empire_DEF:0 "ブラジル帝国"
+ BRA_united_states:0 "ブラジル合衆国"
+ BRA_united_states_DEF:0 "ブラジル合衆国"
+ 
+ CAN_commonwealth:0 "カナダ連邦"
+ CAN_commonwealth_DEF:0 "カナダ連邦"
+ CAN_republic:0 "カナダ共和国"
+ CAN_republic_DEF:0 "カナダ共和国"
+ CAN_republic_marxism-leninism:0 "カナダ社会主義共和国"
+ CAN_republic_marxism-leninism_DEF:0 "カナダ社会主義共和国"
+ CAN_republic_progressive_socialism:0 "カナダ社会主義共和国"
+ CAN_republic_progressive_socialism_DEF:0 "カナダ社会主義共和国"
+ 
+ CAY_republic:0 "カイエンヌ共和国"
+ CAY_republic_DEF:0 "カイエンヌ共和国"
+ 
+ CHL_republic:0 "チリ共和国"
+ CHL_republic_DEF:0 "チリ共和国"
+ 
+ COL_republic:0 "コロンビア共和国"
+ COL_republic_DEF:0 "コロンビア共和国"
+ 
+ COS_republic:0 "コスタリカ共和国"
+ COS_republic_DEF:0 "コスタリカ共和国"
+ COS_republic_marxism-leninism:0 "コスタリカ人民共和国"
+ COS_republic_marxism-leninism_DEF:0 "コスタリカ人民共和国"
+ COS_republic_progressive_socialism:0 "コスタリカ人民共和国"
+ COS_republic_progressive_socialism_DEF:0 "コスタリカ人民共和国"
+ 
+ CRC_republic:0 "キュラソー共和国"
+ CRC_republic_DEF:0 "キュラソー共和国"
+ 
+ 
+ CUB_republic:0 "キューバ共和国"
+ CUB_republic_DEF:0 "キューバ共和国"
+ 
+ DOM_republic:0 "ドミニカ共和国"
+ DOM_republic_DEF:0 "ドミニカ共和国"
+ DOM_republic_marxism-leninism:0 "ドミニカ社会主義共和国"
+ DOM_republic_marxism-leninism_DEF:0 "ドミニカ社会主義共和国"
+ DOM_republic_progressive_socialism:0 "ドミニカ社会主義共和国"
+ DOM_republic_progressive_socialism_DEF:0 "ドミニカ社会主義共和国"
+ 
+ ECU_republic:0 "エクアドル共和国"
+ ECU_republic_DEF:0 "エクアドル共和国"
+ ECU_republic_marxism-leninism:0 "エクアドル人民共和国"
+ ECU_republic_marxism-leninism_DEF:0 "エクアドル人民共和国"
+ ECU_republic_progressive_socialism:0 "エクアドル人民共和国"
+ ECU_republic_progressive_socialism_DEF:0 "エクアドル人民共和国"
+ 
+ ELS_republic:0 "エルサルバドル共和国"
+ ELS_republic_DEF:0 "エルサルバドル共和国"
+ ELS_republic_marxism-leninism:0 "エルサルバドル民主共和国"
+ ELS_republic_marxism-leninism_DEF:0 "エルサルバドル民主共和国"
+ ELS_republic_progressive_socialism:0 "エルサルバドル民主共和国"
+ ELS_republic_progressive_socialism_DEF:0 "エルサルバドル民主共和国"
+ 
+ GDL_repbulic:0 "グアドループ共和国"
+ GDL_repbulic_DEF:0 "グアドループ共和国"
+ 
+ GUA_republic:0 "グアテマラ共和国"
+ GUA_republic_DEF:0 "グアテマラ共和国"
+ GUA_republic_marxism-leninism:0 "グアテマラ社会主義共和国"
+ GUA_republic_marxism-leninism_DEF:0 "グアテマラ社会主義共和国"
+ GUA_republic_progressive_socialism:0 "グアテマラ社会主義共和国"
+ GUA_republic_progressive_socialism_DEF:0 "グアテマラ社会主義共和国"
+ 
+ GYA_republic:0 "ガイアナ共和国"
+ GYA_republic_DEF:0 "ガイアナ共和国"
+ 
+ HAI_republic:0 "ハイチ共和国"
+ HAI_republic_DEF:0 "ハイチ共和国"
+ 
+ HON_republic:0 "ホンジュラス共和国"
+ HON_republic_DEF:0 "ホンジュラス共和国"
+ HON_republic_marxism-leninism:0 "ホンジュラス人民共和国"
+ HON_republic_marxism-leninism_DEF:0 "ホンジュラス人民共和国"
+ HON_republic_progressive_socialism:0 "ホンジュラス人民共和国"
+ HON_republic_progressive_socialism_DEF:0 "ホンジュラス人民共和国"
+ 
+ JAM_republic:0 "ジャマイカ共和国"
+ JAM_republic_DEF:0 "ジャマイカ共和国"
+ JAM_republic_marxism-leninism:0 "ジャマイカ社会主義共和国"
+ JAM_republic_marxism-leninism_DEF:0 "ジャマイカ社会主義共和国"
+ JAM_republic_progressive_socialism:0 "ジャマイカ社会主義共和国"
+ JAM_republic_progressive_socialism_DEF:0 "ジャマイカ社会主義共和国"
+ 
+ MEX_empire:0 "メキシコ帝国"
+ MEX_empire_DEF:0 "メキシコ帝国"
+ MEX_insurgent:0 "メキシコ反乱軍"
+ MEX_insurgent_DEF:0 "メキシコ反乱軍"
+ MEX_republic:0 "メキシコ共和国"
+ MEX_republic_DEF:0 "メキシコ共和国"
+ MEX_republic_marxism-leninism:0 "メキシコ社会主義共和国"
+ MEX_republic_marxism-leninism_DEF:0 "メキシコ社会主義共和国"
+ MEX_republic_progressive_socialism:0 "メキシコ社会主義共和国"
+ MEX_republic_progressive_socialism_DEF:0 "メキシコ社会主義共和国"
+ MEX_state:0 "メキシコ国"
+ MEX_state_DEF:0 "メキシコ国"
+ MEX_united_states:0 "メキシコ合衆国"
+ MEX_united_states_DEF:0 "メキシコ合衆国"
+ 
+ NIC_republic:0 "ニカラグア共和国"
+ NIC_republic_DEF:0 "ニカラグア共和国"
+ NIC_republic_marxism-leninism:0 "ニカラグア人民共和国"
+ NIC_republic_marxism-leninism_DEF:0 "ニカラグア人民共和国"
+ NIC_republic_progressive_socialism:0 "ニカラグア社会主義人民共和国"
+ NIC_republic_progressive_socialism_DEF:0 "ニカラグア社会主義人民共和国"
+ 
+ PAN_republic:0 "パナマ共和国"
+ PAN_republic_DEF:0 "パナマ共和国"
+ PAN_republic_marxism-leninism:0 "パナマ社会主義共和国"
+ PAN_republic_marxism-leninism_DEF:0 "パナマ社会主義共和国"
+ PAN_republic_progressive_socialism:0 "パナマ社会主義共和国"
+ PAN_republic_progressive_socialism_DEF:0 "パナマ社会主義共和国"
+ 
+ PAR_republic:0 "パラグアイ共和国"
+ PAR_republic_DEF:0 "パラグアイ共和国"
+ 
+ PRU_republic:0 "ペルー共和国"
+ PRU_republic_DEF:0 "ペルー共和国"
+ PRU_republic_marxism-leninism:0 "ペルー社会主義共和国"
+ PRU_republic_marxism-leninism_DEF:0 "ペルー社会主義共和国"
+ PRU_republic_progressive_socialism:0 "ペルー社会主義共和国"
+ PRU_republic_progressive_socialism_DEF:0 "ペルー社会主義共和国"
+ 
+ PUE_state:0 "プエルトリコ国"
+ PUE_state_DEF:0 "プエルトリコ国"
+ 
+ SUR_republic:0 "スリナム共和国"
+ SUR_republic_DEF:0 "スリナム共和国"
+ 
+ TRI_republic:0 "トリニダード共和国"
+ TRI_republic_DEF:0 "トリニダード共和国"
+ 
+ URG_oriental_republic:0 "ウルグアイ東方共和国"
+ URG_oriental_republic_DEF:0 "ウルグアイ東方共和国"
+ 
+ 
+ VEN_republic:0 "ベネズエラ共和国"
+ VEN_republic_DEF:0 "ベネズエラ共和国"
+ VEN_republic_marxism-leninism:0 "ベネズエラ民主共和国"
+ VEN_republic_marxism-leninism_DEF:0 "ベネズエラ民主共和国"
+ VEN_republic_progressive_socialism:0 "ベネズエラ民主共和国"
+ VEN_republic_progressive_socialism_DEF:0 "ベネズエラ民主共和国"
+ 
+#大洋州
+ AST_commonwealth:0 "オーストラリア連邦"
+ AST_commonwealth_DEF:0 "オーストラリア連邦"
+ AST_republic:0 "オーストラリア共和国"
+ AST_republic_DEF:0 "オーストラリア共和国"
+ AST_republic_marxism-leninism:0 "オーストラリア民主共和国"
+ AST_republic_marxism-leninism_DEF:0 "オーストラリア民主共和国"
+ AST_republic_progressive_socialism:0 "オーストラリア民主共和国"
+ AST_republic_progressive_socialism_DEF:0 "オーストラリア民主共和国"
+ 
+ FIJ_kingdom:0 "フィジー王国"
+ FIJ_kingdom_DEF:0 "フィジー王国"
+ FIJ_republic:0 "フィジー共和国"
+ FIJ_republic_DEF:0 "フィジー共和国"
+ FIJ_republic_marxism-leninism:0 "フィジー人民共和国"
+ FIJ_republic_marxism-leninism_DEF:0 "フィジー人民共和国"
+ FIJ_republic_progressive_socialism:0 "フィジー人民共和国"
+ FIJ_republic_progressive_socialism_DEF:0 "フィジー人民共和国"
+ 
+ FSM_federated_states:0 "ミクロネシア連邦"
+ FSM_federated_states_DEF:0 "ミクロネシア連邦"
+ 
+ GUM_state:0 "グアム国"
+ GUM_state_DEF:0 "グアム国"
+ 
+ HAW_kingdom:0 "ハワイ王国"
+ HAW_kingdom_DEF:0 "ハワイ王国"
+ HAW_republic:0 "ハワイ共和国"
+ HAW_republic_DEF:0 "ハワイ共和国"
+ 
+ NZL_kingdom:0 "ニュージーランド王国"
+ NZL_kingdom_DEF:0 "ニュージーランド王国"
+ NZL_realm:0 "ニュージーランド王国"
+ NZL_realm_DEF:0 "ニュージーランド王国"
+ NZL_republic:0 "ニュージーランド共和国"
+ NZL_republic_DEF:0 "ニュージーランド共和国"
+ NZL_republic_marxism-leninism:0 "ニュージーランド人民共和国"
+ NZL_republic_marxism-leninism_DEF:0 "ニュージーランド人民共和国"
+ NZL_republic_progressive_socialism:0 "ニュージーランド人民共和国"
+ NZL_republic_progressive_socialism_DEF:0 "ニュージーランド人民共和国"
+ 
+ PNG_independent_state:0 "パプアニューギニア独立国"
+ PNG_independent_state_DEF:0 "パプアニューギニア独立国"
+ 
+ SAM_independent_state:0 "サモア独立国"
+ SAM_independent_state_DEF:0 "サモア独立国"
+ 
+ SOL_republic:0 "ソロモン共和国"
+ SOL_republic_DEF:0 "ソロモン共和国"
+ 
+ TAH_kingdom:0 "タヒチ王国"
+ TAH_kingdom_DEF:0 "タヒチ王国"
+ 
+#アメリカ諸州
+##追加国家
+#アジア
+ 
+ 
+ AMR_republic:0 "アムール共和国"
+ AMR_republic_DEF:0 "アムール共和国"
+ 
+ 
+ ARC_council:0 "北極評議会"
+ ARC_council_DEF:0 "北極評議会"
+ 
+ ARK_liberation_army:0 "アラカン解放軍"
+ ARK_liberation_army_DEF:0 "アラカン解放軍"
+ 
+ BHR_kingdom:0 "バーレーン王国"
+ BHR_kingdom_DEF:0 "バーレーン王国"
+ BHR_republic:0 "バーレーン共和国"
+ BHR_republic_DEF:0 "バーレーン共和国"
+ BHR_republic_marxism-leninism:0 "バーレーン民主共和国"
+ BHR_republic_marxism-leninism_DEF:0 "バーレーン民主共和国"
+ BHR_republic_progressive_socialism:0 "バーレーン民主共和国"
+ BHR_republic_progressive_socialism_DEF:0 "バーレーン民主共和国"
+ 
+ BOM_republic:0 "ボンベイ共和国"
+ BOM_republic_DEF:0 "ボンベイ共和国"
+ 
+ BRN_peace_abode_state:0 "ブルネイ・ダルサラーム国"
+ BRN_peace_abode_state_DEF:0 "ブルネイ・ダルサラーム国"
+ 
+ 
+ CCS_federation:0 "コーカサス連邦"
+ CCS_federation_DEF:0 "コーカサス連邦"
+ CCS_red_army:0 "赤軍コーカサス方面軍"
+ CCS_red_army_DEF:0 "赤軍コーカサス方面軍"
+ CCS_republic:0 "コーカサス共和国"
+ CCS_republic_DEF:0 "コーカサス共和国"
+ 
+ CHN_national_front:0 "チン国民戦線"
+ CHN_national_front_DEF:0 "チン国民戦線"
+ 
+ 
+ 
+ ETR_republic:0 "東トルキスタン共和国"
+ ETR_republic_DEF:0 "東トルキスタン共和国"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HEZ_kingdom:0 "ヒジャーズ王国"
+ HEZ_kingdom_DEF:0 "ヒジャーズ王国"
+ 
+ 
+ 
+ 
+ HYD_kingdom:0 "ハイデラバード王国"
+ HYD_kingdom_DEF:0 "ハイデラバード王国"
+ HYD_republic:0 "ハイデラバード共和国"
+ HYD_republic_DEF:0 "ハイデラバード共和国"
+ HYD_republic_marxism-leninism:0 "ハイデラバード労働者共和国"
+ HYD_republic_marxism-leninism_DEF:0 "ハイデラバード労働者共和国"
+ HYD_republic_progressive_socialism:0 "ハイデラバード労働者共和国"
+ HYD_republic_progressive_socialism_DEF:0 "ハイデラバード労働者共和国"
+ 
+ 
+ 
+ INC_union:0 "インドシナ連合"
+ INC_union_DEF:0 "インドシナ連合"
+ 
+ INO_union:0 "インド洋連合"
+ INO_union_DEF:0 "インド洋連合"
+ 
+ 
+ 
+ JAK_kingdom:0 "ジャンムー・カシミール王国"
+ JAK_kingdom_DEF:0 "ジャンムー・カシミール王国"
+ 
+ KAC_independence_army:0 "カチン独立軍"
+ KAC_independence_army_DEF:0 "カチン独立軍"
+ 
+ 
+ 
+ 
+ 
+ KHA_republic:0 "ハバロフスク共和国"
+ KHA_republic_DEF:0 "ハバロフスク共和国"
+ KHA_republic_marxism-leninism:0 "ハバロフスク社会主義共和国"
+ KHA_republic_marxism-leninism_DEF:0 "ハバロフスク社会主義共和国"
+ KHA_republic_progressive_socialism:0 "ハバロフスク社会主義共和国"
+ KHA_republic_progressive_socialism_DEF:0 "ハバロフスク社会主義共和国"
+ 
+ KHA_republic:0 "ハバロフスク共和国"
+ KHA_republic_DEF:0 "ハバロフスク共和国"
+ KHA_republic_marxism-leninism:0 "ハバロフスク社会主義共和国"
+ KHA_republic_marxism-leninism_DEF:0 "ハバロフスク社会主義共和国"
+ KHA_republic_progressive_socialism:0 "ハバロフスク社会主義共和国"
+ KHA_republic_progressive_socialism_DEF:0 "ハバロフスク社会主義共和国"
+ 
+ KHM_state:0 "カム国"
+ KHM_state_DEF:0 "カム国"
+ 
+ 
+ 
+ KRE_national_liberation_army:0 "カレン民族解放軍"
+ KRE_national_liberation_army_DEF:0 "カレン民族解放軍"
+ 
+ KUM_khanate:0 "クムル・ハン国"
+ KUM_khanate_DEF:0 "クムル・ハン国"
+ KUM_republic:0 "クムル共和国"
+ KUM_republic_DEF:0 "クムル共和国"
+ KUM_republic_marxism-leninism:0 "クムル人民共和国"
+ KUM_republic_marxism-leninism_DEF:0 "クムル人民共和国"
+ KUM_republic_progressive_socialism:0 "クムル人民共和国"
+ KUM_republic_progressive_socialism_DEF:0 "クムル人民共和国"
+ 
+ 
+ 
+ MDU_republic:0 "マドゥライ共和国"
+ MDU_republic_DEF:0 "マドゥライ共和国"
+ 
+ 
+ 
+ 
+ 
+ MYS_kingdom:0 "マイソール王国"
+ MYS_kingdom_DEF:0 "マイソール王国"
+ MYS_republic:0 "マイソール共和国"
+ MYS_republic_DEF:0 "マイソール共和国"
+ MYS_republic_marxism-leninism:0 "マイソール人民共和国"
+ MYS_republic_marxism-leninism_DEF:0 "マイソール人民共和国"
+ MYS_republic_progressive_socialism:0 "マイソール人民共和国"
+ MYS_republic_progressive_socialism_DEF:0 "マイソール人民共和国"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SAR_raj:0 "サラワク王国"
+ SAR_raj_DEF:0 "サラワク王国"
+ SAR_republic:0 "サラワク共和国"
+ SAR_republic_DEF:0 "サラワク共和国"
+ SAR_republic_marxism-leninism:0 "サラワク人民共和国"
+ SAR_republic_marxism-leninism_DEF:0 "サラワク人民共和国"
+ SAR_republic_progressive_socialism:0 "サラワク人民共和国"
+ SAR_republic_progressive_socialism_DEF:0 "サラワク人民共和国"
+ 
+ SHA_state_army:0 "シャン州軍"
+ SHA_state_army_DEF:0 "シャン州軍"
+ 
+ 
+ SIB_republic:0 "シベリア共和国"
+ SIB_republic_DEF:0 "シベリア共和国"
+ SIB_republic_marxism-leninism:0 "シベリア社会主義共和国"
+ SIB_republic_marxism-leninism_DEF:0 "シベリア社会主義共和国"
+ SIB_republic_progressive_socialism:0 "シベリア社会主義共和国"
+ SIB_republic_progressive_socialism_DEF:0 "シベリア社会主義共和国"
+ 
+ 
+ SIN_republic:0 "シンガポール共和国"
+ SIN_republic_DEF:0 "シンガポール共和国"
+ SIN_republic_marxism-leninism:0 "シンガポール社会主義共和国"
+ SIN_republic_marxism-leninism_DEF:0 "シンガポール社会主義共和国"
+ SIN_republic_progressive_socialism:0 "シンガポール社会主義共和国"
+ SIN_republic_progressive_socialism_DEF:0 "シンガポール社会主義共和国"
+ 
+ 
+ SKM_kingdom:0 "シッキム王国"
+ SKM_kingdom_DEF:0 "シッキム王国"
+ SKM_republic:0 "シッキム共和国"
+ SKM_republic_DEF:0 "シッキム共和国"
+ SKM_republic_marxism-leninism:0 "シッキム民主共和国"
+ SKM_republic_marxism-leninism_DEF:0 "シッキム民主共和国"
+ SKM_republic_progressive_socialism:0 "シッキム民主共和国"
+ SKM_republic_progressive_socialism_DEF:0 "シッキム民主共和国"
+ 
+ SZE_natinal_government:0 "四川国民政府"
+ SZE_natinal_government_DEF:0 "四川国民政府"
+ 
+ 
+ 
+ 
+ TLS_democratic_republic:0 "東ティモール民主共和国"
+ TLS_democratic_republic_DEF:0 "東ティモール民主共和国"
+ 
+ 
+ 
+ 
+ TRK_legion:0 "トルキスタン軍団"
+ TRK_legion_DEF:0 "トルキスタン軍団"
+ 
+ TRV_kingdom:0 "トラヴァンコール王国"
+ TRV_kingdom_DEF:0 "トラヴァンコール王国"
+ TRV_republic:0 "トラヴァンコール共和国"
+ TRV_republic_DEF:0 "トラヴァンコール共和国"
+ TRV_republic_marxism-leninism:0 "トラヴァンコール社会主義共和国"
+ TRV_republic_marxism-leninism_DEF:0 "トラヴァンコール社会主義共和国"
+ TRV_republic_progressive_socialism:0 "トラヴァンコール社会主義共和国"
+ TRV_republic_progressive_socialism_DEF:0 "トラヴァンコール社会主義共和国"
+ 
+ TWN_empire:0 "台湾帝国"
+ TWN_empire_DEF:0 "台湾帝国"
+ TWN_kingdom:0 "台湾王国"
+ TWN_kingdom_DEF:0 "台湾王国"
+ TWN_republic:0 "台湾共和国"
+ TWN_republic_DEF:0 "台湾共和国"
+ TWN_state:0 "台湾国"
+ TWN_state_DEF:0 "台湾国"
+ 
+ URA_republic:0 "ウラル共和国"
+ URA_republic_DEF:0 "ウラル共和国"
+ 
+ 
+ WTR_federation:0 "西トルキスタン連邦"
+ WTR_federation_DEF:0 "西トルキスタン連邦"
+ 
+ 
+ 
+ 
+#ヨーロッパ
+ ADR_co-principality:0 "アンドラ共同公国"
+ ADR_co-principality_DEF:0 "アンドラ共同公国"
+ ADR_republic:0 "アンドラ共和国"
+ ADR_republic_DEF:0 "アンドラ共和国"
+ ADR_republic_marxism-leninism:0 "アンドラ社会主義共和国"
+ ADR_republic_marxism-leninism_DEF:0 "アンドラ社会主義共和国"
+ ADR_republic_progressive_socialism:0 "アンドラ社会主義共和国"
+ ADR_republic_progressive_socialism_DEF:0 "アンドラ社会主義共和国"
+ 
+ ADY_republic:0 "アディゲ共和国"
+ ADY_republic_DEF:0 "アディゲ共和国"
+ 
+ 
+ ATL_federation:0 "大西洋連邦"
+ ATL_federation_DEF:0 "大西洋連邦"
+ 
+ 
+ BAL_federal_republic:0 "バルト連邦共和国"
+ BAL_federal_republic_DEF:0 "バルト連邦共和国"
+ BAL_federal_republic_marxism-leninism:0 "バルト社会主義連邦共和国"
+ BAL_federal_republic_marxism-leninism_DEF:0 "バルト社会主義連邦共和国"
+ BAL_federal_republic_progressive_socialism:0 "バルト社会主義連邦共和国"
+ BAL_federal_republic_progressive_socialism_DEF:0 "バルト社会主義連邦共和国"
+ BAL_federation:0 "バルト連邦"
+ BAL_federation_DEF:0 "バルト連邦"
+ BAL_united_duchy:0 "バルト連合公国"
+ BAL_united_duchy_DEF:0 "バルト連合公国"
+ 
+ 
+ BLK_federation:0 "バルカン連邦"
+ BLK_federation_DEF:0 "バルカン連邦"
+ BLK_federation_anarchism:0 "バルカン無政府主義連邦"
+ BLK_federation_anarchism_DEF:0 "バルカン無政府主義連邦"
+ BLK_federation_marxism-leninism:0 "バルカン社会主義連邦"
+ BLK_federation_marxism-leninism_DEF:0 "バルカン社会主義連邦"
+ BLK_federation_progressive_socialism:0 "バルカン社会主義連邦"
+ BLK_federation_progressive_socialism_DEF:0 "バルカン社会主義連邦"
+ BLK_united_kingdom:0 "バルカン連合王国"
+ BLK_united_kingdom_DEF:0 "バルカン連合王国"
+ 
+ CHE_republic:0 "チェチェン共和国"
+ CHE_republic_DEF:0 "チェチェン共和国"
+ 
+ COW_duchy:0 "コーンウォール公国"
+ COW_duchy_DEF:0 "コーンウォール公国"
+ 
+ 
+ 
+ DAL_republic:0 "ダルマチア共和国"
+ DAL_republic_DEF:0 "ダルマチア共和国"
+ 
+ DET_republic:0 "ドニエストル共和国"
+ DET_republic_DEF:0 "ドニエストル共和国"
+ 
+ 
+ EKA_republic:0 "エカテリノダール共和国"
+ EKA_republic_DEF:0 "エカテリノダール共和国"
+ 
+ 
+ FLA_republic:0 "フランドル共和国"
+ FLA_republic_DEF:0 "フランドル共和国"
+ FLA_republic_marxism-leninism:0 "フランドル社会主義共和国"
+ FLA_republic_marxism-leninism_DEF:0 "フランドル社会主義共和国"
+ FLA_republic_progressive_socialism:0 "フランドル社会主義共和国"
+ FLA_republic_progressive_socialism_DEF:0 "フランドル社会主義共和国"
+ 
+ FRI_republic:0 "フェロー共和国"
+ FRI_republic_DEF:0 "フェロー共和国"
+ 
+ GAL_republic:0 "ガリツィア＝ロドメリア共和国"
+ GAL_republic_DEF:0 "ガリツィア＝ロドメリア共和国"
+ 
+ 
+ IBE_empire:0 "イベリア帝国"
+ IBE_empire_DEF:0 "イベリア帝国"
+ IBE_regional_defence_council:0 "イベリア地域防衛評議会"
+ IBE_regional_defence_council_DEF:0 "イベリア地域防衛評議会"
+ IBE_union:0 "イベリア連合"
+ IBE_union_DEF:0 "イベリア連合"
+ IBE_union_marxism-leninism:0 "イベリア社会主義連合"
+ IBE_union_marxism-leninism_DEF:0 "イベリア社会主義連合"
+ IBE_union_progressive_socialism:0 "イベリア社会主義連合"
+ IBE_union_progressive_socialism_DEF:0 "イベリア社会主義連合"
+ 
+ ING_republic:0 "イングーシ共和国"
+ ING_republic_DEF:0 "イングーシ共和国"
+ 
+ INT_federal_republic:0 "インテルマリウム連邦共和国"
+ INT_federal_republic_DEF:0 "インテルマリウム連邦共和国"
+ 
+ 
+ 
+ KRA_union:0 "クラスノダール連合"
+ KRA_union_DEF:0 "クラスノダール連合"
+ 
+ KRC_republic:0 "カラチャイ・チェルケス共和国"
+ KRC_republic_DEF:0 "カラチャイ・チェルケス共和国"
+ 
+ LAP_federation:0 "ラップランド連邦"
+ LAP_federation_DEF:0 "ラップランド連邦"
+ 
+ LIE_principality:0 "リヒテンシュタイン公国"
+ LIE_principality_DEF:0 "リヒテンシュタイン公国"
+ LIE_republic:0 "リヒテンシュタイン共和国"
+ LIE_republic_DEF:0 "リヒテンシュタイン共和国"
+ LIE_republic_marxism-leninism:0 "リヒテンシュタイン人民共和国"
+ LIE_republic_marxism-leninism_DEF:0 "リヒテンシュタイン人民共和国"
+ LIE_republic_progressive_socialism:0 "リヒテンシュタイン人民共和国"
+ LIE_republic_progressive_socialism_DEF:0 "リヒテンシュタイン人民共和国"
+ 
+ LIV_kingdom:0 "リヴォニア王国"
+ LIV_kingdom_DEF:0 "リヴォニア王国"
+ LIV_republic:0 "リヴォニア共和国"
+ LIV_republic_DEF:0 "リヴォニア共和国"
+ 
+ 
+ LMK_republic:0 "レムコ共和国"
+ LMK_republic_DEF:0 "レムコ共和国"
+ 
+ MCO_principality:0 "モナコ公国"
+ MCO_principality_DEF:0 "モナコ公国"
+ MCO_republic:0 "モナコ共和国"
+ MCO_republic_DEF:0 "モナコ共和国"
+ MCO_republic_marxism-leninism:0 "モナコ社会主義共和国"
+ MCO_republic_marxism-leninism_DEF:0 "モナコ社会主義共和国"
+ MCO_republic_progressive_socialism:0 "モナコ社会主義共和国"
+ MCO_republic_progressive_socialism_DEF:0 "モナコ社会主義共和国"
+ 
+ 
+ MOS_grand_principality:0 "モスクワ大公国"
+ MOS_grand_principality_DEF:0 "モスクワ大公国"
+ MOS_republic:0 "モスクワ共和国"
+ MOS_republic_DEF:0 "モスクワ共和国"
+ MOS_republic_marxism-leninism:0 "モスクワ社会主義共和国"
+ MOS_republic_marxism-leninism_DEF:0 "モスクワ社会主義共和国"
+ MOS_republic_progressive_socialism:0 "モスクワ社会主義共和国"
+ MOS_republic_progressive_socialism_DEF:0 "モスクワ社会主義共和国"
+ 
+ MOU_republic:0 "山岳共和国"
+ MOU_republic_DEF:0 "山岳共和国"
+ 
+ MRD_republic:0 "モルドヴィア共和国"
+ MRD_republic_DEF:0 "モルドヴィア共和国"
+ 
+ 
+ 
+ 
+ POI_republic:0 "ポワトゥー共和国"
+ POI_republic_DEF:0 "ポワトゥー共和国"
+ 
+ PRV_republic:0 "プロヴァンス共和国"
+ PRV_republic_DEF:0 "プロヴァンス共和国"
+ 
+ 
+ RUS_aristocratic_council:0 "ロシア貴族評議会"
+ RUS_aristocratic_council_DEF:0 "ロシア貴族評議会"
+ RUS_confederate_states:0 "ロシア連合国"
+ RUS_confederate_states_DEF:0 "ロシア連合国"
+ RUS_empire:0 "ロシア帝国"
+ RUS_empire_DEF:0 "ロシア帝国"
+ RUS_federation:0 "ロシア連邦"
+ RUS_federation_DEF:0 "ロシア連邦"
+ RUS_free_territory:0 "ロシア自由地区"
+ RUS_free_territory_DEF:0 "ロシア自由地区"
+ RUS_liberation_army:0 "ロシア解放軍"
+ RUS_liberation_army_DEF:0 "ロシア解放軍"
+ RUS_republic:0 "ロシア共和国"
+ RUS_republic_DEF:0 "ロシア共和国"
+ RUS_republic_marxism-leninism:0 "ロシア社会主義共和国"
+ RUS_republic_marxism-leninism_DEF:0 "ロシア社会主義共和国"
+ RUS_republic_progressive_socialism:0 "ロシア社会主義共和国"
+ RUS_republic_progressive_socialism_DEF:0 "ロシア社会主義共和国"
+ RUS_sky_liberation_alliance:0 "ロシアの空解放同盟"
+ RUS_sky_liberation_alliance_DEF:0 "ロシアの空解放同盟"
+ RUS_state:0 "ロシア国"
+ RUS_state_DEF:0 "ロシア国"
+ RUS_united_states:0 "ロシア合衆国"
+ RUS_united_states_DEF:0 "ロシア合衆国"
+ 
+ SCA_federation:0 "スカンディナヴィア連邦"
+ SCA_federation_DEF:0 "スカンディナヴィア連邦"
+ SCA_united_kingdom:0 "スカンディナヴィア連合王国"
+ SCA_united_kingdom_DEF:0 "スカンディナヴィア連合王国"
+ 
+ SMR_most_serene_republic:0 "晴朗極まるサンマリノ共和国"
+ SMR_most_serene_republic_DEF:0 "晴朗極まるサンマリノ共和国"
+ 
+ SOA_repulic:0 "南オセチア共和国"
+ SOA_repulic_DEF:0 "南オセチア共和国"
+ 
+ TER_state:0 "テレク国"
+ TER_state_DEF:0 "テレク国"
+ 
+ TEU_order_state:0 "チュートン騎士団国"
+ TEU_order_state_DEF:0 "チュートン騎士団国"
+ 
+ TRC_state:0 "トランスコーカサス国"
+ TRC_state_DEF:0 "トランスコーカサス国"
+ 
+ 
+ VIC_republic:0 "ヴィシー共和国"
+ VIC_republic_DEF:0 "ヴィシー共和国"
+ 
+ VOJ_republic:0 "ヴォイヴォディナ共和国"
+ VOJ_republic_DEF:0 "ヴォイヴォディナ共和国"
+ 
+ WLC_principality:0 "ワラキア公国"
+ WLC_principality_DEF:0 "ワラキア公国"
+ WLC_republic:0 "ワラキア共和国"
+ WLC_republic_DEF:0 "ワラキア共和国"
+ WLC_republic_marxism-leninism:0 "ワラキア社会主義共和国"
+ WLC_republic_marxism-leninism_DEF:0 "ワラキア社会主義共和国"
+ WLC_republic_progressive_socialism:0 "ワラキア社会主義共和国"
+ WLC_republic_progressive_socialism_DEF:0 "ワラキア社会主義共和国"
+ 
+ WLL_republic:0 "ワロン共和国"
+ WLL_republic_DEF:0 "ワロン共和国"
+ 
+ ZAP_cossack_republic:0 "ザポロージャ・コサック共和国"
+ ZAP_cossack_republic_DEF:0 "ザポロージャ・コサック共和国"
+ 
+#アフリカ
+ COM_state:0 "コモロ国"
+ COM_state_DEF:0 "コモロ国"
+ 
+ CPV_republic:0 "カーボベルデ共和国"
+ CPV_republic_DEF:0 "カーボベルデ共和国"
+ CPV_republic_marxism-leninism:0 "カーボベルデ民主共和国"
+ CPV_republic_marxism-leninism_DEF:0 "カーボベルデ民主共和国"
+ CPV_republic_progressive_socialism:0 "カーボベルデ民主共和国"
+ CPV_republic_progressive_socialism_DEF:0 "カーボベルデ民主共和国"
+ 
+ EQA_republic:0 "赤道アフリカ共和国"
+ EQA_republic_DEF:0 "赤道アフリカ共和国"
+ 
+ 
+ KLE_democratic_republic:0 "カレンジン民主共和国"
+ KLE_democratic_republic_DEF:0 "カレンジン民主共和国"
+ 
+ LES_kingdom:0 "レソト王国"
+ LES_kingdom_DEF:0 "レソト王国"
+ LES_republic:0 "レソト共和国"
+ LES_republic_DEF:0 "レソト共和国"
+ LES_republic_marxism-leninism:0 "レソト人民共和国"
+ LES_republic_marxism-leninism_DEF:0 "レソト人民共和国"
+ LES_republic_progressive_socialism:0 "レソト人民共和国"
+ LES_republic_progressive_socialism_DEF:0 "レソト人民共和国"
+ 
+ MAF_united_republic:0 "中部アフリカ連合共和国"
+ MAF_united_republic_DEF:0 "中部アフリカ連合共和国"
+ 
+ MUS_republic:0 "モーリシャス共和国"
+ MUS_republic_DEF:0 "モーリシャス共和国"
+ 
+ MWA_union:0 "ムワミ連合"
+ MWA_union_DEF:0 "ムワミ連合"
+ 
+ OUB_republic:0 "ウバンギ共和国"
+ OUB_republic_DEF:0 "ウバンギ共和国"
+ 
+ RHO_republic:0 "ローデシア共和国"
+ RHO_republic_DEF:0 "ローデシア共和国"
+ 
+ RMN_republic:0 "鉱山共和国"
+ RMN_republic_DEF:0 "鉱山共和国"
+ 
+ 
+ SML_republic:0 "ソマリランド共和国"
+ SML_republic_DEF:0 "ソマリランド共和国"
+ SML_republic_marxism-leninism:0 "ソマリランド社会主義共和国"
+ SML_republic_marxism-leninism_DEF:0 "ソマリランド社会主義共和国"
+ SML_republic_progressive_socialism:0 "ソマリランド社会主義共和国"
+ SML_republic_progressive_socialism_DEF:0 "ソマリランド社会主義共和国"
+ SML_state:0 "ソマリランド国"
+ SML_state_DEF:0 "ソマリランド国"
+ 
+ SSD_republic:0 "南スーダン共和国"
+ SSD_republic_DEF:0 "南スーダン共和国"
+ 
+ STP_democratic_republic:0 "サントメ・プリンシペ民主共和国"
+ STP_democratic_republic_DEF:0 "サントメ・プリンシペ民主共和国"
+ 
+ 
+ SWL_kingdom:0 "スワジランド王国"
+ SWL_kingdom_DEF:0 "スワジランド王国"
+ SWL_republic:0 "スワジランド共和国"
+ SWL_republic_DEF:0 "スワジランド共和国"
+ SWL_republic_marxism-leninism:0 "スワジランド社会主義共和国"
+ SWL_republic_marxism-leninism_DEF:0 "スワジランド社会主義共和国"
+ SWL_republic_progressive_socialism:0 "スワジランド社会主義共和国"
+ SWL_republic_progressive_socialism_DEF:0 "スワジランド社会主義共和国"
+ 
+ SYC_republic:0 "セーシェル共和国"
+ SYC_republic_DEF:0 "セーシェル共和国"
+ 
+ TAN_republic:0 "タンガニーカ共和国"
+ TAN_republic_DEF:0 "タンガニーカ共和国"
+ 
+ UEL_entente_state:0 "ウエレ協商国"
+ UEL_entente_state_DEF:0 "ウエレ協商国"
+ 
+ WAF_federation:0 "西アフリカ連邦"
+ WAF_federation_DEF:0 "西アフリカ連邦"
+ WAF_union:0 "西アフリカ連合"
+ WAF_union_DEF:0 "西アフリカ連合"
+ 
+ ZZB_republic:0 "ザンジバル共和国"
+ ZZB_republic_DEF:0 "ザンジバル共和国"
+ ZZB_republic_marxism-leninism:0 "ザンジバル民主共和国"
+ ZZB_republic_marxism-leninism_DEF:0 "ザンジバル民主共和国"
+ ZZB_republic_progressive_socialism:0 "ザンジバル民主共和国"
+ ZZB_republic_progressive_socialism_DEF:0 "ザンジバル民主共和国"
+ ZZB_sultanate:0 "ザンジバル・スルタン国"
+ ZZB_sultanate_DEF:0 "ザンジバル・スルタン国"
+ 
+#新大陸
+ ATG_republic:0 "アンティグア・バーブーダ共和国"
+ ATG_republic_DEF:0 "アンティグア・バーブーダ共和国"
+ 
+ BRB_republic:0 "バルバドス共和国"
+ BRB_republic_DEF:0 "バルバドス共和国"
+ 
+ CEN_federation:0 "中央アメリカ連邦"
+ CEN_federation_DEF:0 "中央アメリカ連邦"
+ 
+ CMB_republic:0 "カンバ共和国"
+ CMB_republic_DEF:0 "カンバ共和国"
+ 
+ DMA_commonwealth:0 "ドミニカ国"
+ DMA_commonwealth_DEF:0 "ドミニカ国"
+ 
+ GRD_republic:0 "グレナダ共和国"
+ GRD_republic_DEF:0 "グレナダ共和国"
+ 
+ GRL_republic:0 "グリーンランド共和国"
+ GRL_republic_DEF:0 "グリーンランド共和国"
+ 
+ KNA_republic:0 "セントクリストファー・ネビス共和国"
+ KNA_republic_DEF:0 "セントクリストファー・ネビス共和国"
+ 
+ LCA_republic:0 "セントルシア共和国"
+ LCA_republic_DEF:0 "セントルシア共和国"
+ 
+ NFL_republic:0 "ニューファンドランド共和国"
+ NFL_republic_DEF:0 "ニューファンドランド共和国"
+ NFL_republic_marxism-leninism:0 "ニューファンドランド社会主義共和国"
+ NFL_republic_marxism-leninism_DEF:0 "ニューファンドランド社会主義共和国"
+ NFL_republic_progressive_socialism:0 "ニューファンドランド社会主義共和国"
+ NFL_republic_progressive_socialism_DEF:0 "ニューファンドランド社会主義共和国"
+ 
+ 
+ QUB_republic:0 "ケベック共和国"
+ QUB_republic_DEF:0 "ケベック共和国"
+ 
+ SAC_nations_union:0 "南アメリカ諸国連合"
+ SAC_nations_union_DEF:0 "南アメリカ諸国連合"
+ 
+ SRA_republic:0 "アマゾナス共和国"
+ SRA_republic_DEF:0 "アマゾナス共和国"
+ SRA_republic_marxism-leninism:0 "アマゾナス社会主義共和国"
+ SRA_republic_marxism-leninism_DEF:0 "アマゾナス社会主義共和国"
+ SRA_republic_progressive_socialism:0 "アマゾナス社会主義共和国"
+ SRA_republic_progressive_socialism_DEF:0 "アマゾナス社会主義共和国"
+ 
+ VCT_republic:0 "セントビンセント・グレナディーン共和国"
+ VCT_republic_DEF:0 "セントビンセント・グレナディーン共和国"
+ 
+#大洋州
+ 
+ KIR_republic:0 "キリバス共和国"
+ KIR_republic_DEF:0 "キリバス共和国"
+ 
+ 
+ NCL_republic:0 "ニューカレドニア共和国"
+ NCL_republic_DEF:0 "ニューカレドニア共和国"
+ 
+ NIU_republic:0 "ニウエ共和国"
+ NIU_republic_DEF:0 "ニウエ共和国"
+ 
+ NRU_republic:0 "ナウル共和国"
+ NRU_republic_DEF:0 "ナウル共和国"
+ 
+ PAO_community:0 "太平洋共同体"
+ PAO_community_DEF:0 "太平洋共同体"
+ 
+ PLW_republic:0 "パラオ共和国"
+ PLW_republic_DEF:0 "パラオ共和国"
+ 
+ TON_kingdom:0 "トンガ王国"
+ TON_kingdom_DEF:0 "トンガ王国"
+ TON_united_republic:0 "トンガ連合共和国"
+ TON_united_republic_DEF:0 "トンガ連合共和国"
+ 
+ TVL_republic:0 "ツバル共和国"
+ TVL_republic_DEF:0 "ツバル共和国"
+ 
+ VUT_republic:0 "バヌアツ共和国"
+ VUT_republic_DEF:0 "バヌアツ共和国"
+ 
+ WPO_commonwealth:0 "西太平洋連邦"
+ WPO_commonwealth_DEF:0 "西太平洋連邦"
+ 
+#アメリカ諸州
+ AKS_republic:0 "アーカンソー共和国"
+ AKS_republic_DEF:0 "アーカンソー共和国"
+ 
+ ALS_realm:0 "アラスカ王国"
+ ALS_realm_DEF:0 "アラスカ王国"
+ ALS_republic:0 "アラスカ共和国"
+ ALS_republic_DEF:0 "アラスカ共和国"
+ 
+ CAL_republic:0 "カリフォルニア共和国"
+ CAL_republic_DEF:0 "カリフォルニア共和国"
+ 
+ CSC_republic:0 "カスカディア共和国"
+ CSC_republic_DEF:0 "カスカディア共和国"
+ 
+ FLO_republic:0 "フロリダ共和国"
+ FLO_republic_DEF:0 "フロリダ共和国"
+ 
+ LUI_republic:0 "ルイジアナ共和国"
+ LUI_republic_DEF:0 "ルイジアナ共和国"
+ 
+ NEL_republic:0 "ニューイングランド共和国"
+ NEL_republic_DEF:0 "ニューイングランド共和国"
+ NEL_republic_marxism-leninism:0 "ニューイングランド社会主義共和国"
+ NEL_republic_marxism-leninism_DEF:0 "ニューイングランド社会主義共和国"
+ NEL_republic_progressive_socialism:0 "ニューイングランド社会主義共和国"
+ NEL_republic_progressive_socialism_DEF:0 "ニューイングランド社会主義共和国"
+ NEL_united_states:0 "ニューイングランド合衆国"
+ NEL_united_states_DEF:0 "ニューイングランド合衆国"
+ 
+ OKL_republic:0 "オクラホマ共和国"
+ OKL_republic_DEF:0 "オクラホマ共和国"
+ 
+ TEX_republic:0 "テキサス共和国"
+ TEX_republic_DEF:0 "テキサス共和国"
+ 
