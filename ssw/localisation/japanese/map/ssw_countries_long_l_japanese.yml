@@ -2288,6 +2288,10 @@
  AKS_republic:0 "アーカンソー共和国"
  AKS_republic_DEF:0 "アーカンソー共和国"
  
+ ALS_protectirate:0 "アラスカ保護領"
+ ALS_protectirate_DEF:0 "アラスカ保護領"
+ ALS_provisional_mandate:0 "アラスカ暫定統治領"
+ ALS_provisional_mandate_DEF:0 "アラスカ暫定統治領"
  ALS_realm:0 "アラスカ王国"
  ALS_realm_DEF:0 "アラスカ王国"
  ALS_republic:0 "アラスカ共和国"
