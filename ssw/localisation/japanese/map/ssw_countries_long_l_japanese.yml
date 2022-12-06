@@ -16,6 +16,10 @@
  ALT_republic:0 "アルタイ共和国"
  ALT_republic_DEF:0 "アルタイ共和国"
  
+ ARM_TUR_co-operative_government:0 "アルメニア・トルコ協力政府"
+ ARM_TUR_co-operative_government_DEF:0 "アルメニア・トルコ協力政府"
+ ARM_TUR_military_government:0 "アルメニア・トルコ軍事政府"
+ ARM_TUR_military_government_DEF:0 "アルメニア・トルコ軍事政府"
  ARM_republic:0 "アルメニア共和国"
  ARM_republic_DEF:0 "アルメニア共和国"
  
@@ -410,10 +414,6 @@
  TMS_republic:0 "トルクメニスタン共和国"
  TMS_republic_DEF:0 "トルクメニスタン共和国"
  
- TUR_co-operative_government:0 "トルコ協力政府"
- TUR_co-operative_government_DEF:0 "トルコ協力政府"
- TUR_military_government:0 "トルコ軍事政府"
- TUR_military_government_DEF:0 "トルコ軍事政府"
  TUR_republic:0 "トルコ共和国"
  TUR_republic_DEF:0 "トルコ共和国"
  TUR_republic_marxism-leninism:0 "トルコ民主共和国"
