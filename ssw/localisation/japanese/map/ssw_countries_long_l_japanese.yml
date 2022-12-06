@@ -410,6 +410,10 @@
  TMS_republic:0 "トルクメニスタン共和国"
  TMS_republic_DEF:0 "トルクメニスタン共和国"
  
+ TUR_co-operative_government:0 "トルコ協力政府"
+ TUR_co-operative_government_DEF:0 "トルコ協力政府"
+ TUR_military_government:0 "トルコ軍事政府"
+ TUR_military_government_DEF:0 "トルコ軍事政府"
  TUR_republic:0 "トルコ共和国"
  TUR_republic_DEF:0 "トルコ共和国"
  TUR_republic_marxism-leninism:0 "トルコ民主共和国"
