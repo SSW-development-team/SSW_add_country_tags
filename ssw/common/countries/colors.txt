@@ -1511,10 +1511,6 @@ MOS = {	#モスクワ
 	color = rgb { 172 0 12 }
 	color_ui = rgb { 172 0 12 }
 }
-MOU = {	#山岳
-	color = rgb { 28 13 161 }
-	color_ui = rgb { 28 13 161 }
-}
 MRD = {	#モルドヴィア
 	color = rgb { 56 56 255 }
 	color_ui = rgb { 56 56 255 }

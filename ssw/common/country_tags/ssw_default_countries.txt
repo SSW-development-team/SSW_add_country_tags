@@ -52,7 +52,6 @@ MHL	= "countries/Asia.txt"	#マーシャル
 MIE	= "countries/Asia.txt"	#三重
 MIN	= "countries/Asia.txt"	#福建
 MIY	= "countries/Asia.txt"	#宮崎
-MOU	= "countries/Asia.txt"	#山岳
 MYG	= "countries/Asia.txt"	#宮城
 MYS	= "countries/Asia.txt"	#マイソール
 NAG	= "countries/Asia.txt"	#長崎
