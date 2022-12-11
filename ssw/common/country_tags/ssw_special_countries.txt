@@ -1,0 +1,14 @@
+#Asia
+
+#Middle East
+
+#Commonwealth
+
+#Western Europe
+
+#Eastern Europe
+AN0	= "countries/Eastern Europe.txt"	#
+
+#Africa
+
+#South America

@@ -249,12 +249,9 @@ ZAM,ザンビア,102 102 255,Africa,アフリカ,バニラ
 ZIM,ジンバブエ,7 7 0239,Africa,アフリカ,バニラ
 ADR,アンドラ,254 223 0,Western Europe,ヨーロッパ,追加国家
 ADY,アディゲ,123 173 170,Eastern Europe,ヨーロッパ,追加国家
-AIC,愛知,235 213 159,Asia,アジア,追加国家
-AKI,秋田,218 26 15,Asia,アジア,追加国家
 AKS,アーカンソー,129 19 66,Western Europe,アメリカ諸州,追加国家
 ALS,アラスカ,15 32 75,Asia,アメリカ諸州,追加国家
 AMR,アムール,230 230 219,Asia,アジア,追加国家
-AOM,青森,146 134 57,Asia,アジア,追加国家
 ARA,アラゴン,213 232 120,Western Europe,ヨーロッパ,追加国家
 ARC,北極,200 255 255,Asia,アジア,追加国家
 ARK,アラカン,255 200 197,Asia,アジア,追加国家
@@ -269,7 +266,6 @@ BOM,ボンベイ,189 183 107,Asia,アジア,追加国家
 BRB,バルバドス,170 145 68,South America,新大陸,追加国家
 BRN,ブルネイ,245 225 20,Asia,アジア,追加国家
 CAL,カリフォルニア,237 224 215,Western Europe,アメリカ諸州,追加国家
-CBA,千葉,0 28 168,Asia,アジア,追加国家
 CCS,コーカサス,255 175 0,Eastern Europe,アジア,追加国家
 CEN,中央アメリカ,103 204 255,South America,新大陸,追加国家
 CHE,チェチェン,43 115 56,Eastern Europe,ヨーロッパ,追加国家
@@ -287,33 +283,25 @@ DAL,ダルマチア,46 128 188,Western Europe,ヨーロッパ,追加国家
 DET,ドニエストル,0 153 51,Eastern Europe,ヨーロッパ,追加国家
 DKB,ドン＝クバン,255 228 25,Asia,ヨーロッパ,追加国家
 DMA,ドミニカ,0 107 63,South America,新大陸,追加国家
-EHI,愛媛,153 61 0,Asia,アジア,追加国家
 EKA,エカテリノダール,193 147 154,Eastern Europe,ヨーロッパ,追加国家
 EQA,赤道アフリカ,155 210 205,Africa,アフリカ,追加国家
 ETR,東トルキスタン,85 158 226,Asia,アジア,追加国家
 EXT,エストレマドゥーラ,242 110 217,Western Europe,ヨーロッパ,追加国家
+EZO,蝦夷,25 122 84,Asia,アジア,追加国家
 FAF,自由アフリカ,217 166 46,Africa,アフリカ,追加国家
-FKK,福岡,149 99 11,Asia,アジア,追加国家
-FKS,福島,0 171 57,Asia,アジア,追加国家
-FKU,福井,0 146 51,Asia,アジア,追加国家
 FLA,フランドル,226 209 124,Western Europe,ヨーロッパ,追加国家
 FLO,フロリダ,210 88 53,Western Europe,アメリカ諸州,追加国家
 FRI,フェロー,200 200 180,Western Europe,ヨーロッパ,追加国家
 GAL,ガリツィア＝ロドメリア,224 71 140,Western Europe,ヨーロッパ,追加国家
+GBR,グレートブリテン,229 23 31,Western Europe,ヨーロッパ,追加国家
 GIB,ジブラルタル,220 0 10,Western Europe,ヨーロッパ,追加国家
-GIF,岐阜,239 238 215,Asia,アジア,追加国家
 GOA,ゴア,30 90 180,Asia,アジア,追加国家
 GRD,グレナダ,172 107 46,South America,新大陸,追加国家
 GRL,グリーンランド,0 128 0,Western Europe,新大陸,追加国家
 GUD,広東,255 172 174,Asia,アジア,追加国家
-GUN,群馬,233 155 81,Asia,アジア,追加国家
 HEZ,ヒジャーズ,210 190 155,Middle East,アジア,追加国家
-HIR,広島,204 81 39,Asia,アジア,追加国家
 HKG,香港,170 17 0,Asia,アジア,追加国家
-HOK,北海道,70 206 81,Asia,アジア,追加国家
 HYD,ハイデラバード,250 128 114,Asia,アジア,追加国家
-HYO,兵庫,2 132 178,Asia,アジア,追加国家
-IBA,茨城,171 190 152,Asia,アジア,追加国家
 IBE,イベリア,177 9 249,Western Europe,ヨーロッパ,追加国家
 INC,インドシナ,77 103 174,Asia,アジア,追加国家
 ING,イングーシ,255 221 30,Eastern Europe,ヨーロッパ,追加国家
@@ -321,26 +309,18 @@ INO,インド洋,70 0 150,Asia,アジア,追加国家
 INT,インテルマリウム,176 81 111,Eastern Europe,ヨーロッパ,追加国家
 ISB,バレアレス,230 110 42,Western Europe,ヨーロッパ,追加国家
 ISC,カナリア,106 105 106,Western Europe,ヨーロッパ,追加国家
-ISI,石川,128 255 128,Asia,アジア,追加国家
-IWA,岩手,9 171 190,Asia,アジア,追加国家
 JAK,ジャンムー・カシミール,153 0 48,Asia,アジア,追加国家
 KAC,カチン,55 115 107,Asia,アジア,追加国家
-KAN,神奈川,122 122 255,Asia,アジア,追加国家
 KAY,カヤー,30 30 70,Asia,アジア,追加国家
-KGS,鹿児島,152 130 191,Asia,アジア,追加国家
-KGW,香川,57 113 228,Asia,アジア,追加国家
 KHA,ハバロフスク,59 148 65,Asia,アジア,追加国家
 KHM,カム,16 123 231,Asia,アジア,追加国家
 KIR,キリバス,200 16 16,Asia,大洋州,追加国家
 KLE,カレンジン,240 201 174,Africa,アフリカ,追加国家
-KMM,熊本,189 35 53,Asia,アジア,追加国家
 KNA,セントクリストファー・ネビス,0 158 73,South America,新大陸,追加国家
-KOC,高知,0 107 51,Asia,アジア,追加国家
 KRA,クラスノダール,198 55 55,Eastern Europe,ヨーロッパ,追加国家
 KRC,カラチャイ・チェルケス,193 147 154,Eastern Europe,ヨーロッパ,追加国家
 KRE,カレン,88 102 207,Asia,アジア,追加国家
 KUM,クムル,237 134 40,Asia,アジア,追加国家
-KYO,京都,55 108 158,Asia,アジア,追加国家
 LAP,ラップランド,0 64 128,Western Europe,ヨーロッパ,追加国家
 LCA,セントルシア,11 81 161,South America,新大陸,追加国家
 LES,レソト,94 150 160,Africa,アフリカ,追加国家
@@ -355,31 +335,20 @@ MCO,モナコ,243 107 122,Western Europe,ヨーロッパ,追加国家
 MDR,マドリード,227 50 69,Western Europe,ヨーロッパ,追加国家
 MDU,マドゥライ,139 69 19,Asia,アジア,追加国家
 MHL,マーシャル,221 117 0,Asia,大洋州,追加国家
-MIE,三重,154 69 116,Asia,アジア,追加国家
 MIN,福建,255 238 226,Asia,アジア,追加国家
-MIY,宮崎,128 202 129,Asia,アジア,追加国家
 MOS,モスクワ,172 0 12,Eastern Europe,ヨーロッパ,追加国家
 MRD,モルドヴィア,56 56 255,Eastern Europe,ヨーロッパ,追加国家
 MUR,ムルシア,152 26 28,Western Europe,ヨーロッパ,追加国家
 MUS,モーリシャス,130 110 255,Africa,アフリカ,追加国家
 MWA,ムワミ,233 223 229,Africa,アフリカ,追加国家
-MYG,宮城,75 77 186,Asia,アジア,追加国家
 MYS,マイソール,176 196 222,Asia,アジア,追加国家
-NAG,長崎,184 247 254,Asia,アジア,追加国家
-NAR,奈良,182 107 88,Asia,アジア,追加国家
 NCL,ニューカレドニア,237 65 53,Asia,大洋州,追加国家
 NEL,ニューイングランド,0 100 55,Commonwealth,アメリカ諸州,追加国家
 NFL,ニューファンドランド,255 153 204,Commonwealth,新大陸,追加国家
 NGL,ナガランド,72 59 131,Asia,アジア,追加国家
-NGO,長野,0 36 125,Asia,アジア,追加国家
-NII,新潟,42 96 59,Asia,アジア,追加国家
 NIU,ニウエ,254 221 0,Asia,大洋州,追加国家
 NRU,ナウル,43 69 111,Asia,大洋州,追加国家
-OIT,大分,181 90 17,Asia,アジア,追加国家
-OKA,岡山,166 189 199,Asia,アジア,追加国家
-OKI,沖縄,21 28 97,Asia,アジア,追加国家
 OKL,オクラホマ,244 164 46,Western Europe,アメリカ諸州,追加国家
-OSK,大阪,216 100 50,Asia,アジア,追加国家
 OUB,ウバンギ,0 136 153,Africa,アフリカ,追加国家
 PAC,パナマ運河,35 45 110,South America,新大陸,追加国家
 PAO,太平洋,70 220 220,Asia,大洋州,追加国家
@@ -394,18 +363,14 @@ RHO,ローデシア,15 75 50,Africa,アフリカ,追加国家
 RIJ,リオハ,77 79 115,Western Europe,ヨーロッパ,追加国家
 RMN,鉱山,155 241 107,Africa,アフリカ,追加国家
 RUS,ロシア,0 100 0,Eastern Europe,ヨーロッパ,追加国家
+RYU,琉球,98 98 206,Asia,アジア,追加国家
 SAC,南アメリカ,0 36 145,South America,新大陸,追加国家
-SAG,佐賀,161 76 65,Asia,アジア,追加国家
 SAH,サハラ,0 0 0,Africa,アフリカ,追加国家
-SAI,埼玉,227 207 142,Asia,アジア,追加国家
 SAR,サラワク,236 104 0,Asia,アジア,追加国家
 SCA,スカンディナヴィア,45 190 235,Western Europe,ヨーロッパ,追加国家
 SHA,シャン,122 109 41,Asia,アジア,追加国家
-SHI,島根,255 111 84,Asia,アジア,追加国家
 SIB,シベリア,169 169 169,Asia,アジア,追加国家
-SIG,滋賀,105 65 45,Asia,アジア,追加国家
 SIN,シンガポール,255 125 125,Asia,アジア,追加国家
-SKA,静岡,97 98 195,Asia,アジア,追加国家
 SKM,シッキム,253 36 30,Asia,アジア,追加国家
 SML,ソマリランド,0 109 33,Africa,アフリカ,追加国家
 SMR,サンマリノ,94 182 228,Western Europe,ヨーロッパ,追加国家
@@ -417,18 +382,15 @@ SUC,スエズ運河,100 190 165,Middle East,アフリカ,追加国家
 SWL,スワジランド,62 94 185,Africa,アフリカ,追加国家
 SYC,セーシェル,130 75 120,Africa,アフリカ,追加国家
 SZE,四川,121 128 255,Asia,アジア,追加国家
+TAI,タイ,147 186 255,Asia,アジア,追加国家
 TAN,タンガニーカ,116 50 92,Africa,アフリカ,追加国家
-TCG,栃木,247 133 39,Asia,アジア,追加国家
 TER,テレク,59 148 65,Asia,ヨーロッパ,追加国家
 TEU,チュートン,198 198 198,Western Europe,ヨーロッパ,追加国家
 TEX,テキサス,103 0 0,Western Europe,アメリカ諸州,追加国家
-TKS,徳島,86 119 210,Asia,アジア,追加国家
 TKY,東京,210 103 105,Asia,アジア,追加国家
 TLS,東ティモール,255 199 38,Asia,アジア,追加国家
 TOK,トンキン,230 230 0,Asia,アジア,追加国家
 TON,トンガ,193 0 0,Asia,大洋州,追加国家
-TOT,鳥取,156 96 100,Asia,アジア,追加国家
-TOY,富山,1 213 1,Asia,アジア,追加国家
 TRC,トランスコーカサス,122 4 4,Asia,ヨーロッパ,追加国家
 TRK,トルキスタン,119 113 143,Asia,アジア,追加国家
 TRV,トラヴァンコール,140 100 120,Asia,アジア,追加国家
@@ -442,14 +404,10 @@ VIC,ヴィシー,98 174 66,Western Europe,ヨーロッパ,追加国家
 VOJ,ヴォイヴォディナ,160 110 110,Eastern Europe,ヨーロッパ,追加国家
 VUT,バヌアツ,93 76 7,Asia,大洋州,追加国家
 WAF,西アフリカ,0 120 95,Africa,アフリカ,追加国家
-WAK,和歌山,145 145 238,Asia,アジア,追加国家
 WLC,ワラキア,210 199 247,Eastern Europe,ヨーロッパ,追加国家
 WLL,ワロン,193 226 120,Western Europe,ヨーロッパ,追加国家
 WPO,西太平洋,247 219 0,Asia,大洋州,追加国家
 WTR,西トルキスタン,255 255 160,Asia,アジア,追加国家
-YMA,山口,155 13 20,Asia,アジア,追加国家
-YMG,山形,255 128 64,Asia,アジア,追加国家
-YMN,山梨,161 139 40,Asia,アジア,追加国家
 ZAP,ザポロージャ,170 26 23,Eastern Europe,ヨーロッパ,追加国家
 ZZB,ザンジバル,195 216 37,Africa,アフリカ,追加国家
 C00,,146 78 48,,,動的国家
@@ -652,12 +610,9 @@ D96,,87 89 205,,,動的国家
 D97,,156 110 86,,,動的国家
 D98,,114 122 121,,,動的国家
 D99,,64 76 77,,,動的国家
-000,国家選択画面用,0 0 0,South America,,特殊国家
 AN0,,0 0 0,Eastern Europe,,特殊国家
 ACO,貴族評議会,127 79 22,Eastern Europe,RUS,複製国家
 ALF,アメリカ自由連盟,250 250 210,Western Europe,USA,複製国家
-AMC,大天使ミハイル,112 41 26,Eastern Europe,RUS,複製国家
-ANS,アナーキズム・ステート,128 125 126,Western Europe,USA,複製国家
 BAT,バルト連邦,200 153 50,Eastern Europe,BAL,複製国家
 BCP,ビルマ共産党,159 2 0,Asia,BRM,複製国家
 BLO,ブラック・オーダー・カミンスキー旅団,59 59 59,Eastern Europe,RUS,複製国家
@@ -665,106 +620,30 @@ BLS,ブラック・ステート,0 19 29,Western Europe,USA,複製国家
 BNF,ベルギエン＝ノルトフランクライヒ国家弁務官区,27 43 27,Western Europe,BNF,複製国家
 CHP,中華合衆国,255 244 190,Asia,CHI,複製国家
 CHS,救国政府,147 20 25,Asia,CHI,複製国家
-CRA,赤軍コーカサス方面軍,179 21 0,Eastern Europe,CCS,複製国家
-CSB,ブラジル連合国,255 140 140,South America,BRA,複製国家
 DKJ,東北抗日聯軍,255 242 0,Asia,MAN,複製国家
-DPK,北朝鮮,240 0 0,Asia,KOR,複製国家
-EPL,ポーランド亡命政権,202 40 53,Eastern Europe,POL,複製国家
-ESP,エストニア国,158 139 142,Eastern Europe,EST,複製国家
 FAR,全ロシア民族解放統一戦線,168 46 78,Eastern Europe,RUS,複製国家
-FER,極東共和国,233 34 34,Asia,FAE,複製国家
 FNO,ノルウェー王国,111 71 71,Western Europe,NOR,複製国家
-FRP,フランス連合共和国,0 18 127,Western Europe,FRA,複製国家
 FSA,アメリカ連邦,192 192 192,Western Europe,USA,複製国家
-GBP,イギリス共和国,187 85 72,Western Europe,ENG,複製国家
-GBR,連合王国,229 23 31,Western Europe,ENG,複製国家
-GRG,在家裡,144 0 32,Asia,MAN,複製国家
-HGR,ゲーリング派ドイツ,50 0 75,Western Europe,GER,複製国家
-HLH,ヒムラー派ドイツ,100 100 100,Western Europe,GER,複製国家
 HUK,フクバラハップ,100 100 100,Asia,PHI,複製国家
-IDN,インドネシア連合共和国,0 90 210,Asia,INS,複製国家
-IPF,イタリア人民解放戦線,206 43 55,Western Europe,ITA,複製国家
-IRP,アイルランド国,179 0 27,Western Europe,IRE,複製国家
-ISK,イスコラト,183 40 46,Eastern Europe,LAT,複製国家
-ITP,イタリア連邦,12 174 7,Western Europe,ITA,複製国家
 JDN,ユダヤ人評議会,0 101 189,Western Europe,MAN,複製国家
-JPA,日本国民共和国,102 100 86,Asia,JAP,複製国家
-JPB,日本連邦,88 94 101,Asia,JAP,複製国家
-JPC,日本自由地区,118 124 94,Asia,JAP,複製国家
-JPD,日本復興政府,10 15 4,Asia,JAP,複製国家
-JPE,日本農民連合,100 138 190,Asia,JAP,複製国家
-JPF,日本労働組合連盟,130 105 128,Asia,JAP,複製国家
-JPG,京成国,132 131 146,Asia,JAP,複製国家
-JPH,日本連合国,150 12 22,Asia,JAP,複製国家
-JPI,日本帝国,135 2 2,Asia,JAP,複製国家
-JPJ,日本王国,100 20 20,Asia,JAP,複製国家
-JPK,在日ロシア人政府,204 176 140,Asia,JAP,複製国家
-JPL,日本首長国,63 89 127,Asia,JAP,複製国家
-JPM,日本天理国,105 176 122,Asia,JAP,複製国家
-JPN,日本国,235 246 247,Asia,JAP,複製国家
-JPO,日本連合共和国,93 114 160,Asia,JAP,複製国家
-JPP,日本ギロチン同盟,3 3 9,Asia,JAP,複製国家
-JPQ,日本学生同盟,58 84 54,Asia,JAP,複製国家
-JPR,日本共和国,100 38 218,Asia,JAP,複製国家
-JPS,日本創価国,152 64 64,Asia,JAP,複製国家
-JPT,在日朝鮮人政府,113 117 92,Asia,JAP,複製国家
-JPU,日本復古派政府,100 138 190,Asia,JAP,複製国家
-JPV,豊田連合,163 74 60,Asia,JAP,複製国家
-JPW,人民サンディカリスト連盟,23 21 21,Asia,JAP,複製国家
-JPX,日本亡命政権,130 19 46,Asia,JAP,複製国家
-JPY,学生派マルクス主義同盟,222 41 16,Asia,JAP,複製国家
-JPZ,日本民主共和国,113 74 88,Asia,JAP,複製国家
-JSF,日本社会主義戦線,165 0 0,Asia,JAP,複製国家
 KPR,クメール人民革命党,187 85 53,Asia,CAM,複製国家
 LFF,左翼戦線,0 162 106,Western Europe,USA,複製国家
 LFS,左翼戦線南部司令部,0 162 106,Western Europe,USA,複製国家
-LFV,アメリカ人民軍,175 13 0,Western Europe,USA,複製国家
-LTP,リトアニア国,118 145 100,Eastern Europe,LIT,複製国家
-LTV,反ナチス派ドイツ,150 150 150,Western Europe,GER,複製国家
-MBR,ボルマン派ドイツ,50 75 0,Western Europe,GER,複製国家
 MPR,モンゴル,100 20 20,Asia,MON,複製国家
 MRL,満鉄統治区域,252 201 185,Asia,MAN,複製国家
-MXP,メキシコ国,32 100 1,South America,MEX,複製国家
-MYP,ミャンマー共和国,255 39 75,Asia,BRM,複製国家
-NAJ,東北救国抗日聯軍,1 44 123,Asia,MAN,複製国家
 NBL,ベラルーシ国民共和国,254 244 244,Eastern Europe,BLR,複製国家
 NFR,北フランス,25 115 150,Western Europe,FRA,複製国家
-NIN,国民インド,255 255 0,Asia,IND,複製国家
 NLF,南ベトナム解放民族戦線,232 57 41,Asia,VIN,複製国家
 OMI,オマーン・イマーム国,98 134 153,Asia,OMA,複製国家
-PIN,人民インド,183 37 105,Asia,IND,複製国家
-PLP,ポーランド国,37 154 96,Eastern Europe,POL,複製国家
 PLR,ポーランド,255 96 84,Eastern Europe,POL,複製国家
-PRJ,日本社会主義人民共和国,255 60 60,Asia,JAP,複製国家
 PTL,パテート・ラーオ,200 81 121,Asia,LAO,複製国家
 RBL,ロシアの空解放同盟,85 47 31,Eastern Europe,RUS,複製国家
-REH,熱河政府,210 103 105,Asia,MAN,複製国家
-RKB,ブリタニエン国家弁務官区,34 90 77,Western Europe,ENG,複製国家
-RKF,フランクライヒ国家弁務官区,0 98 255,Western Europe,FRA,複製国家
-RKN,ノルディック国家弁務官区,78 78 198,Western Europe,SCA,複製国家
 RKU,ウクライナ国家弁務官区,0 80 255,Eastern Europe,UKR,複製国家
 RLB,自由主義ロシア,73 29 103,Eastern Europe,RUS,複製国家
-RNB,ノルトバルカン国家弁務官区,3 3 0218,Eastern Europe,BRK,複製国家
-ROK,韓国,5 85 166,Asia,KOR,複製国家
 RSE,ロシア帝国,55 88 83,Eastern Europe,RUS,複製国家
-RSI,イタリア社会共和国,117 191 102,Western Europe,ITA,複製国家
-RSP,ロシア連邦,0 255 0,Eastern Europe,RUS,複製国家
-RSS,紅卍字会,88 166 31,Asia,MAN,複製国家
-RTR,トルターン国家弁務官区,233 0 67,Middle East,TUR,複製国家
-RZB,ズュートバルカン国家弁務官区,25 0 0,Eastern Europe,BRK,複製国家
-SCT,タイ連盟,147 186 255,Asia,SIA,複製国家
 SPA,スペイン共和国,242 205 94,Western Europe,SPR,複製国家
 SPC,スペイン企業評議会,159 160 160,Western Europe,SPR,複製国家
 SPF,フランス系スペイン共和国,92 146 145,Western Europe,SPR,複製国家
 SPX,スペイン亡命政権,255 222 0,Western Europe,SPR,複製国家
 SRV,共産主義ベトナム,162 16 11,Asia,VIN,複製国家
-THA,タイ共和国,150 150 150,Asia,SIA,複製国家
-TOA,大主教領,105 142 106,Eastern Europe,RUS,複製国家
-UKP,ウクライナ国,32 78 250,Eastern Europe,UKR,複製国家
 UTC,三社連合,189 116 198,Western Europe,USA,複製国家
-WBC,労働者・建設者評議会,150 0 24,Asia,MAN,複製国家
-WHA,白軍共和国,159 83 80,Asia,MAN,複製国家
-WHK,小白竜軍閥,75 94 170,Asia,MAN,複製国家
-WHR,白ルテニア共和国,22 22 14,Eastern Europe,BLR,複製国家
-WSS,543部隊,198 177 152,Asia,MAN,複製国家
-XGA,興安軍,65 175 179,Asia,MAN,複製国家

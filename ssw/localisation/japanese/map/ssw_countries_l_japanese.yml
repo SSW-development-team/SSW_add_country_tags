@@ -1000,21 +1000,9 @@
 #アメリカ諸州
 ##追加国家
 #アジア
- AIC:0 "愛知"
- AIC_DEF:0 "愛知"
- AIC_ADJ:0 "愛知"
- 
- AKI:0 "秋田"
- AKI_DEF:0 "秋田"
- AKI_ADJ:0 "秋田"
- 
  AMR:0 "アムール"
  AMR_DEF:0 "アムール"
  AMR_ADJ:0 "アムール"
- 
- AOM:0 "青森"
- AOM_DEF:0 "青森"
- AOM_ADJ:0 "青森"
  
  ARC:0 "北極"
  ARC_DEF:0 "北極"
@@ -1036,10 +1024,6 @@
  BRN_DEF:0 "ブルネイ"
  BRN_ADJ:0 "ブルネイ"
  
- CBA:0 "千葉"
- CBA_DEF:0 "千葉"
- CBA_ADJ:0 "千葉"
- 
  CCS:0 "コーカサス"
  CCS_DEF:0 "コーカサス"
  CCS_ADJ:0 "コーカサス"
@@ -1052,29 +1036,13 @@
  CLC_DEF:0 "中華沿岸"
  CLC_ADJ:0 "中華沿岸"
  
- EHI:0 "愛媛"
- EHI_DEF:0 "愛媛"
- EHI_ADJ:0 "愛媛"
- 
  ETR:0 "東トルキスタン"
  ETR_DEF:0 "東トルキスタン"
  ETR_ADJ:0 "東トルキスタン"
  
- FKK:0 "福岡"
- FKK_DEF:0 "福岡"
- FKK_ADJ:0 "福岡"
- 
- FKS:0 "福島"
- FKS_DEF:0 "福島"
- FKS_ADJ:0 "福島"
- 
- FKU:0 "福井"
- FKU_DEF:0 "福井"
- FKU_ADJ:0 "福井"
- 
- GIF:0 "岐阜"
- GIF_DEF:0 "岐阜"
- GIF_ADJ:0 "岐阜"
+ EZO:0 "蝦夷"
+ EZO_DEF:0 "蝦夷"
+ EZO_ADJ:0 "蝦夷"
  
  GOA:0 "ゴア"
  GOA_DEF:0 "ゴア"
@@ -1084,37 +1052,17 @@
  GUD_DEF:0 "広東"
  GUD_ADJ:0 "広東"
  
- GUN:0 "群馬"
- GUN_DEF:0 "群馬"
- GUN_ADJ:0 "群馬"
- 
  HEZ:0 "ヒジャーズ"
  HEZ_DEF:0 "ヒジャーズ"
  HEZ_ADJ:0 "ヒジャーズ"
- 
- HIR:0 "広島"
- HIR_DEF:0 "広島"
- HIR_ADJ:0 "広島"
  
  HKG:0 "香港"
  HKG_DEF:0 "香港"
  HKG_ADJ:0 "香港"
  
- HOK:0 "北海道"
- HOK_DEF:0 "北海道"
- HOK_ADJ:0 "北海道"
- 
  HYD:0 "ハイデラバード"
  HYD_DEF:0 "ハイデラバード"
  HYD_ADJ:0 "ハイデラバード"
- 
- HYO:0 "兵庫"
- HYO_DEF:0 "兵庫"
- HYO_ADJ:0 "兵庫"
- 
- IBA:0 "茨城"
- IBA_DEF:0 "茨城"
- IBA_ADJ:0 "茨城"
  
  INC:0 "インドシナ"
  INC_DEF:0 "インドシナ"
@@ -1124,14 +1072,6 @@
  INO_DEF:0 "インド洋"
  INO_ADJ:0 "インド洋"
  
- ISI:0 "石川"
- ISI_DEF:0 "石川"
- ISI_ADJ:0 "石川"
- 
- IWA:0 "岩手"
- IWA_DEF:0 "岩手"
- IWA_ADJ:0 "岩手"
- 
  JAK:0 "ジャンムー・カシミール"
  JAK_DEF:0 "ジャンムー・カシミール"
  JAK_ADJ:0 "ジャンムー・カシミール"
@@ -1140,21 +1080,9 @@
  KAC_DEF:0 "カチン"
  KAC_ADJ:0 "カチン"
  
- KAN:0 "神奈川"
- KAN_DEF:0 "神奈川"
- KAN_ADJ:0 "神奈川"
- 
  KAY:0 "カヤー"
  KAY_DEF:0 "カヤー"
  KAY_ADJ:0 "カヤー"
- 
- KGS:0 "鹿児島"
- KGS_DEF:0 "鹿児島"
- KGS_ADJ:0 "鹿児島"
- 
- KGW:0 "香川"
- KGW_DEF:0 "香川"
- KGW_ADJ:0 "香川"
  
  KHA:0 "ハバロフスク"
  KHA_DEF:0 "ハバロフスク"
@@ -1164,14 +1092,6 @@
  KHM_DEF:0 "カム"
  KHM_ADJ:0 "カム"
  
- KMM:0 "熊本"
- KMM_DEF:0 "熊本"
- KMM_ADJ:0 "熊本"
- 
- KOC:0 "高知"
- KOC_DEF:0 "高知"
- KOC_ADJ:0 "高知"
- 
  KRE:0 "カレン"
  KRE_DEF:0 "カレン"
  KRE_ADJ:0 "カレン"
@@ -1179,10 +1099,6 @@
  KUM:0 "クムル"
  KUM_DEF:0 "クムル"
  KUM_ADJ:0 "クムル"
- 
- KYO:0 "京都"
- KYO_DEF:0 "京都"
- KYO_ADJ:0 "京都"
  
  MCA:0 "マカオ"
  MCA_DEF:0 "マカオ"
@@ -1192,73 +1108,25 @@
  MDU_DEF:0 "マドゥライ"
  MDU_ADJ:0 "マドゥライ"
  
- MIE:0 "三重"
- MIE_DEF:0 "三重"
- MIE_ADJ:0 "三重"
- 
  MIN:0 "福建"
  MIN_DEF:0 "福建"
  MIN_ADJ:0 "福建"
- 
- MIY:0 "宮崎"
- MIY_DEF:0 "宮崎"
- MIY_ADJ:0 "宮崎"
- 
- MYG:0 "宮城"
- MYG_DEF:0 "宮城"
- MYG_ADJ:0 "宮城"
  
  MYS:0 "マイソール"
  MYS_DEF:0 "マイソール"
  MYS_ADJ:0 "マイソール"
  
- NAG:0 "長崎"
- NAG_DEF:0 "長崎"
- NAG_ADJ:0 "長崎"
- 
- NAR:0 "奈良"
- NAR_DEF:0 "奈良"
- NAR_ADJ:0 "奈良"
- 
  NGL:0 "ナガランド"
  NGL_DEF:0 "ナガランド"
  NGL_ADJ:0 "ナガランド"
- 
- NGO:0 "長野"
- NGO_DEF:0 "長野"
- NGO_ADJ:0 "長野"
- 
- NII:0 "新潟"
- NII_DEF:0 "新潟"
- NII_ADJ:0 "新潟"
- 
- OIT:0 "大分"
- OIT_DEF:0 "大分"
- OIT_ADJ:0 "大分"
- 
- OKA:0 "岡山"
- OKA_DEF:0 "岡山"
- OKA_ADJ:0 "岡山"
- 
- OKI:0 "沖縄"
- OKI_DEF:0 "沖縄"
- OKI_ADJ:0 "沖縄"
- 
- OSK:0 "大阪"
- OSK_DEF:0 "大阪"
- OSK_ADJ:0 "大阪"
  
  PEG:0 "ペグー"
  PEG_DEF:0 "ペグー"
  PEG_ADJ:0 "ペグー"
  
- SAG:0 "佐賀"
- SAG_DEF:0 "佐賀"
- SAG_ADJ:0 "佐賀"
- 
- SAI:0 "埼玉"
- SAI_DEF:0 "埼玉"
- SAI_ADJ:0 "埼玉"
+ RYU:0 "琉球"
+ RYU_DEF:0 "琉球"
+ RYU_ADJ:0 "琉球"
  
  SAR:0 "サラワク"
  SAR_DEF:0 "サラワク"
@@ -1268,25 +1136,13 @@
  SHA_DEF:0 "シャン"
  SHA_ADJ:0 "シャン"
  
- SHI:0 "島根"
- SHI_DEF:0 "島根"
- SHI_ADJ:0 "島根"
- 
  SIB:0 "シベリア"
  SIB_DEF:0 "シベリア"
  SIB_ADJ:0 "シベリア"
  
- SIG:0 "滋賀"
- SIG_DEF:0 "滋賀"
- SIG_ADJ:0 "滋賀"
- 
  SIN:0 "シンガポール"
  SIN_DEF:0 "シンガポール"
  SIN_ADJ:0 "シンガポール"
- 
- SKA:0 "静岡"
- SKA_DEF:0 "静岡"
- SKA_ADJ:0 "静岡"
  
  SKM:0 "シッキム"
  SKM_DEF:0 "シッキム"
@@ -1296,13 +1152,9 @@
  SZE_DEF:0 "四川"
  SZE_ADJ:0 "四川"
  
- TCG:0 "栃木"
- TCG_DEF:0 "栃木"
- TCG_ADJ:0 "栃木"
- 
- TKS:0 "徳島"
- TKS_DEF:0 "徳島"
- TKS_ADJ:0 "徳島"
+ TAI:0 "タイ"
+ TAI_DEF:0 "タイ"
+ TAI_ADJ:0 "タイ"
  
  TKY:0 "東京"
  TKY_DEF:0 "東京"
@@ -1315,14 +1167,6 @@
  TOK:0 "トンキン"
  TOK_DEF:0 "トンキン"
  TOK_ADJ:0 "トンキン"
- 
- TOT:0 "鳥取"
- TOT_DEF:0 "鳥取"
- TOT_ADJ:0 "鳥取"
- 
- TOY:0 "富山"
- TOY_DEF:0 "富山"
- TOY_ADJ:0 "富山"
  
  TRK:0 "トルキスタン"
  TRK_DEF:0 "トルキスタン"
@@ -1340,25 +1184,9 @@
  URA_DEF:0 "ウラル"
  URA_ADJ:0 "ウラル"
  
- WAK:0 "和歌山"
- WAK_DEF:0 "和歌山"
- WAK_ADJ:0 "和歌山"
- 
  WTR:0 "西トルキスタン"
  WTR_DEF:0 "西トルキスタン"
  WTR_ADJ:0 "西トルキスタン"
- 
- YMA:0 "山口"
- YMA_DEF:0 "山口"
- YMA_ADJ:0 "山口"
- 
- YMG:0 "山形"
- YMG_DEF:0 "山形"
- YMG_ADJ:0 "山形"
- 
- YMN:0 "山梨"
- YMN_DEF:0 "山梨"
- YMN_ADJ:0 "山梨"
  
 #ヨーロッパ
  ADR:0 "アンドラ"
@@ -1440,6 +1268,10 @@
  GAL:0 "ガリツィア＝ロドメリア"
  GAL_DEF:0 "ガリツィア＝ロドメリア"
  GAL_ADJ:0 "ガリツィア＝ロドメリア"
+ 
+ GBR:0 "グレートブリテン"
+ GBR_DEF:0 "グレートブリテン"
+ GBR_ADJ:0 "グレートブリテン"
  
  GIB:0 "ジブラルタル"
  GIB_DEF:0 "ジブラルタル"

@@ -1,0 +1,49 @@
+#Asia
+BCP	= "countries/Asia.txt"	#ビルマ共産党
+CHP	= "countries/Asia.txt"	#中華合衆国
+CHS	= "countries/Asia.txt"	#救国政府
+DKJ	= "countries/Asia.txt"	#東北抗日聯軍
+HUK	= "countries/Asia.txt"	#フクバラハップ
+KPR	= "countries/Asia.txt"	#クメール人民革命党
+MPR	= "countries/Asia.txt"	#モンゴル
+MRL	= "countries/Asia.txt"	#満鉄統治区域
+NLF	= "countries/Asia.txt"	#南ベトナム解放民族戦線
+OMI	= "countries/Asia.txt"	#オマーン・イマーム国
+PTL	= "countries/Asia.txt"	#パテート・ラーオ
+SRV	= "countries/Asia.txt"	#共産主義ベトナム
+
+#Middle East
+
+#Commonwealth
+
+#Western Europe
+ALF	= "countries/Western Europe.txt"	#アメリカ自由連盟
+BLS	= "countries/Western Europe.txt"	#ブラック・ステート
+BNF	= "countries/Western Europe.txt"	#ベルギエン＝ノルトフランクライヒ国家弁務官区
+FNO	= "countries/Western Europe.txt"	#ノルウェー王国
+FSA	= "countries/Western Europe.txt"	#アメリカ連邦
+JDN	= "countries/Western Europe.txt"	#ユダヤ人評議会
+LFF	= "countries/Western Europe.txt"	#左翼戦線
+LFS	= "countries/Western Europe.txt"	#左翼戦線南部司令部
+NFR	= "countries/Western Europe.txt"	#北フランス
+SPA	= "countries/Western Europe.txt"	#スペイン共和国
+SPC	= "countries/Western Europe.txt"	#スペイン企業評議会
+SPF	= "countries/Western Europe.txt"	#フランス系スペイン共和国
+SPX	= "countries/Western Europe.txt"	#スペイン亡命政権
+UTC	= "countries/Western Europe.txt"	#三社連合
+
+#Eastern Europe
+ACO	= "countries/Eastern Europe.txt"	#貴族評議会
+BAT	= "countries/Eastern Europe.txt"	#バルト連邦
+BLO	= "countries/Eastern Europe.txt"	#ブラック・オーダー・カミンスキー旅団
+FAR	= "countries/Eastern Europe.txt"	#全ロシア民族解放統一戦線
+NBL	= "countries/Eastern Europe.txt"	#ベラルーシ国民共和国
+PLR	= "countries/Eastern Europe.txt"	#ポーランド
+RBL	= "countries/Eastern Europe.txt"	#ロシアの空解放同盟
+RKU	= "countries/Eastern Europe.txt"	#ウクライナ国家弁務官区
+RLB	= "countries/Eastern Europe.txt"	#自由主義ロシア
+RSE	= "countries/Eastern Europe.txt"	#ロシア帝国
+
+#Africa
+
+#South America

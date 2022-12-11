@@ -1658,11 +1658,8 @@
 #アメリカ諸州
 ##追加国家
 #アジア
- 
- 
  AMR_republic:0 "アムール共和国"
  AMR_republic_DEF:0 "アムール共和国"
- 
  
  ARC_council:0 "北極評議会"
  ARC_council_DEF:0 "北極評議会"
@@ -1685,7 +1682,6 @@
  BRN_peace_abode_state:0 "ブルネイ・ダルサラーム国"
  BRN_peace_abode_state_DEF:0 "ブルネイ・ダルサラーム国"
  
- 
  CCS_federation:0 "コーカサス連邦"
  CCS_federation_DEF:0 "コーカサス連邦"
  CCS_red_army:0 "赤軍コーカサス方面軍"
@@ -1697,21 +1693,14 @@
  CHN_national_front_DEF:0 "チン国民戦線"
  
  
- 
  ETR_republic:0 "東トルキスタン共和国"
  ETR_republic_DEF:0 "東トルキスタン共和国"
  
  
  
  
- 
- 
- 
- 
  HEZ_kingdom:0 "ヒジャーズ王国"
  HEZ_kingdom_DEF:0 "ヒジャーズ王国"
- 
- 
  
  
  HYD_kingdom:0 "ハイデラバード王国"
@@ -1723,24 +1712,17 @@
  HYD_republic_progressive_socialism:0 "ハイデラバード労働者共和国"
  HYD_republic_progressive_socialism_DEF:0 "ハイデラバード労働者共和国"
  
- 
- 
  INC_union:0 "インドシナ連合"
  INC_union_DEF:0 "インドシナ連合"
  
  INO_union:0 "インド洋連合"
  INO_union_DEF:0 "インド洋連合"
  
- 
- 
  JAK_kingdom:0 "ジャンムー・カシミール王国"
  JAK_kingdom_DEF:0 "ジャンムー・カシミール王国"
  
  KAC_independence_army:0 "カチン独立軍"
  KAC_independence_army_DEF:0 "カチン独立軍"
- 
- 
- 
  
  
  KHA_republic:0 "ハバロフスク共和国"
@@ -1752,8 +1734,6 @@
  
  KHM_state:0 "カム国"
  KHM_state_DEF:0 "カム国"
- 
- 
  
  KRE_national_liberation_army:0 "カレン民族解放軍"
  KRE_national_liberation_army_DEF:0 "カレン民族解放軍"
@@ -1768,12 +1748,8 @@
  KUM_republic_progressive_socialism_DEF:0 "クムル人民共和国"
  
  
- 
  MDU_republic:0 "マドゥライ共和国"
  MDU_republic_DEF:0 "マドゥライ共和国"
- 
- 
- 
  
  
  MYS_kingdom:0 "マイソール王国"
@@ -1784,15 +1760,6 @@
  MYS_republic_marxism-leninism_DEF:0 "マイソール人民共和国"
  MYS_republic_progressive_socialism:0 "マイソール人民共和国"
  MYS_republic_progressive_socialism_DEF:0 "マイソール人民共和国"
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1809,7 +1776,6 @@
  SHA_state_army:0 "シャン州軍"
  SHA_state_army_DEF:0 "シャン州軍"
  
- 
  SIB_republic:0 "シベリア共和国"
  SIB_republic_DEF:0 "シベリア共和国"
  SIB_republic_marxism-leninism:0 "シベリア社会主義共和国"
@@ -1817,14 +1783,12 @@
  SIB_republic_progressive_socialism:0 "シベリア社会主義共和国"
  SIB_republic_progressive_socialism_DEF:0 "シベリア社会主義共和国"
  
- 
  SIN_republic:0 "シンガポール共和国"
  SIN_republic_DEF:0 "シンガポール共和国"
  SIN_republic_marxism-leninism:0 "シンガポール社会主義共和国"
  SIN_republic_marxism-leninism_DEF:0 "シンガポール社会主義共和国"
  SIN_republic_progressive_socialism:0 "シンガポール社会主義共和国"
  SIN_republic_progressive_socialism_DEF:0 "シンガポール社会主義共和国"
- 
  
  SKM_kingdom:0 "シッキム王国"
  SKM_kingdom_DEF:0 "シッキム王国"
@@ -1840,11 +1804,8 @@
  
  
  
- 
  TLS_democratic_republic:0 "東ティモール民主共和国"
  TLS_democratic_republic_DEF:0 "東ティモール民主共和国"
- 
- 
  
  
  TRK_legion:0 "トルキスタン軍団"
@@ -1871,12 +1832,8 @@
  URA_republic:0 "ウラル共和国"
  URA_republic_DEF:0 "ウラル共和国"
  
- 
  WTR_federation:0 "西トルキスタン連邦"
  WTR_federation_DEF:0 "西トルキスタン連邦"
- 
- 
- 
  
 #ヨーロッパ
  ADR_co-principality:0 "アンドラ共同公国"
@@ -1950,6 +1907,7 @@
  
  GAL_republic:0 "ガリツィア＝ロドメリア共和国"
  GAL_republic_DEF:0 "ガリツィア＝ロドメリア共和国"
+ 
  
  
  IBE_empire:0 "イベリア帝国"

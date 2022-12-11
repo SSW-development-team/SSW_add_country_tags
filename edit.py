@@ -33,8 +33,8 @@ class CountryTags:	#国家タグ
 		self.add_tag("バニラ")
 		self.add_tag("追加国家")
 		# self.add_tag("動的国家")
-		# self.add_tag("複製国家")
-		# self.add_tag("特殊国家")
+		self.add_tag("複製国家")
+		self.add_tag("特殊国家")
 
 class CountryColors:	#国家カラー
 	def __init__(self, mod_name):
