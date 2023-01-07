@@ -153,8 +153,8 @@ NEP = {	#ネパール
 	color_ui = rgb { 152 130 191 }
 }
 OMA = {	#オマーン
-	color = rgb { 180 150 120 }
-	color_ui = rgb { 180 150 120 }
+	color = rgb { 98 134 153 }
+	color_ui = rgb { 98 134 153 }
 }
 PAK = {	#パキスタン
 	color = rgb { 21 38 66 }
@@ -391,8 +391,8 @@ HAN = {	#ハノーファー
 	color_ui = rgb { 0 0 255 }
 }
 HOL = {	#オランダ
-	color = rgb { 203 138 74 }
-	color_ui = rgb { 203 138 74 }
+	color = rgb { 230 165 80 }
+	color_ui = rgb { 230 165 80 }
 }
 HRZ = {	#ヘルツェゴビナ
 	color = rgb { 72 113 160 }
@@ -958,6 +958,10 @@ VEN = {	#ベネズエラ
 	color = rgb { 80 104 122 }
 	color_ui = rgb { 80 104 122 }
 }
+WIN = {	#西インド
+	color = rgb { 255 161 0 }
+	color_ui = rgb { 255 161 0 }
+}
 
 #大洋州
 AST = {	#オーストラリア
@@ -1009,10 +1013,6 @@ AMR = {	#アムール
 	color = rgb { 230 230 219 }
 	color_ui = rgb { 230 230 219 }
 }
-ARC = {	#北極
-	color = rgb { 200 255 255 }
-	color_ui = rgb { 200 255 255 }
-}
 ARK = {	#アラカン
 	color = rgb { 255 200 197 }
 	color_ui = rgb { 255 200 197 }
@@ -1020,10 +1020,6 @@ ARK = {	#アラカン
 BHR = {	#バーレーン
 	color = rgb { 206 17 38 }
 	color_ui = rgb { 206 17 38 }
-}
-BOM = {	#ボンベイ
-	color = rgb { 189 183 107 }
-	color_ui = rgb { 189 183 107 }
 }
 BRN = {	#ブルネイ
 	color = rgb { 245 225 20 }
@@ -1036,10 +1032,6 @@ CCS = {	#コーカサス
 CHN = {	#チン
 	color = rgb { 44 41 148 }
 	color_ui = rgb { 44 41 148 }
-}
-CLC = {	#中華沿岸
-	color = rgb { 90 160 255 }
-	color_ui = rgb { 90 160 255 }
 }
 ETR = {	#東トルキスタン
 	color = rgb { 85 158 226 }
@@ -1085,6 +1077,10 @@ KAC = {	#カチン
 	color = rgb { 55 115 107 }
 	color_ui = rgb { 55 115 107 }
 }
+KAM = {	#カムチャッカ
+	color = rgb { 200 255 255 }
+	color_ui = rgb { 200 255 255 }
+}
 KAY = {	#カヤー
 	color = rgb { 30 30 70 }
 	color_ui = rgb { 30 30 70 }
@@ -1109,13 +1105,13 @@ MCA = {	#マカオ
 	color = rgb { 7 135 175 }
 	color_ui = rgb { 7 135 175 }
 }
-MDU = {	#マドゥライ
-	color = rgb { 139 69 19 }
-	color_ui = rgb { 139 69 19 }
-}
 MIN = {	#福建
 	color = rgb { 255 238 226 }
 	color_ui = rgb { 255 238 226 }
+}
+MSC = {	#マスカット
+	color = rgb { 180 150 120 }
+	color_ui = rgb { 180 150 120 }
 }
 MYS = {	#マイソール
 	color = rgb { 176 196 222 }
@@ -1136,6 +1132,10 @@ RYU = {	#琉球
 SAR = {	#サラワク
 	color = rgb { 236 104 0 }
 	color_ui = rgb { 236 104 0 }
+}
+SGH = {	#上海
+	color = rgb { 255 213 9 }
+	color_ui = rgb { 255 213 9 }
 }
 SHA = {	#シャン
 	color = rgb { 122 109 41 }
@@ -1207,10 +1207,6 @@ ARA = {	#アラゴン
 	color = rgb { 213 232 120 }
 	color_ui = rgb { 213 232 120 }
 }
-ATL = {	#大西洋
-	color = rgb { 50 25 150 }
-	color_ui = rgb { 50 25 150 }
-}
 ATR = {	#アストゥリアス
 	color = rgb { 127 181 255 }
 	color_ui = rgb { 127 181 255 }
@@ -1226,6 +1222,10 @@ BAS = {	#バスク
 BLK = {	#バルカン
 	color = rgb { 110 80 168 }
 	color_ui = rgb { 110 80 168 }
+}
+BRG = {	#ブルゴーニュ
+	color = rgb { 68 40 73 }
+	color_ui = rgb { 68 40 73 }
 }
 CHE = {	#チェチェン
 	color = rgb { 43 115 56 }
@@ -1246,18 +1246,6 @@ CTB = {	#カンタブリア
 DAL = {	#ダルマチア
 	color = rgb { 46 128 188 }
 	color_ui = rgb { 46 128 188 }
-}
-DET = {	#ドニエストル
-	color = rgb { 0 153 51 }
-	color_ui = rgb { 0 153 51 }
-}
-DKB = {	#ドン＝クバン
-	color = rgb { 255 228 25 }
-	color_ui = rgb { 255 228 25 }
-}
-EKA = {	#エカテリノダール
-	color = rgb { 193 147 154 }
-	color_ui = rgb { 193 147 154 }
 }
 EXT = {	#エストレマドゥーラ
 	color = rgb { 242 110 217 }
@@ -1303,10 +1291,6 @@ ISC = {	#カナリア
 	color = rgb { 106 105 106 }
 	color_ui = rgb { 106 105 106 }
 }
-KRA = {	#クラスノダール
-	color = rgb { 198 55 55 }
-	color_ui = rgb { 198 55 55 }
-}
 KRC = {	#カラチャイ・チェルケス
 	color = rgb { 193 147 154 }
 	color_ui = rgb { 193 147 154 }
@@ -1351,6 +1335,10 @@ MUR = {	#ムルシア
 	color = rgb { 152 26 28 }
 	color_ui = rgb { 152 26 28 }
 }
+NTL = {	#ネーデルラント
+	color = rgb { 255 154 0 }
+	color_ui = rgb { 255 154 0 }
+}
 PAT = {	#総主教領
 	color = rgb { 255 204 0 }
 	color_ui = rgb { 255 204 0 }
@@ -1371,6 +1359,10 @@ RIJ = {	#リオハ
 	color = rgb { 77 79 115 }
 	color_ui = rgb { 77 79 115 }
 }
+RTN = {	#ルテニア
+	color = rgb { 0 91 187 }
+	color_ui = rgb { 0 91 187 }
+}
 RUS = {	#ロシア
 	color = rgb { 0 100 0 }
 	color_ui = rgb { 0 100 0 }
@@ -1387,10 +1379,6 @@ SOA = {	#南オセチア
 	color = rgb { 255 141 140 }
 	color_ui = rgb { 255 141 140 }
 }
-TER = {	#テレク
-	color = rgb { 59 148 65 }
-	color_ui = rgb { 59 148 65 }
-}
 TEU = {	#チュートン
 	color = rgb { 198 198 198 }
 	color_ui = rgb { 198 198 198 }
@@ -1399,13 +1387,13 @@ TRC = {	#トランスコーカサス
 	color = rgb { 122 4 4 }
 	color_ui = rgb { 122 4 4 }
 }
+TRN = {	#トランスニストリア
+	color = rgb { 6 142 107 }
+	color_ui = rgb { 6 142 107 }
+}
 VAL = {	#バレンシア
 	color = rgb { 31 116 86 }
 	color_ui = rgb { 31 116 86 }
-}
-VIC = {	#ヴィシー
-	color = rgb { 98 174 66 }
-	color_ui = rgb { 98 174 66 }
 }
 VOJ = {	#ヴォイヴォディナ
 	color = rgb { 160 110 110 }
@@ -1425,6 +1413,10 @@ ZAP = {	#ザポロージャ
 }
 
 #アフリカ
+AFR = {	#アフリカ
+	color = rgb { 186 46 46 }
+	color_ui = rgb { 186 46 46 }
+}
 COM = {	#コモロ
 	color = rgb { 61 142 51 }
 	color_ui = rgb { 61 142 51 }
@@ -1436,10 +1428,6 @@ CPV = {	#カーボベルデ
 EQA = {	#赤道アフリカ
 	color = rgb { 155 210 205 }
 	color_ui = rgb { 155 210 205 }
-}
-FAF = {	#自由アフリカ
-	color = rgb { 217 166 46 }
-	color_ui = rgb { 217 166 46 }
 }
 KLE = {	#カレンジン
 	color = rgb { 240 201 174 }
@@ -1531,10 +1519,6 @@ CEN = {	#中央アメリカ
 	color = rgb { 103 204 255 }
 	color_ui = rgb { 103 204 255 }
 }
-CMB = {	#カンバ
-	color = rgb { 130 180 255 }
-	color_ui = rgb { 130 180 255 }
-}
 DMA = {	#ドミニカ
 	color = rgb { 0 107 63 }
 	color_ui = rgb { 0 107 63 }
@@ -1570,10 +1554,6 @@ QUB = {	#ケベック
 SAC = {	#南アメリカ
 	color = rgb { 0 36 145 }
 	color_ui = rgb { 0 36 145 }
-}
-SRA = {	#アマゾナス
-	color = rgb { 195 255 105 }
-	color_ui = rgb { 195 255 105 }
 }
 VCT = {	#セントビンセント・グレナディーン
 	color = rgb { 0 33 105 }
@@ -1681,12 +1661,6 @@ NBL = {	#ベラルーシ国民共和国
 	color_ui = rgb { 254 244 244 }
 }
 
-#BNF
-BNF = {	#ベルギエン＝ノルトフランクライヒ国家弁務官区
-	color = rgb { 27 43 27 }
-	color_ui = rgb { 27 43 27 }
-}
-
 #BRM
 BCP = {	#ビルマ共産党
 	color = rgb { 159 2 0 }
@@ -1707,12 +1681,6 @@ CHP = {	#中華合衆国
 CHS = {	#救国政府
 	color = rgb { 147 20 25 }
 	color_ui = rgb { 147 20 25 }
-}
-
-#FRA
-NFR = {	#北フランス
-	color = rgb { 25 115 150 }
-	color_ui = rgb { 25 115 150 }
 }
 
 #LAO
@@ -1745,12 +1713,6 @@ MPR = {	#モンゴル
 FNO = {	#ノルウェー王国
 	color = rgb { 111 71 71 }
 	color_ui = rgb { 111 71 71 }
-}
-
-#OMA
-OMI = {	#オマーン・イマーム国
-	color = rgb { 98 134 153 }
-	color_ui = rgb { 98 134 153 }
 }
 
 #PHI
@@ -1807,12 +1769,6 @@ SPF = {	#フランス系スペイン共和国
 SPX = {	#スペイン亡命政権
 	color = rgb { 255 222 0 }
 	color_ui = rgb { 255 222 0 }
-}
-
-#UKR
-RKU = {	#ウクライナ国家弁務官区
-	color = rgb { 0 80 255 }
-	color_ui = rgb { 0 80 255 }
 }
 
 #USA

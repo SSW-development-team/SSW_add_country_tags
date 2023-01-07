@@ -259,3 +259,4 @@ SUR	= "countries/South America.txt"	#スリナム
 TRI	= "countries/South America.txt"	#トリニダード
 URG	= "countries/South America.txt"	#ウルグアイ
 VEN	= "countries/South America.txt"	#ベネズエラ
+WIN	= "countries/South America.txt"	#西インド
