@@ -140,7 +140,7 @@ BLR,republic,,共和国
 
 BLZ,republic,,共和国
 
-BOL,plurinational_state,,多民族国
+BOL,republic,,共和国
 
 BOS,republic,,共和国
 
@@ -242,9 +242,9 @@ CHI,peoples_republic,,人民共和国
 
 CHI,peoples_republic_1,,人民共和国
 
-CHI,republic,,民国
+CHI,minguo,,民国
 
-CHI,republic_reformed_government,,民国維新政府
+CHI,minguo_reformed_government,,民国維新政府
 
 CHI,salvation_government,,救国政府
 
@@ -466,13 +466,17 @@ GDL,repbulic,,共和国
 
 GEO,republic,,共和国
 
-GER,antinazism_front,,反ナチス戦線
+GER,confederation,,連邦
 
-GER,bormann_provisional_government,,・ボルマン臨時政府
+GER,confederation_0,,連邦
 
-GER,commune,,・コミューン
+GER,confederation_1,,連邦
 
-GER,confederate_states,,連合国
+GER,confederation_2,,連邦
+
+GER,confederation_3,,連邦
+
+GER,confederation_4,,連邦
 
 GER,democratic_republic,,民主共和国
 
@@ -486,10 +490,6 @@ GER,democratic_republic_3,,民主共和国
 
 GER,democratic_republic_4,,民主共和国
 
-GER,eichmann_provisional_government,,・アイヒマン臨時政府
-
-GER,empire,,帝国
-
 GER,federal_republic,,連邦共和国
 
 GER,federal_republic_0,,連邦共和国
@@ -502,25 +502,17 @@ GER,federal_republic_3,,連邦共和国
 
 GER,federal_republic_4,,連邦共和国
 
-GER,goebbels_provisional_government,,・ゲッベルス臨時政府
+GER,federation,,連邦
 
-GER,goering_provisional_government,,・ゲーリング臨時政府
+GER,federation_0,,連邦
 
-GER,henlein_provisional_government,,・ヘンライン臨時政府
+GER,federation_1,,連邦
 
-GER,hess_consul_government,,・ヘス執政政府
+GER,federation_2,,連邦
 
-GER,hess_provisional_government,,・ヘス臨時政府
+GER,federation_3,,連邦
 
-GER,heydrich_provisional_government,,・ハイドリヒ臨時政府
-
-GER,himmler_provisional_government,,・ヒムラー臨時政府
-
-GER,jeckeln_provisional_government,,・イェッケルン臨時政府
-
-GER,national_republic,,国民共和国
-
-GER,national_syndicalist_republic,,国民サンディカリスム共和国
+GER,federation_4,,連邦
 
 GER,rate_republics_union,,・レーテ共和国連邦
 
@@ -536,25 +528,17 @@ GER,republic_3,,共和国
 
 GER,republic_4,,共和国
 
-GER,ribbentrop_provisional_government,,・リッベントロップ臨時政府
+GER,reich,,国
 
-GER,schirach_provisional_government,,・シーラッハ臨時政府
+GER,reich_0,,国
 
-GER,social_republic,,社会共和国
+GER,reich_1,,国
 
-GER,speer_provisional_government,,・シュペーア臨時政府
+GER,reich_2,,国
 
-GER,state,,国
+GER,reich_3,,国
 
-GER,state_0,,国
-
-GER,state_1,,国
-
-GER,state_2,,国
-
-GER,state_3,,国
-
-GER,state_4,,国
+GER,reich_4,,国
 
 GHA,republic,,共和国
 
@@ -608,7 +592,7 @@ HAW,kingdom,,王国
 
 HAW,republic,,共和国
 
-HEZ,kingdom,,王国
+HEZ,hashemite_kingdom,,・ハシミテ王国
 
 HOL,kingdom,,王国
 
@@ -714,6 +698,8 @@ IRE,state,,国
 
 IRQ,kingdom,,王国
 
+IRQ,hashemite_kingdom,,・ハシミテ王国
+
 IRQ,republic,,共和国
 
 IRQ,republic_marxism-leninism,,社会主義共和国
@@ -726,6 +712,8 @@ ISR,state_marxism-leninism,,社会主義国
 
 ISR,state_progressive_socialism,,社会主義国
 
+ITA,duchy,,公国
+
 ITA,empire,,帝国
 
 ITA,federation,,連邦
@@ -735,6 +723,8 @@ ITA,kingdom,,王国
 ITA,peoples_liberation_front,,人民解放戦線
 
 ITA,republic,,共和国
+
+ITA,state,,国
 
 ITA,social_republic,,社会共和国
 
@@ -862,7 +852,7 @@ KOM,republic,,共和国
 
 KOR,empire,,帝国
 
-KOR,republic,,民国
+KOR,minguo,,民国
 
 KOS,republic,,共和国
 
@@ -1000,7 +990,7 @@ MAN,empire,,帝国
 
 MAN,peoples_military_district,,人民軍管区
 
-MAN,republic,,民国
+MAN,minguo,,民国
 
 MAN,republic_marxism-leninism,,人民共和国
 
@@ -1028,7 +1018,7 @@ MEN,autonomous_federation,,自治邦
 
 MEN,military_government,,軍政府
 
-MEN,republic,,民国
+MEN,minguo,,民国
 
 MEN,republic_marxism-leninism,,人民共和国
 
@@ -1330,6 +1320,12 @@ RUS,free_territory,,自由地区
 
 RUS,liberation_army,,解放軍
 
+RUS,national_republic,,国民共和国
+
+RUS,national_republic_0,,国民共和国
+
+RUS,national_republic_1,,国民共和国
+
 RUS,republic,,共和国
 
 RUS,republic_marxism-leninism,,社会主義共和国
@@ -1337,6 +1333,8 @@ RUS,republic_marxism-leninism,,社会主義共和国
 RUS,republic_progressive_socialism,,社会主義共和国
 
 RUS,sky_liberation_alliance,,の空解放同盟
+
+RUS,soviet_socialist_republic,,・ソビエト社会主義共和国
 
 RUS,state,,国
 
@@ -1602,6 +1600,10 @@ TRC,state,,国
 
 TRI,republic,,共和国
 
+TRK,state,,国
+
+TRK,republic,,共和国
+
 TRK,legion,,軍団
 
 TRV,kingdom,,王国
@@ -1780,6 +1782,10 @@ ZAP,cossack_republic,,・コサック共和国
 
 ZIM,national_liberation_front,,民族解放戦線
 
+ZIM,national_congress,,民族会議
+
+ZIM,patriotic_front,,愛国戦線
+
 ZIM,republic,,共和国
 
 ZZB,republic,,共和国
@@ -1809,3 +1815,13 @@ NTL,kingdom,,王国
 WIN,federation,,連邦
 
 SGH,international_settlement,,共同租界
+
+EHB,autonomous_anti_communist_government,,防共自治政府
+
+TAI,federation,,連盟
+
+NJE,republic,,共和国
+
+PEN,republic,,共和国
+
+ITA,empire,,帝国

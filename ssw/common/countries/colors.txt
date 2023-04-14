@@ -116,7 +116,7 @@ KUW = {	#クウェート
 	color = rgb { 153 76 0 }
 	color_ui = rgb { 153 76 0 }
 }
-KYR = {	#キルギスタン
+KYR = {	#キルギス
 	color = rgb { 255 116 0 }
 	color_ui = rgb { 255 116 0 }
 }
@@ -136,7 +136,7 @@ MAN = {	#満州
 	color = rgb { 255 120 71 }
 	color_ui = rgb { 255 120 71 }
 }
-MEN = {	#蒙疆
+MEN = {	#蒙古
 	color = rgb { 185 255 152 }
 	color_ui = rgb { 185 255 152 }
 }
@@ -164,10 +164,6 @@ PAL = {	#パレスチナ
 	color = rgb { 170 125 80 }
 	color_ui = rgb { 170 125 80 }
 }
-PCH = {	#中華
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 245 12 55 }
-}
 PER = {	#ペルシャ
 	color = rgb { 71 113 97 }
 	color_ui = rgb { 71 113 97 }
@@ -180,7 +176,7 @@ QAT = {	#カタール
 	color = rgb { 128 0 0 }
 	color_ui = rgb { 128 0 0 }
 }
-SAU = {	#サウジアラビア
+SAU = {	#サウード
 	color = rgb { 0 108 53 }
 	color_ui = rgb { 0 108 53 }
 }
@@ -192,7 +188,7 @@ SIA = {	#シャム
 	color = rgb { 171 190 152 }
 	color_ui = rgb { 171 190 152 }
 }
-SIK = {	#新彊
+SIK = {	#新疆
 	color = rgb { 71 190 152 }
 	color_ui = rgb { 71 190 152 }
 }
@@ -390,7 +386,7 @@ HAN = {	#ハノーファー
 	color = rgb { 0 0 255 }
 	color_ui = rgb { 0 0 255 }
 }
-HOL = {	#オランダ
+HOL = {	#ホラント
 	color = rgb { 230 165 80 }
 	color_ui = rgb { 230 165 80 }
 }
@@ -434,7 +430,7 @@ KOS = {	#コソボ
 	color = rgb { 208 166 80 }
 	color_ui = rgb { 208 166 80 }
 }
-KSH = {	#カシューブ
+KSH = {	#カシュビア
 	color = rgb { 242 205 94 }
 	color_ui = rgb { 242 205 94 }
 }
@@ -474,7 +470,7 @@ MNT = {	#モンテネグロ
 	color = rgb { 160 110 110 }
 	color_ui = rgb { 160 110 110 }
 }
-MOL = {	#モルドバ
+MOL = {	#モルダヴィア
 	color = rgb { 255 204 204 }
 	color_ui = rgb { 255 204 204 }
 }
@@ -951,14 +947,14 @@ URG = {	#ウルグアイ
 	color_ui = rgb { 0 56 168 }
 }
 USA = {	#アメリカ
-	color = rgb { 20 133 237 }
-	color_ui = rgb { 20 133 237 }
+	color = rgb { 56 86 134 }
+	color_ui = rgb { 56 86 134 }
 }
 VEN = {	#ベネズエラ
 	color = rgb { 80 104 122 }
 	color_ui = rgb { 80 104 122 }
 }
-WIN = {	#西インド
+WIN = {	#西インド諸島
 	color = rgb { 255 161 0 }
 	color_ui = rgb { 255 161 0 }
 }
@@ -1033,6 +1029,10 @@ CHN = {	#チン
 	color = rgb { 44 41 148 }
 	color_ui = rgb { 44 41 148 }
 }
+EHB = {	#冀東
+	color = rgb { 158 188 247 }
+	color_ui = rgb { 158 188 247 }
+}
 ETR = {	#東トルキスタン
 	color = rgb { 85 158 226 }
 	color_ui = rgb { 85 158 226 }
@@ -1101,7 +1101,7 @@ KUM = {	#クムル
 	color = rgb { 237 134 40 }
 	color_ui = rgb { 237 134 40 }
 }
-MCA = {	#マカオ
+MCA = {	#澳門
 	color = rgb { 7 135 175 }
 	color_ui = rgb { 7 135 175 }
 }
@@ -1259,7 +1259,7 @@ FRI = {	#フェロー
 	color = rgb { 200 200 180 }
 	color_ui = rgb { 200 200 180 }
 }
-GAL = {	#ガリツィア＝ロドメリア
+GAL = {	#ガリツィア
 	color = rgb { 224 71 140 }
 	color_ui = rgb { 224 71 140 }
 }
@@ -1291,7 +1291,7 @@ ISC = {	#カナリア
 	color = rgb { 106 105 106 }
 	color_ui = rgb { 106 105 106 }
 }
-KRC = {	#カラチャイ・チェルケス
+KRC = {	#カラチャイ
 	color = rgb { 193 147 154 }
 	color_ui = rgb { 193 147 154 }
 }
@@ -1507,7 +1507,7 @@ ZZB = {	#ザンジバル
 }
 
 #新大陸
-ATG = {	#アンティグア・バーブーダ
+ATG = {	#アンティグア
 	color = rgb { 0 74 129 }
 	color_ui = rgb { 0 74 129 }
 }
@@ -1639,9 +1639,17 @@ NEL = {	#ニューイングランド
 	color = rgb { 0 100 55 }
 	color_ui = rgb { 0 100 55 }
 }
+NJE = {	#ニュージャージー
+	color = rgb { 255 202 102 }
+	color_ui = rgb { 255 202 102 }
+}
 OKL = {	#オクラホマ
 	color = rgb { 244 164 46 }
 	color_ui = rgb { 244 164 46 }
+}
+PEN = {	#ペンシルバニア
+	color = rgb { 71 62 77 }
+	color_ui = rgb { 71 62 77 }
 }
 TEX = {	#テキサス
 	color = rgb { 103 0 0 }
@@ -1681,6 +1689,24 @@ CHP = {	#中華合衆国
 CHS = {	#救国政府
 	color = rgb { 147 20 25 }
 	color_ui = rgb { 147 20 25 }
+}
+PCH = {	#中華
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 245 12 55 }
+}
+
+#ITA
+IT0 = {	#イタリア
+	color = rgb { 76 91 62 }
+	color_ui = rgb { 76 91 62 }
+}
+IT1 = {	#イタリア
+	color = rgb { 0 190 62 }
+	color_ui = rgb { 0 190 62 }
+}
+IT2 = {	#イタリア
+	color = rgb { 0 190 140 }
+	color_ui = rgb { 0 190 140 }
 }
 
 #LAO
@@ -1773,8 +1799,8 @@ SPX = {	#スペイン亡命政権
 
 #USA
 ALF = {	#アメリカ自由連盟
-	color = rgb { 250 250 210 }
-	color_ui = rgb { 250 250 210 }
+	color = rgb { 56 86 134 }
+	color_ui = rgb { 56 86 134 }
 }
 BLS = {	#ブラック・ステート
 	color = rgb { 0 19 29 }
@@ -1785,12 +1811,12 @@ FSA = {	#アメリカ連邦
 	color_ui = rgb { 192 192 192 }
 }
 LFF = {	#左翼戦線
-	color = rgb { 0 162 106 }
-	color_ui = rgb { 0 162 106 }
+	color = rgb { 127 0 0 }
+	color_ui = rgb { 127 0 0 }
 }
 LFS = {	#左翼戦線南部司令部
-	color = rgb { 0 162 106 }
-	color_ui = rgb { 0 162 106 }
+	color = rgb { 127 0 0 }
+	color_ui = rgb { 127 0 0 }
 }
 UTC = {	#三社連合
 	color = rgb { 189 116 198 }
@@ -1805,6 +1831,12 @@ NLF = {	#南ベトナム解放民族戦線
 SRV = {	#共産主義ベトナム
 	color = rgb { 162 16 11 }
 	color_ui = rgb { 162 16 11 }
+}
+
+#ZIM
+ZW0 = {	#ジンバブエ
+	color = rgb { 7 70 239 }
+	color_ui = rgb { 7 70 239 }
 }
 
 ##特殊国家
