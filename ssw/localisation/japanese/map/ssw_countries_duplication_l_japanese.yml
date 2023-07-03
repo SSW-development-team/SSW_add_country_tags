@@ -64,20 +64,10 @@
  MRL_DEF:0 "満鉄統治区域"
  MRL_ADJ:0 "満鉄統治区域"
  
-#MON
- MPR:0 "モンゴル"
- MPR_DEF:0 "モンゴル"
- MPR_ADJ:0 "モンゴル"
- 
 #NOR
  FNO:0 "ノルウェー王国"
  FNO_DEF:0 "ノルウェー王国"
  FNO_ADJ:0 "ノルウェー王国"
- 
-#PHI
- HUK:0 "フクバラハップ"
- HUK_DEF:0 "フクバラハップ"
- HUK_ADJ:0 "フクバラハップ"
  
 #POL
  PLR:0 "ポーランド"

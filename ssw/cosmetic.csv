@@ -86,6 +86,8 @@ AZR,republic,,共和国
 
 BAH,state,,国
 
+BAS,republic,,共和国
+
 BAL,federal_republic,,連邦共和国
 
 BAL,federal_republic_marxism-leninism,,社会主義連邦共和国
@@ -240,7 +242,9 @@ CHI,national_salvation_government,,民族救国政府
 
 CHI,peoples_republic,,人民共和国
 
-CHI,peoples_republic_1,,人民共和国
+CHI,peoples_republic_0_1,,人民共和国
+
+CHI,peoples_republic_1_1,,人民共和国
 
 CHI,minguo,,民国
 
@@ -292,11 +296,11 @@ CRI,peoples_republic,,人民共和国
 
 CRO,independent_state,,独立国
 
+CRO,kingdom,,王国
+
+CRO,peoples_republic,,人民共和国
+
 CRO,republic,,共和国
-
-CRO,republic_marxism-leninism,,社会主義共和国
-
-CRO,republic_progressive_socialism,,社会主義共和国
 
 CSC,republic,,共和国
 
@@ -402,6 +406,10 @@ FAE,republic,,共和国
 
 FAE,state,,国
 
+FAE,state_0_1,,国
+
+FAE,state_0_2,,国
+
 FIJ,kingdom,,王国
 
 FIJ,republic,,共和国
@@ -432,6 +440,8 @@ FRA,kingdom_vichy_government,,王国ヴィシー政府
 
 FRA,republic,,共和国
 
+FRA,republic_0_2,,共和国
+
 FRA,republic_marxism-leninism,,人民共和国
 
 FRA,republic_paris_government,,共和国パリ政府
@@ -441,6 +451,8 @@ FRA,republic_progressive_socialism,,人民共和国
 FRA,republic_vichy_government,,共和国ヴィシー政府
 
 FRA,state,,国
+
+FRA,state_0_1,,国
 
 FRA,state_paris_government,,国パリ政府
 
@@ -492,6 +504,8 @@ GER,democratic_republic_4,,民主共和国
 
 GER,federal_republic,,連邦共和国
 
+GER,federal_republic_0_1,,連邦共和国
+
 GER,federal_republic_0,,連邦共和国
 
 GER,federal_republic_1,,連邦共和国
@@ -531,6 +545,8 @@ GER,republic_4,,共和国
 GER,reich,,国
 
 GER,reich_0,,国
+
+GER,reich_0_1,,国
 
 GER,reich_1,,国
 
@@ -714,6 +730,8 @@ ISR,state_progressive_socialism,,社会主義国
 
 ITA,duchy,,公国
 
+ITA,duchy_0_1,,公国
+
 ITA,empire,,帝国
 
 ITA,federation,,連邦
@@ -724,9 +742,15 @@ ITA,peoples_liberation_front,,人民解放戦線
 
 ITA,republic,,共和国
 
+ITA,republic_1_1,,共和国
+
 ITA,state,,国
 
+ITA,state_0_1,,国
+
 ITA,social_republic,,社会共和国
+
+ITA,social_republic_0_1,,社会共和国
 
 IVO,republic,,共和国
 
@@ -1064,9 +1088,13 @@ MOL,republic,,共和国
 
 MON,peoples_republic,,人民共和国
 
+MON,peoples_republic_0_1,,人民共和国
+
 MON,republic,,共和国
 
 MON,state,,国
+
+MON,state_0_0,,国
 
 MOR,kingdom,,王国
 
@@ -1115,6 +1143,8 @@ NAV,republic_marxism-leninism,,人民共和国
 NAV,republic_progressive_socialism,,人民共和国
 
 NCL,republic,,共和国
+
+NCC,republic,,共和国
 
 NEL,republic,,共和国
 
@@ -1206,11 +1236,13 @@ ORM,republic_progressive_socialism,,社会主義共和国
 
 OUB,republic,,共和国
 
-OVO,republic,,共和国
+YGR,republic,,共和国
 
 PAK,islamic_republic,,・イスラム共和国
 
 PAK,national_republic,,国民共和国
+
+PAK,national_republic_0_1,,国民共和国
 
 PAL,republic,,共和国
 
@@ -1310,15 +1342,19 @@ ROM,republic_progressive_socialism,,社会主義共和国
 
 RUS,aristocratic_council,,貴族評議会
 
-RUS,confederate_states,,連合国
+RUS,atamanate_0_1,,・アタマン国
 
 RUS,empire,,帝国
 
+RUS,empire_1_1,,帝国
+
+RUS,federal_republic,,連邦共和国
+
 RUS,federation,,連邦
 
-RUS,free_territory,,自由地区
+RUS,national_liberation_army,,国民解放軍
 
-RUS,liberation_army,,解放軍
+RUS,national_liberation_army_0_1,,国民解放軍
 
 RUS,national_republic,,国民共和国
 
@@ -1326,19 +1362,19 @@ RUS,national_republic_0,,国民共和国
 
 RUS,national_republic_1,,国民共和国
 
+RUS,national_republic_2_1,,国民共和国
+
+RUS,national_state_0_1,,国民国
+
 RUS,republic,,共和国
 
-RUS,republic_marxism-leninism,,社会主義共和国
-
-RUS,republic_progressive_socialism,,社会主義共和国
-
-RUS,sky_liberation_alliance,,の空解放同盟
+RUS,republic_0_0,,共和国
 
 RUS,soviet_socialist_republic,,・ソビエト社会主義共和国
 
 RUS,state,,国
 
-RUS,united_states,,合衆国
+RUS,republics_union,,共和国連邦
 
 RWA,kingdom,,王国
 
@@ -1754,7 +1790,7 @@ WTR,federation,,連邦
 
 WUR,kingdom,,王国
 
-YAK,repulic,,共和国
+SKH,repulic,,共和国
 
 YAM,republic,,共和国
 
@@ -1825,3 +1861,30 @@ NJE,republic,,共和国
 PEN,republic,,共和国
 
 ITA,empire,,帝国
+
+PRM,republic,,共和国
+
+ORB,republic,,共和国
+
+SMA,republic,,共和国
+
+KRV,republic,,共和国
+
+TYU,republic,,共和国
+
+OMS,republic,,共和国
+
+NSB,republic,,共和国
+
+TSK,republic,,共和国
+
+KMV,republic,,共和国
+
+KRS,republic,,共和国
+
+IRK,republic,,共和国
+
+EVN,republic,,共和国
+
+NAF,republic,,共和国
+
