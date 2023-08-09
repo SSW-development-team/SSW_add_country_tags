@@ -93,13 +93,13 @@
  KAZ_DEF:0 "カザフスタン"
  KAZ_ADJ:0 "カザフスタン"
  
+ KHA:0 "ハカス"
+ KHA_DEF:0 "ハカス"
+ KHA_ADJ:0 "ハカス"
+ 
  KHI:0 "ヒヴァ"
  KHI_DEF:0 "ヒヴァ"
  KHI_ADJ:0 "ヒヴァ"
- 
- KHK:0 "ハカス"
- KHK_DEF:0 "ハカス"
- KHK_ADJ:0 "ハカス"
  
  KKP:0 "カラカルパクスタン"
  KKP_DEF:0 "カラカルパクスタン"
@@ -221,6 +221,10 @@
  TMS_DEF:0 "トルクメニスタン"
  TMS_ADJ:0 "トルクメニスタン"
  
+ TRC:0 "トルーシャル・オマーン"
+ TRC_DEF:0 "トルーシャル・オマーン"
+ TRC_ADJ:0 "トルーシャル・オマーン"
+ 
  TUR:0 "トルコ"
  TUR_DEF:0 "トルコ"
  TUR_ADJ:0 "トルコ"
@@ -228,10 +232,6 @@
  TUV:0 "トゥヴァ"
  TUV_DEF:0 "トゥヴァ"
  TUV_ADJ:0 "トゥヴァ"
- 
- UAE:0 "アラブ"
- UAE_DEF:0 "アラブ"
- UAE_ADJ:0 "アラブ"
  
  UZB:0 "ウズベキスタン"
  UZB_DEF:0 "ウズベキスタン"
@@ -245,9 +245,9 @@
  VLA_DEF:0 "ウラジオストク"
  VLA_ADJ:0 "ウラジオストク"
  
- XSM:0 "西北"
- XSM_DEF:0 "西北"
- XSM_ADJ:0 "西北"
+ XIB:0 "西北"
+ XIB_DEF:0 "西北"
+ XIB_ADJ:0 "西北"
  
  YAM:0 "ヤマリア"
  YAM_DEF:0 "ヤマリア"
@@ -590,17 +590,17 @@
  UKR_DEF:0 "ウクライナ"
  UKR_ADJ:0 "ウクライナ"
  
- VAC:0 "バチカン"
- VAC_DEF:0 "バチカン"
- VAC_ADJ:0 "バチカン"
+ VAT:0 "バチカン"
+ VAT_DEF:0 "バチカン"
+ VAT_ADJ:0 "バチカン"
  
- VEC:0 "ヴェネツィア"
- VEC_DEF:0 "ヴェネツィア"
- VEC_ADJ:0 "ヴェネツィア"
+ VLG:0 "ヴォルガ"
+ VLG_DEF:0 "ヴォルガ"
+ VLG_ADJ:0 "ヴォルガ"
  
- VGE:0 "ヴォルガ"
- VGE_DEF:0 "ヴォルガ"
- VGE_ADJ:0 "ヴォルガ"
+ VNC:0 "ヴェネツィア"
+ VNC_DEF:0 "ヴェネツィア"
+ VNC_ADJ:0 "ヴェネツィア"
  
  WGR:0 "西ドイツ"
  WGR_DEF:0 "西ドイツ"
@@ -719,6 +719,10 @@
  MAD_DEF:0 "マダガスカル"
  MAD_ADJ:0 "マダガスカル"
  
+ MCG:0 "中部コンゴ"
+ MCG_DEF:0 "中部コンゴ"
+ MCG_ADJ:0 "中部コンゴ"
+ 
  MLI:0 "マリ"
  MLI_DEF:0 "マリ"
  MLI_ADJ:0 "マリ"
@@ -743,21 +747,17 @@
  NGA_DEF:0 "ナイジェリア"
  NGA_ADJ:0 "ナイジェリア"
  
- NGR:0 "ニジェール"
- NGR_DEF:0 "ニジェール"
- NGR_ADJ:0 "ニジェール"
+ NGE:0 "ニジェール"
+ NGE_DEF:0 "ニジェール"
+ NGE_ADJ:0 "ニジェール"
  
  NMB:0 "ナミビア"
  NMB_DEF:0 "ナミビア"
  NMB_ADJ:0 "ナミビア"
  
- ORM:0 "オロモ"
- ORM_DEF:0 "オロモ"
- ORM_ADJ:0 "オロモ"
- 
- RCG:0 "中部コンゴ"
- RCG_DEF:0 "中部コンゴ"
- RCG_ADJ:0 "中部コンゴ"
+ ORO:0 "オロモ"
+ ORO_DEF:0 "オロモ"
+ ORO_ADJ:0 "オロモ"
  
  RIF:0 "リーフ"
  RIF_DEF:0 "リーフ"
@@ -1040,13 +1040,17 @@
  EZO_DEF:0 "蝦夷"
  EZO_ADJ:0 "蝦夷"
  
+ FUJ:0 "福建"
+ FUJ_DEF:0 "福建"
+ FUJ_ADJ:0 "福建"
+ 
+ GND:0 "広東"
+ GND_DEF:0 "広東"
+ GND_ADJ:0 "広東"
+ 
  GOA:0 "ゴア"
  GOA_DEF:0 "ゴア"
  GOA_ADJ:0 "ゴア"
- 
- GUD:0 "広東"
- GUD_DEF:0 "広東"
- GUD_ADJ:0 "広東"
  
  HEZ:0 "ヒジャーズ"
  HEZ_DEF:0 "ヒジャーズ"
@@ -1072,9 +1076,13 @@
  IRK_DEF:0 "イルクーツク"
  IRK_ADJ:0 "イルクーツク"
  
- JAK:0 "ジャンムー・カシミール"
- JAK_DEF:0 "ジャンムー・カシミール"
- JAK_ADJ:0 "ジャンムー・カシミール"
+ JNA:0 "ジュナーガド"
+ JNA_DEF:0 "ジュナーガド"
+ JNA_ADJ:0 "ジュナーガド"
+ 
+ JRS:0 "エルサレム"
+ JRS_DEF:0 "エルサレム"
+ JRS_ADJ:0 "エルサレム"
  
  KAC:0 "カチン"
  KAC_DEF:0 "カチン"
@@ -1084,13 +1092,17 @@
  KAM_DEF:0 "カムチャッカ"
  KAM_ADJ:0 "カムチャッカ"
  
+ KAS:0 "カシミール"
+ KAS_DEF:0 "カシミール"
+ KAS_ADJ:0 "カシミール"
+ 
  KAY:0 "カヤー"
  KAY_DEF:0 "カヤー"
  KAY_ADJ:0 "カヤー"
  
- KHA:0 "ハバロフスク"
- KHA_DEF:0 "ハバロフスク"
- KHA_ADJ:0 "ハバロフスク"
+ KHB:0 "ハバロフスク"
+ KHB_DEF:0 "ハバロフスク"
+ KHB_ADJ:0 "ハバロフスク"
  
  KHM:0 "カム"
  KHM_DEF:0 "カム"
@@ -1116,13 +1128,13 @@
  MCA_DEF:0 "澳門"
  MCA_ADJ:0 "澳門"
  
- MIN:0 "福建"
- MIN_DEF:0 "福建"
- MIN_ADJ:0 "福建"
- 
  MSC:0 "マスカット"
  MSC_DEF:0 "マスカット"
  MSC_ADJ:0 "マスカット"
+ 
+ MWN:0 "モン"
+ MWN_DEF:0 "モン"
+ MWN_ADJ:0 "モン"
  
  MYS:0 "マイソール"
  MYS_DEF:0 "マイソール"
@@ -1140,25 +1152,21 @@
  OMS_DEF:0 "オムスク"
  OMS_ADJ:0 "オムスク"
  
- PEG:0 "ペグー"
- PEG_DEF:0 "ペグー"
- PEG_ADJ:0 "ペグー"
- 
  RYU:0 "琉球"
  RYU_DEF:0 "琉球"
  RYU_ADJ:0 "琉球"
  
- SAR:0 "サラワク"
- SAR_DEF:0 "サラワク"
- SAR_ADJ:0 "サラワク"
+ SCH:0 "四川"
+ SCH_DEF:0 "四川"
+ SCH_ADJ:0 "四川"
  
  SGH:0 "上海"
  SGH_DEF:0 "上海"
  SGH_ADJ:0 "上海"
  
- SHA:0 "シャン"
- SHA_DEF:0 "シャン"
- SHA_ADJ:0 "シャン"
+ SHN:0 "シャン"
+ SHN_DEF:0 "シャン"
+ SHN_ADJ:0 "シャン"
  
  SIB:0 "シベリア"
  SIB_DEF:0 "シベリア"
@@ -1172,9 +1180,9 @@
  SKM_DEF:0 "シッキム"
  SKM_ADJ:0 "シッキム"
  
- SZE:0 "四川"
- SZE_DEF:0 "四川"
- SZE_ADJ:0 "四川"
+ SRW:0 "サラワク"
+ SRW_DEF:0 "サラワク"
+ SRW_ADJ:0 "サラワク"
  
  TAI:0 "タイ"
  TAI_DEF:0 "タイ"
@@ -1237,33 +1245,37 @@
  ATR_DEF:0 "アストゥリアス"
  ATR_ADJ:0 "アストゥリアス"
  
- BAL:0 "バルト"
- BAL_DEF:0 "バルト"
- BAL_ADJ:0 "バルト"
- 
- BAS:0 "バスク"
- BAS_DEF:0 "バスク"
- BAS_ADJ:0 "バスク"
+ BLE:0 "バレアレス"
+ BLE_DEF:0 "バレアレス"
+ BLE_ADJ:0 "バレアレス"
  
  BLK:0 "バルカン"
  BLK_DEF:0 "バルカン"
  BLK_ADJ:0 "バルカン"
  
+ BLT:0 "バルト"
+ BLT_DEF:0 "バルト"
+ BLT_ADJ:0 "バルト"
+ 
  BRG:0 "ブルゴーニュ"
  BRG_DEF:0 "ブルゴーニュ"
  BRG_ADJ:0 "ブルゴーニュ"
+ 
+ BSQ:0 "バスク"
+ BSQ_DEF:0 "バスク"
+ BSQ_ADJ:0 "バスク"
  
  CHE:0 "チェチェン"
  CHE_DEF:0 "チェチェン"
  CHE_ADJ:0 "チェチェン"
  
+ CNA:0 "カナリア"
+ CNA_DEF:0 "カナリア"
+ CNA_ADJ:0 "カナリア"
+ 
  COW:0 "コーンウォール"
  COW_DEF:0 "コーンウォール"
  COW_ADJ:0 "コーンウォール"
- 
- CSL:0 "カスティーリャ・イ・レオン"
- CSL_DEF:0 "カスティーリャ・イ・レオン"
- CSL_ADJ:0 "カスティーリャ・イ・レオン"
  
  CTB:0 "カンタブリア"
  CTB_DEF:0 "カンタブリア"
@@ -1277,13 +1289,13 @@
  EXT_DEF:0 "エストレマドゥーラ"
  EXT_ADJ:0 "エストレマドゥーラ"
  
- FLA:0 "フランドル"
- FLA_DEF:0 "フランドル"
- FLA_ADJ:0 "フランドル"
+ FLN:0 "フランドル"
+ FLN_DEF:0 "フランドル"
+ FLN_ADJ:0 "フランドル"
  
- FRI:0 "フェロー"
- FRI_DEF:0 "フェロー"
- FRI_ADJ:0 "フェロー"
+ FRO:0 "フェロー"
+ FRO_DEF:0 "フェロー"
+ FRO_ADJ:0 "フェロー"
  
  GAL:0 "ガリツィア"
  GAL_DEF:0 "ガリツィア"
@@ -1309,14 +1321,6 @@
  INT_DEF:0 "インテルマリウム"
  INT_ADJ:0 "インテルマリウム"
  
- ISB:0 "バレアレス"
- ISB_DEF:0 "バレアレス"
- ISB_ADJ:0 "バレアレス"
- 
- ISC:0 "カナリア"
- ISC_DEF:0 "カナリア"
- ISC_ADJ:0 "カナリア"
- 
  KRC:0 "カラチャイ"
  KRC_DEF:0 "カラチャイ"
  KRC_ADJ:0 "カラチャイ"
@@ -1324,10 +1328,6 @@
  KRV:0 "キーロフ"
  KRV_DEF:0 "キーロフ"
  KRV_ADJ:0 "キーロフ"
- 
- LAP:0 "ラップランド"
- LAP_DEF:0 "ラップランド"
- LAP_ADJ:0 "ラップランド"
  
  LIE:0 "リヒテンシュタイン"
  LIE_DEF:0 "リヒテンシュタイン"
@@ -1337,13 +1337,21 @@
  LIV_DEF:0 "リヴォニア"
  LIV_ADJ:0 "リヴォニア"
  
- LMA:0 "ラ・マンチャ"
- LMA_DEF:0 "ラ・マンチャ"
- LMA_ADJ:0 "ラ・マンチャ"
- 
  LMK:0 "レムコ"
  LMK_DEF:0 "レムコ"
  LMK_ADJ:0 "レムコ"
+ 
+ LMN:0 "ラ・マンチャ"
+ LMN_DEF:0 "ラ・マンチャ"
+ LMN_ADJ:0 "ラ・マンチャ"
+ 
+ LON:0 "レオン"
+ LON_DEF:0 "レオン"
+ LON_ADJ:0 "レオン"
+ 
+ LRJ:0 "ラ・リオハ"
+ LRJ_DEF:0 "ラ・リオハ"
+ LRJ_ADJ:0 "ラ・リオハ"
  
  MCO:0 "モナコ"
  MCO_DEF:0 "モナコ"
@@ -1393,10 +1401,6 @@
  PRV_DEF:0 "プロヴァンス"
  PRV_ADJ:0 "プロヴァンス"
  
- RIJ:0 "リオハ"
- RIJ_DEF:0 "リオハ"
- RIJ_ADJ:0 "リオハ"
- 
  RTN:0 "ルテニア"
  RTN_DEF:0 "ルテニア"
  RTN_ADJ:0 "ルテニア"
@@ -1409,9 +1413,17 @@
  SCA_DEF:0 "スカンディナヴィア"
  SCA_ADJ:0 "スカンディナヴィア"
  
+ SCC:0 "南コーカサス"
+ SCC_DEF:0 "南コーカサス"
+ SCC_ADJ:0 "南コーカサス"
+ 
  SMA:0 "サマラ"
  SMA_DEF:0 "サマラ"
  SMA_ADJ:0 "サマラ"
+ 
+ SME:0 "サーミランド"
+ SME_DEF:0 "サーミランド"
+ SME_ADJ:0 "サーミランド"
  
  SMR:0 "サンマリノ"
  SMR_DEF:0 "サンマリノ"
@@ -1424,10 +1436,6 @@
  TEU:0 "チュートン"
  TEU_DEF:0 "チュートン"
  TEU_ADJ:0 "チュートン"
- 
- TRC:0 "トランスコーカサス"
- TRC_DEF:0 "トランスコーカサス"
- TRC_ADJ:0 "トランスコーカサス"
  
  TRN:0 "トランスニストリア"
  TRN_DEF:0 "トランスニストリア"
@@ -1453,9 +1461,9 @@
  WLL_DEF:0 "ワロン"
  WLL_ADJ:0 "ワロン"
  
- ZAP:0 "ザポロージャ"
- ZAP_DEF:0 "ザポロージャ"
- ZAP_ADJ:0 "ザポロージャ"
+ ZPR:0 "ザポロージャ"
+ ZPR_DEF:0 "ザポロージャ"
+ ZPR_ADJ:0 "ザポロージャ"
  
 #アフリカ
  AFR:0 "アフリカ"
@@ -1478,9 +1486,9 @@
  KLE_DEF:0 "カレンジン"
  KLE_ADJ:0 "カレンジン"
  
- LES:0 "レソト"
- LES_DEF:0 "レソト"
- LES_ADJ:0 "レソト"
+ LSO:0 "レソト"
+ LSO_DEF:0 "レソト"
+ LSO_ADJ:0 "レソト"
  
  MAF:0 "中部アフリカ"
  MAF_DEF:0 "中部アフリカ"
@@ -1514,6 +1522,10 @@
  SAH_DEF:0 "サハラ"
  SAH_ADJ:0 "サハラ"
  
+ SCZ:0 "スエズ運河"
+ SCZ_DEF:0 "スエズ運河"
+ SCZ_ADJ:0 "スエズ運河"
+ 
  SML:0 "ソマリランド"
  SML_DEF:0 "ソマリランド"
  SML_ADJ:0 "ソマリランド"
@@ -1525,10 +1537,6 @@
  STP:0 "サントメ・プリンシペ"
  STP_DEF:0 "サントメ・プリンシペ"
  STP_ADJ:0 "サントメ・プリンシペ"
- 
- SUC:0 "スエズ運河"
- SUC_DEF:0 "スエズ運河"
- SUC_ADJ:0 "スエズ運河"
  
  SWL:0 "スワジランド"
  SWL_DEF:0 "スワジランド"
@@ -1550,9 +1558,9 @@
  WAF_DEF:0 "西アフリカ"
  WAF_ADJ:0 "西アフリカ"
  
- ZZB:0 "ザンジバル"
- ZZB_DEF:0 "ザンジバル"
- ZZB_ADJ:0 "ザンジバル"
+ ZAN:0 "ザンジバル"
+ ZAN_DEF:0 "ザンジバル"
+ ZAN_ADJ:0 "ザンジバル"
  
 #新大陸
  ATG:0 "アンティグア"
@@ -1583,25 +1591,25 @@
  KNA_DEF:0 "セントクリストファー・ネビス"
  KNA_ADJ:0 "セントクリストファー・ネビス"
  
- LCA:0 "セントルシア"
- LCA_DEF:0 "セントルシア"
- LCA_ADJ:0 "セントルシア"
- 
  NFL:0 "ニューファンドランド"
  NFL_DEF:0 "ニューファンドランド"
  NFL_ADJ:0 "ニューファンドランド"
  
- PAC:0 "パナマ運河"
- PAC_DEF:0 "パナマ運河"
- PAC_ADJ:0 "パナマ運河"
+ PCZ:0 "パナマ運河"
+ PCZ_DEF:0 "パナマ運河"
+ PCZ_ADJ:0 "パナマ運河"
  
- QUB:0 "ケベック"
- QUB_DEF:0 "ケベック"
- QUB_ADJ:0 "ケベック"
+ QEB:0 "ケベック"
+ QEB_DEF:0 "ケベック"
+ QEB_ADJ:0 "ケベック"
  
  SAC:0 "南アメリカ"
  SAC_DEF:0 "南アメリカ"
  SAC_ADJ:0 "南アメリカ"
+ 
+ SLC:0 "セントルシア"
+ SLC_DEF:0 "セントルシア"
+ SLC_ADJ:0 "セントルシア"
  
  VCT:0 "セントビンセント・グレナディーン"
  VCT_DEF:0 "セントビンセント・グレナディーン"
@@ -1628,9 +1636,9 @@
  NIU_DEF:0 "ニウエ"
  NIU_ADJ:0 "ニウエ"
  
- NRU:0 "ナウル"
- NRU_DEF:0 "ナウル"
- NRU_ADJ:0 "ナウル"
+ NMR:0 "ナウル"
+ NMR_DEF:0 "ナウル"
+ NMR_ADJ:0 "ナウル"
  
  PAO:0 "太平洋"
  PAO_DEF:0 "太平洋"
