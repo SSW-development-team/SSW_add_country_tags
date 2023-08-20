@@ -12,27 +12,21 @@ SRV	= "countries/Asia.txt"	#共産主義ベトナム
 #Commonwealth
 
 #Western Europe
-ALF	= "countries/Western Europe.txt"	#アメリカ自由連盟
+ALF	= "countries/Western Europe.txt"	#アメリカ合衆国
 BLS	= "countries/Western Europe.txt"	#ブラック・ステート
 FNO	= "countries/Western Europe.txt"	#ノルウェー王国
-FSA	= "countries/Western Europe.txt"	#アメリカ連邦
+FSA	= "countries/Western Europe.txt"	#アメリカ共和国
 IT0	= "countries/Western Europe.txt"	#イタリア
 IT1	= "countries/Western Europe.txt"	#イタリア
 IT2	= "countries/Western Europe.txt"	#イタリア
 LFF	= "countries/Western Europe.txt"	#左翼戦線
 LFS	= "countries/Western Europe.txt"	#左翼戦線南部司令部
-UTC	= "countries/Western Europe.txt"	#三社連合
+UTC	= "countries/Western Europe.txt"	#U.A.I.A
 
 #Eastern Europe
-ACO	= "countries/Eastern Europe.txt"	#貴族評議会
 BAT	= "countries/Eastern Europe.txt"	#バルト連邦
-BLO	= "countries/Eastern Europe.txt"	#ブラック・オーダー・カミンスキー旅団
-FAR	= "countries/Eastern Europe.txt"	#全ロシア民族解放統一戦線
 NBL	= "countries/Eastern Europe.txt"	#ベラルーシ国民共和国
 PLR	= "countries/Eastern Europe.txt"	#ポーランド
-RBL	= "countries/Eastern Europe.txt"	#ロシアの空解放同盟
-RLB	= "countries/Eastern Europe.txt"	#自由主義ロシア
-RSE	= "countries/Eastern Europe.txt"	#ロシア帝国
 
 #Africa
 ZW0	= "countries/Africa.txt"	#ジンバブエ

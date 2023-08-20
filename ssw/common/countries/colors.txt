@@ -1787,34 +1787,8 @@ PLR = {	#ポーランド
 	color_ui = rgb { 255 96 84 }
 }
 
-#RUS
-ACO = {	#貴族評議会
-	color = rgb { 127 79 22 }
-	color_ui = rgb { 127 79 22 }
-}
-BLO = {	#ブラック・オーダー・カミンスキー旅団
-	color = rgb { 59 59 59 }
-	color_ui = rgb { 59 59 59 }
-}
-FAR = {	#全ロシア民族解放統一戦線
-	color = rgb { 168 46 78 }
-	color_ui = rgb { 168 46 78 }
-}
-RBL = {	#ロシアの空解放同盟
-	color = rgb { 85 47 31 }
-	color_ui = rgb { 85 47 31 }
-}
-RLB = {	#自由主義ロシア
-	color = rgb { 73 29 103 }
-	color_ui = rgb { 73 29 103 }
-}
-RSE = {	#ロシア帝国
-	color = rgb { 55 88 83 }
-	color_ui = rgb { 55 88 83 }
-}
-
 #USA
-ALF = {	#アメリカ自由連盟
+ALF = {	#アメリカ合衆国
 	color = rgb { 56 86 134 }
 	color_ui = rgb { 56 86 134 }
 }
@@ -1822,7 +1796,7 @@ BLS = {	#ブラック・ステート
 	color = rgb { 0 19 29 }
 	color_ui = rgb { 0 19 29 }
 }
-FSA = {	#アメリカ連邦
+FSA = {	#アメリカ共和国
 	color = rgb { 192 192 192 }
 	color_ui = rgb { 192 192 192 }
 }
@@ -1834,7 +1808,7 @@ LFS = {	#左翼戦線南部司令部
 	color = rgb { 127 0 0 }
 	color_ui = rgb { 127 0 0 }
 }
-UTC = {	#三社連合
+UTC = {	#U.A.I.A
 	color = rgb { 189 116 198 }
 	color_ui = rgb { 189 116 198 }
 }

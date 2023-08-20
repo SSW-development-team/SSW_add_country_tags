@@ -543,6 +543,8 @@
  BUL_republic_progressive_socialism_DEF:0 "ブルガリア人民共和国"
  BUL_state:0 "ブルガリア国"
  BUL_state_DEF:0 "ブルガリア国"
+ BUL_tsardom:0 "ブルガリアツァール国"
+ BUL_tsardom_DEF:0 "ブルガリアツァール国"
  
  CAT_republic:0 "カタルーニャ共和国"
  CAT_republic_DEF:0 "カタルーニャ共和国"
