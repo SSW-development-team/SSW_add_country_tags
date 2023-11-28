@@ -1673,6 +1673,10 @@ VUT = {	#バヌアツ
 	color = rgb { 93 76 7 }
 	color_ui = rgb { 93 76 7 }
 }
+WPA = {	#西パプア
+	color = rgb { 20 115 162 }
+	color_ui = rgb { 20 115 162 }
+}
 WPO = {	#西太平洋
 	color = rgb { 247 219 0 }
 	color_ui = rgb { 247 219 0 }

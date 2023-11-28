@@ -63,6 +63,7 @@ TVL	= "countries/Asia.txt"	#ツバル
 TWN	= "countries/Asia.txt"	#台湾
 TYU	= "countries/Asia.txt"	#チュメニ
 VUT	= "countries/Asia.txt"	#バヌアツ
+WPA	= "countries/Asia.txt"	#西パプア
 WPO	= "countries/Asia.txt"	#西太平洋
 WTR	= "countries/Asia.txt"	#西トルキスタン
 
